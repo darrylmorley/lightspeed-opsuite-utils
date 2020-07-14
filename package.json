@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "axios": "^0.19.2",
+    "axios-retry": "^3.1.8",
+    "camaro": "^6.0.3",
+    "chalk": "^4.1.0",
+    "dotenv": "^8.2.0",
+    "wcf.js": "^0.0.6",
+    "yargs": "^15.4.1"
+  }
+}
