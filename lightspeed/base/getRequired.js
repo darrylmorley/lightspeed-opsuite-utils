@@ -63,7 +63,10 @@ const getQueriesNeeded = async () => {
     const queriesNeeded = Math.ceil(totalItems / 100);
     return queriesNeeded;
   } catch (error) {
-    console.error("Somethings up: ", error.response.data);
+    if (error.response.data.httpCode === "401") {
+    } else {
+      console.error("Somethings up: ", error.response.data);
+    }
   }
 };
 
