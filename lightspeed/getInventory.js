@@ -10,8 +10,9 @@ const axios = require("axios");
 const fs = require("fs");
 
 const getInventory = async () => {
-  const token = await refreshToken();
-  const accountID = await getAccountID();
+  let token = await refreshToken();
+  console.log(token)
+  let accountID = await getAccountID();
   const queries = await getQueriesNeeded();
   const header = {
     Authorization: `Bearer ${token}`,
@@ -29,6 +30,34 @@ const getInventory = async () => {
           method: "get",
           headers: header,
         });
+
+        axios.interceptors.response.use((response) => {
+          return response
+        }, async (error) => {
+          const originalRequest = error.config
+
+          if(error.response.status === 401 && !originalRequest._retry) {
+            console.log('There was an error connecting to Lightspeed trying again.')
+            originalRequest._retry = true;
+
+            token = await refreshToken();
+            accountID = await getAccountID();
+
+            console.log(token, accountID)
+
+            const res = await axios({
+              url: `${lightspeedApi}/Account/${accountID}/Item.json?load_relations=${JSON.stringify(
+                loadRelations
+              )}&offset=${i * 100}&customSku=!~,`,
+              method: "get",
+              headers: header,
+            });
+            console.log(res.response.data)
+            return res
+          }
+          return error
+        })
+
         console.log(`adding items ${i * 100} through ${(i + 1) * 100}`);
         const items = await res.data.Item;
         items[0]
@@ -36,6 +65,7 @@ const getInventory = async () => {
           : fullInventory.push(items);
 
         if (i + 1 === queries) {
+          console.log('Writing results to file lsInventory.json in data/json')
           fs.writeFile(
             "../data/json/lsInventory.json",
             JSON.stringify(fullInventory),
@@ -47,11 +77,8 @@ const getInventory = async () => {
           );
           return fullInventory;
         }
-      } catch (err) {
-        if (condition) {
-        } else {
-          console.error("Oh yeah we have a problem here: ", err);
-        }
+      } catch (error) {
+        console.error("Oh yeah we have a problem here: ", error.response.data);
       }
     }, 2000 * i);
   }

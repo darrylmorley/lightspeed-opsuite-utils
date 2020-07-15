@@ -1,6 +1,6 @@
 // Functions to get the LS token, accountID and the number of requests needed.
 
-require("dotenv").config({ path: "../.env" });
+require("dotenv").config({path: '../.env'});
 const axios = require("axios");
 const lightspeedApi = "https://api.lightspeedapp.com/API";
 
@@ -24,7 +24,7 @@ const refreshToken = async () => {
     const token = await response.data.access_token;
     return token;
   } catch (error) {
-    if (error) console.error("We have a problem! Could not get token.", error);
+    if (error) console.error("We have a problem! Could not get token.", error.response.data);
   }
 };
 
@@ -42,8 +42,8 @@ const getAccountID = async () => {
     });
     let accountID = await res.data.Account.accountID;
     return accountID;
-  } catch (err) {
-    console.error("Oh no, somethings wrong!", err);
+  } catch (error) {
+    console.error("Oh no, somethings wrong!", error.response.data);
   }
 };
 
@@ -65,10 +65,7 @@ const getQueriesNeeded = async () => {
     const queriesNeeded = Math.ceil(totalItems / 100);
     return queriesNeeded;
   } catch (error) {
-    if (error.response.data.httpCode === "401") {
-    } else {
-      console.error("Somethings up: ", error.response.data);
-    }
+    console.error("Somethings up: ", error.response.data);
   }
 };
 
