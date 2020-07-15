@@ -31,33 +31,6 @@ const getInventory = async () => {
           headers: header,
         });
 
-        axios.interceptors.response.use((response) => {
-          return response
-        }, async (error) => {
-          const originalRequest = error.config
-
-          if(error.response.status === 401 && !originalRequest._retry) {
-            console.log('There was an error connecting to Lightspeed trying again.')
-            originalRequest._retry = true;
-
-            token = await refreshToken();
-            accountID = await getAccountID();
-
-            console.log(token, accountID)
-
-            const res = await axios({
-              url: `${lightspeedApi}/Account/${accountID}/Item.json?load_relations=${JSON.stringify(
-                loadRelations
-              )}&offset=${i * 100}&customSku=!~,`,
-              method: "get",
-              headers: header,
-            });
-            console.log(res.response.data)
-            return res
-          }
-          return error
-        })
-
         console.log(`adding items ${i * 100} through ${(i + 1) * 100}`);
         const items = await res.data.Item;
         items[0]
