@@ -1,3 +1,5 @@
+// Get items at Opsuite location, filtered with Camaro.
+
 const BasicHttpBinding = require("wcf.js").BasicHttpBinding;
 const fs = require("fs");
 const Proxy = require("wcf.js").Proxy;

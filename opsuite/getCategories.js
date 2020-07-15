@@ -1,3 +1,5 @@
+// Get all categories, names & id's from Opsuite.
+
 const BasicHttpBinding = require("wcf.js").BasicHttpBinding;
 const WSHttpBinding = require("wcf.js").WSHttpBinding;
 const fs = require("fs");

@@ -1,3 +1,5 @@
+// Functions to get the LS token, accountID and the number of requests needed.
+
 require("dotenv").config({ path: "../.env" });
 const axios = require("axios");
 const lightspeedApi = "https://api.lightspeedapp.com/API";

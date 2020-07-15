@@ -1,3 +1,5 @@
+// Get all Opsuite item masters, filtered with Camaro.
+
 const BasicHttpBinding = require("wcf.js").BasicHttpBinding;
 const WSHttpBinding = require("wcf.js").WSHttpBinding;
 const fs = require("fs");

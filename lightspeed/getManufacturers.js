@@ -1,3 +1,5 @@
+// Get manufacturer names and details from Lightspeed Retail.
+
 const { refreshToken, getAccountID } = require("./base/getRequired");
 const lightspeedApi = "https://api.lightspeedapp.com/API";
 const axios = require("axios");

@@ -1,3 +1,5 @@
+// Get all categories and details from Lightspeed retail.
+
 const { refreshToken, getAccountID } = require("./base/getRequired");
 const lightspeedApi = "https://api.lightspeedapp.com/API";
 const axios = require("axios");

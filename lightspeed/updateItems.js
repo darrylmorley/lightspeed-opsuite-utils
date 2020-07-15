@@ -1,3 +1,5 @@
+// Update item ean, cost, qoh & sale value in Lightspeed Retail.
+
 const {
   refreshToken,
   getAccountID,

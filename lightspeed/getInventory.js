@@ -1,3 +1,5 @@
+// Get full Inventory from Lightspeed Retail.
+
 const {
   refreshToken,
   getAccountID,
