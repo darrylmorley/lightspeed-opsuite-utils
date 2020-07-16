@@ -4,7 +4,7 @@ const BasicHttpBinding = require("wcf.js").BasicHttpBinding;
 const WSHttpBinding = require("wcf.js").WSHttpBinding;
 const fs = require("fs");
 const Proxy = require("wcf.js").Proxy;
-const dotenv = require("dotenv").config();
+const dotenv = require("dotenv").config({path: '../.env'});
 const { transform, prettyPrint } = require("camaro");
 
 const getOpsuiteItemMasters = () => {
@@ -24,8 +24,8 @@ const getOpsuiteItemMasters = () => {
 
     let exportType = "ExportItems";
     let status = "BatchAll";
-    let startDate = "2020-07-11T08:00:00";
-    let endDate = "2020-07-11T20:00:00";
+    let startDate = "2020-07-16T08:00:00Z";
+    let endDate = "2020-07-16T20:00:00Z";
 
     const message =
       '<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="http://www.opsuite.com/opservices/2013/08">' +

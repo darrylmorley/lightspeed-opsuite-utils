@@ -17,6 +17,22 @@ const getInventory = async () => {
   const header = {
     Authorization: `Bearer ${token}`,
   };
+
+  axios.interceptors.response.use(
+    response => {
+      return response;
+    },
+    async error => {
+      if (error.config && error.response && error.response.status === 401) {
+        const token = await refreshToken();
+        error.config.headers[Authorization] = `Bearer ${token.token}`;
+        return axios.request(error.config);
+      }
+
+      return Promise.reject(error);
+    },
+  );
+
   const loadRelations = ["ItemShops", "Images", "CustomFieldValues"];
   let fullInventory = [];
 
