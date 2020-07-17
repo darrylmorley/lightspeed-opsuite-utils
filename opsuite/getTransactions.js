@@ -24,7 +24,7 @@ const getOpsuiteItemMasters = () => {
 
     let exportType = "ExportItems";
     let status = "BatchAll";
-    let startDate = "2020-07-16T08:00:00Z";
+    let startDate = "2020-07-16T07:00:00Z";
     let endDate = "2020-07-16T20:00:00Z";
 
     const message =
