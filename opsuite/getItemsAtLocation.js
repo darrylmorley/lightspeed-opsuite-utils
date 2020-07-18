@@ -41,6 +41,8 @@ const getItemsAtLocation = () => {
           defaultCost: "a:Cost",
           price: "a:PriceIncTax",
           quantity: "a:QtyOnHand",
+          maxRestockLevel: "a:MaxRestockLevel",
+          minReorderPoint: "a:MinReorderPoint"
         },
       ],
     };

@@ -40,6 +40,7 @@ const template = {
       description: "normalize-space(a:Description)",
       brand: "normalize-space(a:Manufacturer)",
       cost: "normalize-space(a:Cost)",
+      vendorCost: "normalize-space(a:PrimaryVendorCost)",
       price: "normalize-space(a:PriceIncTax)",
       taxable: "normalize-space(a:Taxable)",
       tax: "normalize-space(a:Taxable)",
