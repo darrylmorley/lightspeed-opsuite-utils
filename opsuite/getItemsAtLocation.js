@@ -3,7 +3,7 @@
 const BasicHttpBinding = require("wcf.js").BasicHttpBinding;
 const fs = require("fs");
 const Proxy = require("wcf.js").Proxy;
-const dotenv = require("dotenv").config();
+const dotenv = require("dotenv").config({path: '../.env'});
 const { transform, prettyPrint } = require("camaro");
 
 const getItemsAtLocation = () => {
@@ -53,7 +53,7 @@ const getItemsAtLocation = () => {
 
       async function (response, err) {
         if (response) {
-          fs.writeFile("./data/xml/opsuiteItemsAtLocation", response, (err) => {
+          fs.writeFile("../data/xml/opsuiteItemsAtLocation.xml", response, (err) => {
             if (err) console.error(err);
           });
           const result = await transform(response, template);
@@ -64,20 +64,24 @@ const getItemsAtLocation = () => {
 
           const filteredProducts = await products.map((item) => {
             return {
-              sku: item.customSku.toUpperCase(),
-              price: item.price,
-              quantity: item.quantity,
+              customSku: item.customSku.toUpperCase(),
+              description: item.description,
+              amount: item.price,
+              qoh: item.quantity,
+              reorderPoint: item.minReorderPoint,
+              reorderLevel: item.maxRestockLevel
             };
           });
 
           fs.writeFile(
-            "./data/json/opsuiteItemsAtLocation.json",
+            "../data/json/opsuiteItemsAtLocation.json",
             JSON.stringify(filteredProducts),
             (err) => {
               if (err) console.error(err);
             }
           );
         }
+        if (err) console.error(err)
       }
     );
   });

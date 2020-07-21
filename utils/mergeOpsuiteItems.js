@@ -1,34 +1,43 @@
 const fs = require("fs");
+const chalk = require('chalk')
+
 let opsuiteItemMasters = JSON.parse(
-  fs.readFileSync("./data/json/opsuiteItemMasters.json", "utf-8")
+  fs.readFileSync("../data/json/opsuiteItemMasters.json", "utf-8")
 );
 let opsuiteItemsAtLocation = JSON.parse(
-  fs.readFileSync("./data/json/opsuiteItemsAtLocation.json", "utf-8")
+  fs.readFileSync("../data/json/opsuiteItemsAtLocation.json", "utf-8")
 );
 
 const mergeOpsuiteItems = async () => {
+  console.log(chalk.bgGreen.black('Merging Opsuite Item Masters & Opsuite Items At Location'));
+  
   const merged = opsuiteItemMasters
     .map((item) => {
-      itm = opsuiteItemsAtLocation.find((itm) => itm.sku.replace(/\s*$/,"") === item.customSku.replace(/\s*$/,""));
+      itm = opsuiteItemsAtLocation.find((itm) => itm.customSku.replace(/\s*$/,"") === item.customSku.replace(/\s*$/,""));
       if (itm) {
         return {
-          defaultCost: item.cost,
+          customSku: item.customSku,
+          description: item.description,
+          itemType: "default",
           discountable: "true",
           tax: item.taxable,
-          itemType: "default",
-          description: item.description,
-          ean: item.barcodeNumber,
-          customSku: item.customSku,
+          qoh: itm.qoh,
+          defaultCost: item.vendorCost,
+          avgCost: item.cost,
           amount: item.price,
-          qty: itm.quantity
+          ean: item.barcodeNumber,
+          note: item.note,
+          reorderPoint: itm.reorderPoint,
+          reorderLevel: itm.reorderLevel
         };
       }
     })
     .filter((itm) => itm !== undefined);
 
-  fs.writeFile("./data/json/opsuiteItemsMerged.json", JSON.stringify(merged), (err) => {
-    if (err) throw error;
+  fs.writeFile("../data/json/opsuiteItemsMerged.json", JSON.stringify(merged), (err) => {
+    if (err) console.error(chalk.bgRed.black(err));
   });
+  console.log(chalk.bgGreen.black('Results have been written to file opsuiteItemsMerged.json @ data/json'));
 };
 
 mergeOpsuiteItems();

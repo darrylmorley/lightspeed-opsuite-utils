@@ -1,46 +1,58 @@
-// Update item ean, cost, qoh & sale value in Lightspeed Retail.
+// Update items as per postBody.
 
 const {
   refreshToken,
   getAccountID,
 } = require("./base/getRequired");
 const lightspeedApi = "https://api.lightspeedapp.com/API";
-const items = require('../data/json/', 'utf-8')
+const items = require('../data/json/opsuiteLsMerged.json', 'utf-8')
 const axios = require("axios");
 const fs = require("fs");
 
-const postBody = `{
-  "ean": ${item.ean},
-  "defaultCost": ${item.cost},
-  "ItemShops": {
-    "ItemShop": [
-      {
-        "itemShopID": ${item.itemShopID},
-        "qoh": ${item.qoh}
-      }
-    ]
-  },
-  "Prices": {
-    "ItemPrice": [
-      {
-        amount: ${item.amount},
-      }
-    ]
-  }
-}`;
-
 const updateItems = async () => {
-  const token = await refreshToken();
+  
+  const setHeader = async () => {
+    const token = await refreshToken()
+    const header = {
+      Authorization: `Bearer ${token}`,
+    };
+    return header
+  }
+  
   const accountID = await getAccountID();
-  const header = {
-    Authorization: `Bearer ${token}`,
-  };
-
+  const header = await setHeader()
+  
   items.forEach((item) => {
-    setTimeout(() => {
+    const postBody = `{
+      "ean": "${item.ean}",
+      "defaultCost": "${item.defaultCost}",
+      "tax": "true",
+      "itemType": "default",
+      "ItemShops": {
+        "ItemShop": [
+          {
+            "itemShopID": "${item.itemShopID}",
+            "qoh": "${item.qoh}",
+            "reorderPoint": "${item.reorderPoint}",
+            "reorderLevel": "${item.reorderLevel}"
+          }
+        ]
+      },
+      "Prices": {
+        "ItemPrice": [
+          {
+            "useTypeID": "1",
+            "useType": "Default",
+            "amount": "${item.amount}"
+          }
+        ]
+      }
+    }`;
+
+    setTimeout(async () => {
       try {
         const res = await axios({
-          url: `${lightspeedApi}/API/Account/${accountID}/Item/${itemID}.json`,
+          url: `${lightspeedApi}/API/Account/${accountID}/Item/${item.id}.json`,
           method: 'put',
           headers: header
         })
@@ -51,6 +63,27 @@ const updateItems = async () => {
         return err;
       }
     }, 10000)
+
+    axios.interceptors.response.use(function(response) {
+      return response;
+    }, async function(error) {
+        await new Promise(function(res) {
+          setTimeout(function() {res()}, 10000);
+         });
+  
+      const originalRequest = error.config;
+  
+      if (error.response.status===401 && !originalRequest._retry) {
+        originalRequest._retry = true;
+        const refreshedHeader = await setHeader()
+        console.log('New header: ', refreshedHeader)
+        axios.defaults.headers = refreshedHeader
+        originalRequest.headers = refreshedHeader
+        console.log('Original Request: ', originalRequest)
+        return axios(originalRequest);
+      }
+      return Promise.reject(error);
+    });  
   })
 }
 

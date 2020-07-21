@@ -2,12 +2,15 @@
 
 const BasicHttpBinding = require("wcf.js").BasicHttpBinding;
 const WSHttpBinding = require("wcf.js").WSHttpBinding;
+const chalk = require('chalk')
 const fs = require("fs");
 const Proxy = require("wcf.js").Proxy;
 const dotenv = require("dotenv").config({path: '../.env'});
 const { transform } = require("camaro");
 
 const getOpsuiteItemMasters = () => {
+  console.log(chalk.bgGreen.black('Getting Item Masters from Opsuite API'));
+
   return new Promise((resolve, reject) => {
     const binding = new BasicHttpBinding({
     SecurityMode: "TransportWithMessageCredential",
@@ -49,7 +52,8 @@ const template = {
       barcodeNumber: "normalize-space(a:BarcodeNumber)",
       quantity: "normalize-space(a:QtyInParent)",
       maxLevel: "normalize-space(a:MaxRestockLevel)",
-      min: "normalize-space(a:MinReorderPoint)"
+      min: "normalize-space(a:MinReorderPoint)",
+      note: "normalize-space(a:Notes)"
     }
   ]
 };
@@ -60,19 +64,22 @@ const getOpsuiteItems = proxy.send(
     
     async function(response, err) {
       if (response) {
+        console.log(chalk.bgGreen.black('Writing Item Masters to File opsuiteItemMasters: XML @ data/xml, JSON @ data/json'))
+        
         fs.writeFile('../data/xml/opsuiteItemMasters.xml', response, (err) => {
-          if (err) console.error(err)
+          if (err) console.error(chalk.bgRed.black(err));
         })
+        
         const result = await transform(response, template)
         let products = result.products.filter((item) => {
           return item.active = true;
         })
+        
         fs.writeFile('../data/json/opsuiteItemMasters.json', JSON.stringify(products), (err) => {
-          if (err) throw err;
+          if (err) console.error(chalk.bgRed.black(err));
         })
     
-        if (err) {console.error('OMG an error: ', err)}
-        resolve(response)
+        if (err) console.error(chalk.bgRed.black('OMG an error: ', err));
       }
   });
 })
