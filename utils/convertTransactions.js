@@ -80,6 +80,7 @@ let na = merged
         SaleLine: [
           {
             itemID: itemID,
+            unitPrice: unitPrice,
             unitQuantity: qty,
             //...(discount && { discountAmount: discount }),
             discountAmount: discount.split("-").join("") || 0,

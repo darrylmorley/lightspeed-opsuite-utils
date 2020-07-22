@@ -1,12 +1,11 @@
 const fs = require("fs");
 const axios = require("axios");
 const { refreshToken, getAccountID } = require("../lightspeed/base/getRequired_TEST");
+const { black } = require("chalk");
 const lightspeedApi = "https://api.lightspeedapp.com/API";
-const data = JSON.parse(
-  fs.readFileSync('../data/json/opsuiteTransactions-2017.json', "utf-8")
+const sales = JSON.parse(
+  fs.readFileSync('../data/json/transactionsToPost_TEST.json', "utf-8")
 );
-
-const sales = data.transactions
 
 const setHeader = async () => {
   const token = await refreshToken()
@@ -44,10 +43,8 @@ const postTransactions = async () => {
         if (error.response.status===401 && !originalRequest._retry) {
           originalRequest._retry = true;
           const refreshedHeader = await setHeader()
-          console.log('New header: ', refreshedHeader)
           axios.defaults.headers = refreshedHeader
           originalRequest.headers = refreshedHeader
-          console.log('Original Request: ', originalRequest)
           return axios(originalRequest);
         }
         return Promise.reject(error);
@@ -59,13 +56,17 @@ const postTransactions = async () => {
           const data = console.log(
             "Token: " + JSON.stringify(header),
             "\n",
-            "Data: " + JSON.stringify(postBody),
+            'Body: ' + JSON.stringify(postBody),
             "\n",
             "Status: " + JSON.stringify(res.status),
             "\n"
           );
         } catch (err) {
-          console.error(err.data, options);
+          if (err.response.status === 400) {
+            fs.appendFile('../data/json/postTransactionsErrors_TEST.json', JSON.stringify(err), (err) => console.error(err));
+            return err
+          }
+          console.error(header, err.response);
           return;
         }
       };

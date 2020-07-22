@@ -1,5 +1,5 @@
 const fs = require("fs");
-const employees = JSON.parse(fs.readFileSync('../data/json/Employees.json', 'utf-8'))
+const employees = JSON.parse(fs.readFileSync('../data/json/Employees_TEST.json', 'utf-8'))
 const items = JSON.parse(fs.readFileSync('../data/json/opsuiteLsMerged.json', 'utf-8'))
 const transactions = JSON.parse(fs.readFileSync('../data/json/opsuiteTransactions-2017.json', 'utf-8'))
 const paymentTypes = JSON.parse(fs.readFileSync('../data/json/paymentTypes.json', 'utf-8'))
@@ -18,8 +18,8 @@ const merged = transactions.transactions.map((transaction) => {
     ) || {};
   {
     return {
-      cashierID: employee.employeeID,
-      cashierName: transaction.cashierName,
+      cashierID: employee.employeeID || '2',
+      cashierName: transaction.cashierName || 'Antony Bill',
       discountReason: transaction.discountReason,
       discount: transaction.discount,
       cost: transaction.cost,
@@ -81,6 +81,7 @@ let na = merged
         SaleLine: [
           {
             itemID: itemID,
+            unitPrice: unitPrice,
             unitQuantity: qty,
             //...(discount && { discountAmount: discount }),
             discountAmount: discount.split("-").join("") || 0,
