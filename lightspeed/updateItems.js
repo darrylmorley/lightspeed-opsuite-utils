@@ -9,23 +9,24 @@ const items = require('../data/json/opsuiteLsMerged.json', 'utf-8')
 const axios = require("axios");
 const fs = require("fs");
 
-const updateItems = async () => {
-  
-  const setHeader = async () => {
-    const token = await refreshToken()
-    const header = {
-      Authorization: `Bearer ${token}`,
-    };
-    return header
-  }
-  
+const setHeader = async () => {
+  const token = await refreshToken()
+  const header = {
+    Authorization: `Bearer ${token}`,
+  };
+  return header
+}
+
+const updateItems = async () => {  
   const accountID = await getAccountID();
   const header = await setHeader()
   
-  items.forEach((item) => {
-    const postBody = `{
+  items.forEach((item, index) => {
+    setTimeout(async () => {
+    
+      const postBody = `{
       "ean": "${item.ean}",
-      "defaultCost": "${item.defaultCost}",
+      "defaultCost": "${item.avgCost}",
       "tax": "true",
       "itemType": "default",
       "ItemShops": {
@@ -46,23 +47,15 @@ const updateItems = async () => {
             "amount": "${item.amount}"
           }
         ]
-      }
+      },
+      "Tags": {
+				"Tag": [
+					{
+						"name": "${item.location}"
+					}
+				]
+			}
     }`;
-
-    setTimeout(async () => {
-      try {
-        const res = await axios({
-          url: `${lightspeedApi}/API/Account/${accountID}/Item/${item.id}.json`,
-          method: 'put',
-          headers: header
-        })
-        console.log(res.data)
-        return res.data
-      } catch (err) {
-        if (err) console.error('We have a problem: ', err)
-        return err;
-      }
-    }, 10000)
 
     axios.interceptors.response.use(function(response) {
       return response;
@@ -70,9 +63,9 @@ const updateItems = async () => {
         await new Promise(function(res) {
           setTimeout(function() {res()}, 10000);
          });
-  
+    
       const originalRequest = error.config;
-  
+    
       if (error.response.status===401 && !originalRequest._retry) {
         originalRequest._retry = true;
         const refreshedHeader = await setHeader()
@@ -83,7 +76,22 @@ const updateItems = async () => {
         return axios(originalRequest);
       }
       return Promise.reject(error);
-    });  
+    }); 
+   
+    try {
+      const res = await axios({
+        url: `${lightspeedApi}/Account/${accountID}/Item/${item.id}.json`,
+        method: 'put',
+        headers: header,
+        data: postBody
+      })
+      console.log(res.data)
+      return res.data
+    } catch (err) {
+      if (err) console.error('We have a problem: ', err)
+      return err;
+    }
+  }, index * 10000) 
   })
 }
 

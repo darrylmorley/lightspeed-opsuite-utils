@@ -83,11 +83,15 @@ const getOpsuiteItemMasters = () => {
       async function (response, err) {
         if (response) {
           console.log(response);
+          
           fs.writeFile("../data/xml/opsuiteTransactions.xml", response, (err) => {
             console.error(err);
           });
+          
           const result = await transform(response, template);
+          
           const converted = JSON.stringify(result);
+          
           fs.writeFile(
             "../data/json/opsuiteTransactions.json", converted, (err) => {
               if (err) throw err;
@@ -96,8 +100,7 @@ const getOpsuiteItemMasters = () => {
 
           resolve(response);
         }
-      }
-    );
+      });
   });
 };
 

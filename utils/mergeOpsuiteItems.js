@@ -1,10 +1,10 @@
 const fs = require("fs");
 const chalk = require('chalk')
 
-let opsuiteItemMasters = JSON.parse(
+const opsuiteItemMasters = JSON.parse(
   fs.readFileSync("../data/json/opsuiteItemMasters.json", "utf-8")
 );
-let opsuiteItemsAtLocation = JSON.parse(
+const opsuiteItemsAtLocation = JSON.parse(
   fs.readFileSync("../data/json/opsuiteItemsAtLocation.json", "utf-8")
 );
 
@@ -28,7 +28,7 @@ const mergeOpsuiteItems = async () => {
           ean: item.barcodeNumber,
           note: item.note,
           reorderPoint: itm.reorderPoint,
-          reorderLevel: itm.reorderLevel
+          reorderLevel: itm.reorderLevel,
         };
       }
     })

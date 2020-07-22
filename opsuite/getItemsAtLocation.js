@@ -5,6 +5,7 @@ const fs = require("fs");
 const Proxy = require("wcf.js").Proxy;
 const dotenv = require("dotenv").config({path: '../.env'});
 const { transform, prettyPrint } = require("camaro");
+const chalk = require('chalk')
 
 const getItemsAtLocation = () => {
   return new Promise((resolve, reject) => {
@@ -47,15 +48,18 @@ const getItemsAtLocation = () => {
       ],
     };
 
-    proxy.send(
+    const getItems = proxy.send(
       message,
       "http://www.opsuite.com/opservices/2013/08/IInventoryService/GetItemsAtLocation",
 
       async function (response, err) {
         if (response) {
+          console.log(chalk.bgGreen.black('Writing Items At Location to File opsuiteItemsAtLocation: XML @ data/xml, JSON @ data/json'))
+          
           fs.writeFile("../data/xml/opsuiteItemsAtLocation.xml", response, (err) => {
             if (err) console.error(err);
           });
+          
           const result = await transform(response, template);
 
           let products = result.products.filter((item) => {
@@ -73,17 +77,14 @@ const getItemsAtLocation = () => {
             };
           });
 
-          fs.writeFile(
-            "../data/json/opsuiteItemsAtLocation.json",
-            JSON.stringify(filteredProducts),
-            (err) => {
+          fs.writeFile("../data/json/opsuiteItemsAtLocation.json", JSON.stringify(filteredProducts), (err) => {
               if (err) console.error(err);
             }
           );
+          
+          if (err) console.error(err)
         }
-        if (err) console.error(err)
-      }
-    );
+      });
   });
 };
 

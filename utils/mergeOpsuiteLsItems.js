@@ -24,6 +24,7 @@ const merged = mergedItems.map((item) => {
       reorderPoint: item.reorderPoint,
       reorderLevel: item.reorderLevel,
       ean: item.ean,
+      location: item.location
     }
   }
 }).filter((item) => item !== undefined);
