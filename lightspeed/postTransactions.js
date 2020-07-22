@@ -64,6 +64,10 @@ const postTransactions = async () => {
             "\n"
           );
         } catch (err) {
+          if (err.response.status === 400) {
+            fs.appendFile('../data/errors/postTransactionErrors.json', JSON.stringify(err), (err) => console.error(err));
+            return err
+          }
           console.error(err.data, options);
           return;
         }

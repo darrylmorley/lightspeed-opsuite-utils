@@ -82,6 +82,7 @@ let na = merged
           {
             itemID: itemID,
             unitPrice: unitPrice,
+            calcTax1: tax,
             unitQuantity: qty,
             //...(discount && { discountAmount: discount }),
             discountAmount: discount.split("-").join("") || 0,
