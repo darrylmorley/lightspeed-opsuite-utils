@@ -24,8 +24,8 @@ const getOpsuiteItemMasters = () => {
 
     let exportType = "ExportItems";
     let status = "BatchAll";
-    let startDate = "2020-07-16T07:00:00Z";
-    let endDate = "2020-07-16T20:00:00Z";
+    let startDate = "2020-01-01T07:00:00Z";
+    let endDate = "2020-12-31T20:00:00Z";
 
     const message =
       '<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="http://www.opsuite.com/opservices/2013/08">' +
@@ -93,7 +93,7 @@ const getOpsuiteItemMasters = () => {
           const converted = JSON.stringify(result);
           
           fs.writeFile(
-            "../data/json/opsuiteTransactions.json", converted, (err) => {
+            "../data/json/opsuiteTransactions-2020.json", converted, (err) => {
               if (err) throw err;
             }
           );
