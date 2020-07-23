@@ -62,7 +62,7 @@ const postTransactions = async () => {
             "\n"
           );
         } catch (err) {
-          if (err.response.status === 400) {
+          if (err.response.status === 400 || 422) {
             fs.appendFile('../data/errors/postTransactionsErrors_TEST.json', JSON.stringify(err), (err) => console.error(err));
             return err
           }

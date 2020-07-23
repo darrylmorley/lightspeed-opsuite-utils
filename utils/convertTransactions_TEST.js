@@ -1,7 +1,7 @@
 const fs = require("fs");
 const employees = JSON.parse(fs.readFileSync('../data/json/Employees_TEST.json', 'utf-8'))
 const items = JSON.parse(fs.readFileSync('../data/json/opsuiteLsMerged.json', 'utf-8'))
-const transactions = JSON.parse(fs.readFileSync('../data/json/opsuiteTransactions-2017.json', 'utf-8'))
+const transactions = JSON.parse(fs.readFileSync('../data/json/opsuiteTransactions-Jan2018.json', 'utf-8'))
 const paymentTypes = JSON.parse(fs.readFileSync('../data/json/paymentTypes.json', 'utf-8'))
 
 
@@ -81,11 +81,13 @@ let na = merged
         SaleLine: [
           {
             itemID: itemID,
+            ...(itemID === undefined && { itemID: '4439', Note: description }),
             unitPrice: unitPrice,
-            calcTax1: tax,
             unitQuantity: qty,
             //...(discount && { discountAmount: discount }),
             discountAmount: discount.split("-").join("") || 0,
+            // If discount is applied on refund
+            ...(unitQuantity.includes('-') && { discountAmount: '-' +  discount || 0,}),
             // prettier-ignore
             // 4457 = Gun Repairs
             ...(itemID === "4457" && { unitPrice: unitPrice }),

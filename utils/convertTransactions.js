@@ -80,6 +80,8 @@ let na = merged
         SaleLine: [
           {
             itemID: itemID,
+            // If an item ID can not be matched, use Miscellaneous item and create note of Item description.
+            ...(itemID === undefined && { itemID: '4439', Note: description }),
             unitPrice: unitPrice,
             unitQuantity: qty,
             //...(discount && { discountAmount: discount }),
@@ -104,6 +106,7 @@ let na = merged
             ...(itemID === "539" && { unitPrice: unitPrice }),
             // 4430 - Gift Voucher
             ...(itemID === "4430" && { unitPrice: unitPrice }),
+            // Tax rules
             ...(tax && parseFloat(tax) > 0 && { tax: true }),
             ...(tax && parseInt(tax) === 0 && { tax: false }),
             ...(tax && parseFloat(tax) > 0 && { calTax1: tax.split("-").join("") || 0}),
