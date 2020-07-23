@@ -88,6 +88,10 @@ const updateItems = async () => {
       console.log(res.data)
       return res.data
     } catch (err) {
+      if (err.response.status === 400) {
+        fs.appendFile('../data/errors/updateItems-errors.json', JSON.stringify(err), (err) => console.error(err));
+        return err
+      }
       if (err) console.error('We have a problem: ', err)
       return err;
     }
