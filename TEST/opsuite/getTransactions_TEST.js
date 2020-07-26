@@ -4,7 +4,7 @@ const BasicHttpBinding = require("wcf.js").BasicHttpBinding;
 const WSHttpBinding = require("wcf.js").WSHttpBinding;
 const fs = require("fs");
 const Proxy = require("wcf.js").Proxy;
-const dotenv = require("dotenv").config({path: '../.env'});
+const dotenv = require("dotenv").config({path: '../../.env'});
 const { transform, prettyPrint } = require("camaro");
 
 const getOpsuiteItemMasters = () => {
@@ -22,10 +22,10 @@ const getOpsuiteItemMasters = () => {
     proxy.ClientCredentials.Username.Username = process.env.API_USER;
     proxy.ClientCredentials.Username.Password = process.env.API_PASS;
 
+    let status = 'BatchAll';
     let exportType = "ExportItems";
-    let status = "BatchAll";
-    let startDate = "2018-04-01T07:00:00Z";
-    let endDate = "2018-04-30T20:00:00Z";
+    let startDate = "2018-09-01T07:00:00Z";
+    let endDate = "2018-09-30T23:00:00Z";
 
     const message =
       '<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="http://www.opsuite.com/opservices/2013/08">' +
@@ -37,7 +37,6 @@ const getOpsuiteItemMasters = () => {
       `<ns:status>${status}</ns:status>` +
       `<ns:startDate>${startDate}</ns:startDate>` +
       `<ns:endDate>${endDate}</ns:endDate>` +
-      // "<ns:lastBatchNumber>?</ns:lastBatchNumber>" +
       "</ns:GLExportByLocationIdAndBatchStatus>" +
       "</soapenv:Body>" +
       "</soapenv:Envelope>";
@@ -83,8 +82,6 @@ const getOpsuiteItemMasters = () => {
 
       async function (response, err) {
         if (response) {
-          console.log(response);
-          
           fs.writeFile("../data/xml/opsuiteTransactions.xml", response, (err) => {
             console.error(err);
           });
@@ -94,7 +91,7 @@ const getOpsuiteItemMasters = () => {
           const converted = JSON.stringify(result);
           
           fs.writeFile(
-            "../data/json/opsuiteTransactions-Apr2018.json", converted, (err) => {
+            "../data/json/opsuiteTransactions-Sep2018.json", converted, (err) => {
               if (err) throw err;
             }
           );

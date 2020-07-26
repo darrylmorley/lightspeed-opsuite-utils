@@ -1,7 +1,7 @@
 const fs = require("fs");
-const employees = JSON.parse(fs.readFileSync('../data/json/Employees_TEST.json', 'utf-8'))
+const employees = JSON.parse(fs.readFileSync('../data/json/Employees.json', 'utf-8'))
 const items = JSON.parse(fs.readFileSync('../data/json/opsuiteLsMerged.json', 'utf-8'))
-const transactions = JSON.parse(fs.readFileSync('../data/json/opsuiteTransactions-Jan2018.json', 'utf-8'))
+const transactions = JSON.parse(fs.readFileSync('../data/json/opsuiteTransactions-Aug2018.json', 'utf-8'))
 const paymentTypes = JSON.parse(fs.readFileSync('../data/json/paymentTypes.json', 'utf-8'))
 
 
@@ -81,33 +81,39 @@ let na = merged
         SaleLine: [
           {
             itemID: itemID,
-            ...(itemID === undefined && { itemID: '4439', Note: description }),
+            ...(itemID === undefined && { itemID: '3196', Note: description }),
             unitPrice: unitPrice,
+            ...(cost && {avgCost: cost}),
             unitQuantity: qty,
             //...(discount && { discountAmount: discount }),
             discountAmount: discount.split("-").join("") || 0,
             // If discount is applied on refund
-            ...(unitQuantity.includes('-') && { discountAmount: '-' +  discount || 0,}),
+            ...(qty.includes('-') && discount > 0 && { discountAmount: `-${discount}` || 0,}),
             // prettier-ignore
-            // 4457 = Gun Repairs
-            ...(itemID === "4457" && { unitPrice: unitPrice }),
-            ...(itemID === "4457" && { Note: note }),
-            // 4441 - 2nd Hand Goods
-            ...(itemID === "4441" && { unitPrice: unitPrice }),
-            ...(itemID === "4441" && { Note: note }),
-            // 4439 - Miscellaneous Item
-            ...(itemID === "4439" && { unitPrice: unitPrice }),
-            ...(itemID === "4439" && { Note: note }),
-            // 4478 - Post & Packing
-            ...(itemID === "4478" && { unitPrice: unitPrice }),
-            ...(itemID === "4478" && { Note: note }),
-            // 4455 - Deposit
-            ...(itemID === "4455" && { unitPrice: unitPrice }),
-            ...(itemID === "4455" && { Note: note }),
-            // 539 - Parcelforce
-            ...(itemID === "539" && { unitPrice: unitPrice }),
-            // 4430 - Gift Voucher
-            ...(itemID === "4430" && { unitPrice: unitPrice }),
+            // GUN REPAIRS
+            ...(itemID === "3215" && { unitPrice: unitPrice }),
+            ...(itemID === "3215" && { Note: note }),
+            // SECONDHAND GOODS
+            ...(itemID === "3198" && { unitPrice: unitPrice }),
+            ...(itemID === "3198" && { Note: note }),
+            // MISCELLANEOUS ITEM
+            ...(itemID === "3196" && { unitPrice: unitPrice }),
+            ...(itemID === "3196" && { Note: note }),
+            ...(itemID === "3214" && { unitPrice: unitPrice }),
+            ...(itemID === "3214" && { Note: note }),
+            ...(itemID === "3234" && { unitPrice: unitPrice }),
+            ...(itemID === "3234" && { Note: note }),
+            // POSTAGE & PACKING
+            ...(itemID === "3236" && { unitPrice: unitPrice }),
+            ...(itemID === "3236" && { Note: note }),
+            // PARCEL FORCE POSTAGE & PACKING
+            ...(itemID === "4299" && { unitPrice: unitPrice }),
+            // DEPOSIT
+            ...(itemID === "3213" && { unitPrice: unitPrice }),
+            ...(itemID === "3213" && { Note: note }),
+            // GIFT VOUCHER
+            ...(itemID === "3187" && { unitPrice: unitPrice }),
+            // TAX RULES
             ...(tax && parseFloat(tax) > 0 && { tax: true }),
             ...(tax && parseInt(tax) === 0 && { tax: false }),
             ...(tax && parseFloat(tax) > 0 && { calTax1: tax.split("-").join("") || 0}),
