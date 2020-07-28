@@ -1,8 +1,8 @@
 const fs = require("fs");
-const employees = JSON.parse(fs.readFileSync('../data/json/employees.json', 'utf-8'))
-const items = JSON.parse(fs.readFileSync('../data/json/mergedOpsuiteLightspeed.json', 'utf-8'))
-const transactions = JSON.parse(fs.readFileSync('../data/json/OpsuiteTransactions.json', 'utf-8'))
-const paymentTypes = JSON.parse(fs.readFileSync('../data/json/PaymentType.json', 'utf-8'))
+const employees = JSON.parse(fs.readFileSync('../data/json/Employees.json', 'utf-8'))
+const items = JSON.parse(fs.readFileSync('../data/json/opsuiteLsMerged.json', 'utf-8'))
+const transactions = JSON.parse(fs.readFileSync('../data/json/opsuiteTransactions-2018.json', 'utf-8'))
+const paymentTypes = JSON.parse(fs.readFileSync('../data/json/paymentTypes.json', 'utf-8'))
 
 const merged = transactions.transactions.map((transaction) => {
   employee =
@@ -13,12 +13,12 @@ const merged = transactions.transactions.map((transaction) => {
   item = items.find((item) => item.customSku === transaction.sku) || {};
   payment =
     paymentTypes.PaymentType.find(
-      (payment) => payment.name == transaction.tenderDescription
+      (payment) => payment.name.toUpperCase() == transaction.tenderDescription
     ) || {};
   {
     return {
-      cashierID: employee.employeeID,
-      cashierName: transaction.cashierName,
+      cashierID: employee.employeeID || 6,
+      cashierName: transaction.cashierName || 'Antony Bill',
       discountReason: transaction.discountReason,
       discount: transaction.discount,
       cost: transaction.cost,
@@ -37,7 +37,7 @@ const merged = transactions.transactions.map((transaction) => {
       receiptDate: transaction.receiptDate,
       tenderDescription: transaction.tenderDescription,
       tenderType: transaction.tenderType,
-      transactionID: transaction.transactionID,
+      transactionID: transaction.opsuiteTransactionId,
       paymentType: payment.paymentTypeID,
     };
   }
@@ -86,6 +86,8 @@ let na = merged
             unitQuantity: qty,
             //...(discount && { discountAmount: discount }),
             discountAmount: discount.split("-").join("") || 0,
+            // If discount is applied on refund
+            ...(qty.includes('-') && discount != 0 && { discountAmount: `-${discount}` || 0,}),
             // prettier-ignore
             // 4457 = Gun Repairs
             ...(itemID === "4457" && { unitPrice: unitPrice }),
@@ -93,15 +95,33 @@ let na = merged
             // 4441 - 2nd Hand Goods
             ...(itemID === "4441" && { unitPrice: unitPrice }),
             ...(itemID === "4441" && { Note: note }),
+            // 4441 - Add rule to handle second hand goods being traded in.
+            ...(itemID === "4441" && unitPrice == "0.0000" && discount > 0 && {
+              unitPrice: discount, discountAmount: 0, unitQuantity: `-${qty}`
+            }),
             // 4439 - Miscellaneous Item
             ...(itemID === "4439" && { unitPrice: unitPrice }),
             ...(itemID === "4439" && { Note: note }),
+            // 4439 - Move value form discount to value
+            ...(itemID === "4439" && unitPrice == "0.0000" && discount > 0 && {
+              unitPrice: discount, discountAmount: 0, unitQuantity: `-${qty}`
+            }),
+            // 4456 - Miscellaneous Item
+            ...(itemID === "4456" && { unitPrice: unitPrice }),
+            ...(itemID === "4456" && { Note: note }),
+            // 4476 - Miscellaneous Item
+            ...(itemID === "4476" && { unitPrice: unitPrice }),
+            ...(itemID === "4476" && { Note: note }),
             // 4478 - Post & Packing
             ...(itemID === "4478" && { unitPrice: unitPrice }),
             ...(itemID === "4478" && { Note: note }),
             // 4455 - Deposit
             ...(itemID === "4455" && { unitPrice: unitPrice }),
             ...(itemID === "4455" && { Note: note }),
+            // 4455 - Add rule to handle deposit being used.
+            ...(itemID === "4455" && unitPrice == "0.0000" && discount > 0 && {
+              unitPrice: discount, discountAmount: 0, unitQuantity: `-${qty}`
+            }),
             // 539 - Parcelforce
             ...(itemID === "539" && { unitPrice: unitPrice }),
             // 4430 - Gift Voucher

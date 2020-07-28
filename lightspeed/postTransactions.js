@@ -1,10 +1,9 @@
 const fs = require("fs");
 const axios = require("axios");
-const refreshToken = require("./src/refreshToken");
-const getAccountID = require("./src/getAccountID");
+const { refreshToken, getAccountID } = require ('./base/getRequired')
 const lightspeedApi = "https://api.lightspeedapp.com/API";
 const sales = JSON.parse(
-  fs.readFileSync('./temp/transactionsToPost.json', "utf-8")
+  fs.readFileSync('../data/json/transactionsToPost.json', "utf-8")
 );
 
 const setHeader = async () => {
@@ -26,30 +25,32 @@ const postTransactions = async () => {
       const options = {
         url: `${lightspeedApi}/Account/${accountID}/Sale.json`,
         method: "post",
-        headers: authHeader,
+        headers: header,
         data: postBody,
       };
 
       // Add a response interceptor
       axios.interceptors.response.use(function(response) {
         return response;
-      }, async function(error) {
+      }, async function(err) {
           await new Promise(function(res) {
             setTimeout(function() {res()}, 10000);
             });
       
-        const originalRequest = error.config;
+        const originalRequest = err.config;
       
-        if (error.response.status===401 && !originalRequest._retry) {
+        if (err.response.status === 401 && !originalRequest._retry) {
           originalRequest._retry = true;
           const refreshedHeader = await setHeader()
           console.log('New header: ', refreshedHeader)
           axios.defaults.headers = refreshedHeader
           originalRequest.headers = refreshedHeader
-          console.log('Original Request: ', originalRequest)
           return axios(originalRequest);
+        } else if (err.response.status != 401) {
+          fs.appendFile('../data/errors/postTransactionErrors.json', JSON.stringify(err), (err) => console.error(err));
+          return err
         }
-        return Promise.reject(error);
+        return Promise.reject(err);
       }); 
 
       const makeRequest = async () => {
@@ -64,7 +65,7 @@ const postTransactions = async () => {
             "\n"
           );
         } catch (err) {
-          if (err.response.status === 400) {
+          if (err.response.status != 401) {
             fs.appendFile('../data/errors/postTransactionErrors.json', JSON.stringify(err), (err) => console.error(err));
             return err
           }
