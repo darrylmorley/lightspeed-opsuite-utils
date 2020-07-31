@@ -74,6 +74,9 @@ const updateItems = async () => {
         originalRequest.headers = refreshedHeader
         console.log('Original Request: ', originalRequest)
         return axios(originalRequest);
+      }  else if (err.response.status != 401) {
+        fs.appendFile('../data/errors/stockUpdateErrors.json', JSON.stringify(err), (err) => console.error(err));
+        return err
       }
       return Promise.reject(error);
     }); 
@@ -86,10 +89,11 @@ const updateItems = async () => {
         data: postBody
       })
       console.log(res.data)
+      console.log(res.status)
       return res.data
     } catch (err) {
-      if (err.response.status === 400) {
-        fs.appendFile('../data/errors/updateItems-errors.json', JSON.stringify(err), (err) => console.error(err));
+      if (err.response.status != 401) {
+        fs.appendFile('../data/errors/stockUpdateErrors.json', JSON.stringify(err), (err) => console.error(err));
         return err
       }
       if (err) console.error('We have a problem: ', err)
