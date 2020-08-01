@@ -27,7 +27,7 @@ const updateItems = async () => {
       const postBody = `{
       "ean": "${item.ean}",
       "defaultCost": "${item.avgCost}",
-      "tax": "true",
+      "tax": "${item.tax}",
       "itemType": "default",
       "ItemShops": {
         "ItemShop": [

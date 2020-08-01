@@ -20,7 +20,6 @@ const merged = mergedItems.map((item) => {
       qoh: item.qoh,
       amount: item.amount,
       defaultCost: item.defaultCost,
-      avgCost: item.avgCost,
       reorderPoint: item.reorderPoint,
       reorderLevel: item.reorderLevel,
       ean: item.ean,
