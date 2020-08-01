@@ -30,6 +30,16 @@ const message = '<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soa
    '</soapenv:Body>'+
 '</soapenv:Envelope>'
 
+const template = {
+  categories: ["//a:Category",
+    {
+      id: "normalize-space(a:Id)",
+      categoryCode: "normalize-space(a:CategoryCode)",
+      categoryName: "normalize-space(a:CategoryName)"
+    }
+  ]
+};
+
 const get = proxy.send(
   message,
   "http://www.opsuite.com/opservices/2013/08/IInventoryService/GetCategoryNames",
@@ -39,11 +49,16 @@ const get = proxy.send(
       fs.writeFile('../data/xml/opsuiteCategoryNames.xml', response, (err) => {
         if (err) console.error(err)
       })
-      if (err) {console.error('OMG an error: ', err)}
+
+      const result = await transform(response, template)
+
+      fs.writeFile('../data/json/opsuiteCategories.json', JSON.stringify(result), (err) => {console.error(err)})
+
       resolve(response)
     }
-});
-})
+    if (err) {console.error('OMG an error: ', err)}
+    });
+  })
 }
 
 getCategories()

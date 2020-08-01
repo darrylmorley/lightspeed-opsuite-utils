@@ -29,8 +29,9 @@ const mergeOpsuiteItems = async () => {
           note: item.note,
           reorderPoint: itm.reorderPoint,
           reorderLevel: itm.reorderLevel,
+          category: item.category
         };
-      }
+      } 
     })
     .filter((itm) => itm !== undefined);
 
