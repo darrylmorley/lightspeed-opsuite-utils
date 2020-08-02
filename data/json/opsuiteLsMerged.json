@@ -1,21 +1,5 @@
 [
   {
-    "id": "3250",
-    "itemShopID": "9749",
-    "customSku": "00100",
-    "description": "ELEY 22 TENEX",
-    "tax": "true",
-    "discountable": true,
-    "itemType": "default",
-    "qoh": "7950",
-    "amount": "0.2600",
-    "defaultCost": "0.1600",
-    "reorderPoint": "2000",
-    "reorderLevel": "3000",
-    "ean": "60000000000",
-    "location": "SAFE"
-  },
-  {
     "id": "3251",
     "itemShopID": "9752",
     "customSku": "001-V2250-L",

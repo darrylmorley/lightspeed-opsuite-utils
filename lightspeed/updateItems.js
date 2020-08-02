@@ -26,7 +26,7 @@ const updateItems = async () => {
     
       const postBody = `{
       "ean": "${item.ean}",
-      "defaultCost": "${item.avgCost}",
+      "defaultCost": "${item.defaultCost}",
       "tax": "${item.tax}",
       "itemType": "default",
       "ItemShops": {
@@ -74,9 +74,9 @@ const updateItems = async () => {
         originalRequest.headers = refreshedHeader
         console.log('Original Request: ', originalRequest)
         return axios(originalRequest);
-      }  else if (err.response.status != 401) {
-        fs.appendFile('../data/errors/stockUpdateErrors.json', JSON.stringify(err), (err) => console.error(err));
-        return err
+      }  else if (error.response.status != 401) {
+        fs.appendFile('../data/errors/stockUpdateErrors.json', JSON.stringify(error), (error) => console.error(error));
+        return error
       }
       return Promise.reject(error);
     }); 
@@ -91,13 +91,13 @@ const updateItems = async () => {
       console.log(res.data)
       console.log(res.status)
       return res.data
-    } catch (err) {
-      if (err.response.status != 401) {
-        fs.appendFile('../data/errors/stockUpdateErrors.json', JSON.stringify(err), (err) => console.error(err));
-        return err
+    } catch (error) {
+      console.log(error)
+      if (error.response.status != 401) {
+        fs.appendFile('../data/errors/stockUpdateErrors.json', JSON.stringify(error), (error) => console.error(error));
+        console.error('We have a problem: ', error)
+        return error
       }
-      if (err) console.error('We have a problem: ', err)
-      return err;
     }
   }, index * 10000) 
   })

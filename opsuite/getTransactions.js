@@ -25,7 +25,7 @@ const getOpsuiteItemMasters = () => {
     let exportType = "ExportItems";
     let status = "BatchAll";
     let startDate = "2020-01-01T07:00:00Z";
-    let endDate = "2020-07-29T20:00:00Z";
+    let endDate = "2020-12-31T20:00:00Z";
 
     const message =
       '<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="http://www.opsuite.com/opservices/2013/08">' +

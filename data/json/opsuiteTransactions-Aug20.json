@@ -1,0 +1,3945 @@
+{
+  "batchId": "79dfb0cb-18ab-4c78-bbd7-7c597d1935be",
+  "transactions": [
+    {
+      "transactionID": "37356",
+      "opsuiteTransactionId": "24003",
+      "cashierName": "Tristan Read",
+      "sku": "CALD-125290",
+      "description": "CALDWELL AR15 PIC BRASS CATCHER",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "59.9500",
+      "cost": "33.7100",
+      "netLineSale": "49.9583",
+      "lineSaleValue": "59.9500",
+      "tax": "9.9917",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "109.9500"
+        }
+      ],
+      "receiptDate": "2020-07-31T09:23:11.457",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37356",
+      "opsuiteTransactionId": "24003",
+      "cashierName": "Tristan Read",
+      "sku": "CCI-30",
+      "description": "CCI 22 MINI MAG SOLID 40G",
+      "qty": "500",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "0.1000",
+      "cost": "0.0625",
+      "netLineSale": "41.6667",
+      "lineSaleValue": "0.1000",
+      "tax": "8.3333",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "109.9500"
+        }
+      ],
+      "receiptDate": "2020-07-31T09:23:11.457",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37357",
+      "opsuiteTransactionId": "24004",
+      "cashierName": "Mark Tansell",
+      "sku": "2HANDGOODS",
+      "description": "SECONDHAND GOODS",
+      "qty": "-1",
+      "discountReason": "",
+      "discount": "",
+      "note": "tikka",
+      "unitPrice": "275.0000",
+      "cost": "0.0000",
+      "netLineSale": "-275.0000",
+      "lineSaleValue": "275.0000",
+      "tax": "0.0000",
+      "taxCode": "ZERO",
+      "totalSale": [
+        {
+          "value": "839.9500"
+        }
+      ],
+      "receiptDate": "2020-07-31T09:41:50.51",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37357",
+      "opsuiteTransactionId": "24004",
+      "cashierName": "Mark Tansell",
+      "sku": "123",
+      "description": "MISCELLANEOUS ITEM",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "bergara 22",
+      "unitPrice": "1075.0000",
+      "cost": "0.0000",
+      "netLineSale": "895.8333",
+      "lineSaleValue": "1075.0000",
+      "tax": "179.1667",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "839.9500"
+        }
+      ],
+      "receiptDate": "2020-07-31T09:41:50.51",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37357",
+      "opsuiteTransactionId": "24004",
+      "cashierName": "Mark Tansell",
+      "sku": "SK420163",
+      "description": "LAPUA 22 CENTRE-X",
+      "qty": "50",
+      "discountReason": "PriceModification",
+      "discount": "12.0000",
+      "note": "",
+      "unitPrice": "0.2400",
+      "cost": "0.1360",
+      "netLineSale": "0.0000",
+      "lineSaleValue": "0.0000",
+      "tax": "0.0000",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "839.9500"
+        }
+      ],
+      "receiptDate": "2020-07-31T09:41:50.51",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37357",
+      "opsuiteTransactionId": "24004",
+      "cashierName": "Mark Tansell",
+      "sku": "R2134225",
+      "description": "RWS 22 RIFLE MATCH",
+      "qty": "50",
+      "discountReason": "PriceModification",
+      "discount": "8.5000",
+      "note": "",
+      "unitPrice": "0.1700",
+      "cost": "0.0979",
+      "netLineSale": "0.0000",
+      "lineSaleValue": "0.0000",
+      "tax": "0.0000",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "839.9500"
+        }
+      ],
+      "receiptDate": "2020-07-31T09:41:50.51",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37357",
+      "opsuiteTransactionId": "24004",
+      "cashierName": "Mark Tansell",
+      "sku": "SP02-066URET",
+      "description": "SPARTAN UNIVERSAL RIFLE ADAPTER",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "39.9500",
+      "cost": "25.0000",
+      "netLineSale": "33.2917",
+      "lineSaleValue": "39.9500",
+      "tax": "6.6583",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "839.9500"
+        }
+      ],
+      "receiptDate": "2020-07-31T09:41:50.51",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37358",
+      "opsuiteTransactionId": "24005",
+      "cashierName": "Mark Tansell",
+      "sku": "2HANDGOODS",
+      "description": "SECONDHAND GOODS",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "hatsan 12g escort",
+      "unitPrice": "199.0000",
+      "cost": "0.0000",
+      "netLineSale": "199.0000",
+      "lineSaleValue": "199.0000",
+      "tax": "0.0000",
+      "taxCode": "ZERO",
+      "totalSale": [
+        {
+          "value": "199.0000"
+        }
+      ],
+      "receiptDate": "2020-07-31T09:47:28.92",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37359",
+      "opsuiteTransactionId": "24006",
+      "cashierName": "Mark Tansell",
+      "sku": "AGT FILL 1",
+      "description": "AIR GUN TANK FILL 3 LT/300&232",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "5.0000",
+      "cost": "0.0100",
+      "netLineSale": "4.1667",
+      "lineSaleValue": "5.0000",
+      "tax": "0.8333",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "10.0000"
+        },
+        {
+          "value": "-5.0000"
+        }
+      ],
+      "receiptDate": "2020-07-31T09:48:24.94",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37360",
+      "opsuiteTransactionId": "24007",
+      "cashierName": "Tristan Read",
+      "sku": "CCI-311",
+      "description": "CCI PER CAPS NO 11 (100)",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "7.4900",
+      "cost": "4.3680",
+      "netLineSale": "6.2417",
+      "lineSaleValue": "7.4900",
+      "tax": "1.2483",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "77.0600"
+        },
+        {
+          "value": "80.0000"
+        },
+        {
+          "value": "41.8200"
+        }
+      ],
+      "receiptDate": "2020-07-31T10:01:42.457",
+      "tenderDescription": "VOUCHER",
+      "tenderType": "Voucher"
+    },
+    {
+      "transactionID": "37360",
+      "opsuiteTransactionId": "24007",
+      "cashierName": "Tristan Read",
+      "sku": "CCI-311",
+      "description": "CCI PER CAPS NO 11 (100)",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "7.4900",
+      "cost": "4.3680",
+      "netLineSale": "6.2417",
+      "lineSaleValue": "7.4900",
+      "tax": "1.2483",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "77.0600"
+        },
+        {
+          "value": "80.0000"
+        },
+        {
+          "value": "41.8200"
+        }
+      ],
+      "receiptDate": "2020-07-31T10:01:42.457",
+      "tenderDescription": "VOUCHER",
+      "tenderType": "Voucher"
+    },
+    {
+      "transactionID": "37360",
+      "opsuiteTransactionId": "24007",
+      "cashierName": "Tristan Read",
+      "sku": "VI-N140",
+      "description": "VIHTAVUORI N140 1KG",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "91.9500",
+      "cost": "54.4500",
+      "netLineSale": "76.6250",
+      "lineSaleValue": "91.9500",
+      "tax": "15.3250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "77.0600"
+        },
+        {
+          "value": "80.0000"
+        },
+        {
+          "value": "41.8200"
+        }
+      ],
+      "receiptDate": "2020-07-31T10:01:42.457",
+      "tenderDescription": "VOUCHER",
+      "tenderType": "Voucher"
+    },
+    {
+      "transactionID": "37360",
+      "opsuiteTransactionId": "24007",
+      "cashierName": "Tristan Read",
+      "sku": "VI-N140",
+      "description": "VIHTAVUORI N140 1KG",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "91.9500",
+      "cost": "54.4500",
+      "netLineSale": "76.6250",
+      "lineSaleValue": "91.9500",
+      "tax": "15.3250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "77.0600"
+        },
+        {
+          "value": "80.0000"
+        },
+        {
+          "value": "41.8200"
+        }
+      ],
+      "receiptDate": "2020-07-31T10:01:42.457",
+      "tenderDescription": "VOUCHER",
+      "tenderType": "Voucher"
+    },
+    {
+      "transactionID": "37361",
+      "opsuiteTransactionId": "24008",
+      "cashierName": "Tristan Read",
+      "sku": "AS612LS28",
+      "description": "ARMSAN 612S SYN 28 L/H",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "429.0000",
+      "cost": "250.0000",
+      "netLineSale": "357.5000",
+      "lineSaleValue": "429.0000",
+      "tax": "71.5000",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "308.4500"
+        }
+      ],
+      "receiptDate": "2020-07-31T10:46:33.387",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37361",
+      "opsuiteTransactionId": "24008",
+      "cashierName": "Tristan Read",
+      "sku": "2HANDGOODS",
+      "description": "SECONDHAND GOODS",
+      "qty": "-1",
+      "discountReason": "",
+      "discount": "",
+      "note": "hatsan camo",
+      "unitPrice": "129.0000",
+      "cost": "0.0000",
+      "netLineSale": "-129.0000",
+      "lineSaleValue": "129.0000",
+      "tax": "0.0000",
+      "taxCode": "ZERO",
+      "totalSale": [
+        {
+          "value": "308.4500"
+        }
+      ],
+      "receiptDate": "2020-07-31T10:46:33.387",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37361",
+      "opsuiteTransactionId": "24008",
+      "cashierName": "Tristan Read",
+      "sku": "6014",
+      "description": "NAPIER GUN CLEANER AEROSOL",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "8.4500",
+      "cost": "3.9500",
+      "netLineSale": "7.0417",
+      "lineSaleValue": "8.4500",
+      "tax": "1.4083",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "308.4500"
+        }
+      ],
+      "receiptDate": "2020-07-31T10:46:33.387",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37362",
+      "opsuiteTransactionId": "24009",
+      "cashierName": "Tristan Read",
+      "sku": "2HANDGOODS",
+      "description": "SECONDHAND GOODS",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "folding 410 s/s",
+      "unitPrice": "230.0000",
+      "cost": "0.0000",
+      "netLineSale": "230.0000",
+      "lineSaleValue": "230.0000",
+      "tax": "0.0000",
+      "taxCode": "ZERO",
+      "totalSale": [
+        {
+          "value": "220.0000"
+        },
+        {
+          "value": "-12.1000"
+        }
+      ],
+      "receiptDate": "2020-07-31T10:48:49.707",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37362",
+      "opsuiteTransactionId": "24009",
+      "cashierName": "Tristan Read",
+      "sku": "DEPOSIT",
+      "description": "DEPOSIT",
+      "qty": "-1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "60.0000",
+      "cost": "0.0000",
+      "netLineSale": "-50.0000",
+      "lineSaleValue": "60.0000",
+      "tax": "-10.0000",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "220.0000"
+        },
+        {
+          "value": "-12.1000"
+        }
+      ],
+      "receiptDate": "2020-07-31T10:48:49.707",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37362",
+      "opsuiteTransactionId": "24009",
+      "cashierName": "Tristan Read",
+      "sku": "12495",
+      "description": "BROWNING LEGIA SPRAY",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "13.9500",
+      "cost": "7.9902",
+      "netLineSale": "11.6250",
+      "lineSaleValue": "13.9500",
+      "tax": "2.3250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "220.0000"
+        },
+        {
+          "value": "-12.1000"
+        }
+      ],
+      "receiptDate": "2020-07-31T10:48:49.707",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37362",
+      "opsuiteTransactionId": "24009",
+      "cashierName": "Tristan Read",
+      "sku": "JRY-WM40",
+      "description": "BISLEY MOPS 410",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "4.9500",
+      "cost": "1.9300",
+      "netLineSale": "4.1250",
+      "lineSaleValue": "4.9500",
+      "tax": "0.8250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "220.0000"
+        },
+        {
+          "value": "-12.1000"
+        }
+      ],
+      "receiptDate": "2020-07-31T10:48:49.707",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37362",
+      "opsuiteTransactionId": "24009",
+      "cashierName": "Tristan Read",
+      "sku": "410B2.5INF6",
+      "description": "410 2.5\" F6",
+      "qty": "50",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "0.3800",
+      "cost": "0.1887",
+      "netLineSale": "15.8333",
+      "lineSaleValue": "0.3800",
+      "tax": "3.1667",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "220.0000"
+        },
+        {
+          "value": "-12.1000"
+        }
+      ],
+      "receiptDate": "2020-07-31T10:48:49.707",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37363",
+      "opsuiteTransactionId": "24010",
+      "cashierName": "Tristan Read",
+      "sku": "JRY-JSEX5.52",
+      "description": "JSB EXACT .22 (500) 5.52",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "13.4900",
+      "cost": "7.6371",
+      "netLineSale": "11.2417",
+      "lineSaleValue": "13.4900",
+      "tax": "2.2483",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "13.4900"
+        }
+      ],
+      "receiptDate": "2020-07-31T10:50:44.753",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37364",
+      "opsuiteTransactionId": "24011",
+      "cashierName": "Mark Tansell",
+      "sku": "2HANDGOODS",
+      "description": "SECONDHAND GOODS",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "12g cynergy",
+      "unitPrice": "1300.0000",
+      "cost": "0.0000",
+      "netLineSale": "1300.0000",
+      "lineSaleValue": "1300.0000",
+      "tax": "0.0000",
+      "taxCode": "ZERO",
+      "totalSale": [
+        {
+          "value": "300.0000"
+        },
+        {
+          "value": "1068.7000"
+        }
+      ],
+      "receiptDate": "2020-07-31T11:02:35.54",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37364",
+      "opsuiteTransactionId": "24011",
+      "cashierName": "Mark Tansell",
+      "sku": "12495",
+      "description": "BROWNING LEGIA SPRAY",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "13.9500",
+      "cost": "7.9902",
+      "netLineSale": "11.6250",
+      "lineSaleValue": "13.9500",
+      "tax": "2.3250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "300.0000"
+        },
+        {
+          "value": "1068.7000"
+        }
+      ],
+      "receiptDate": "2020-07-31T11:02:35.54",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37364",
+      "opsuiteTransactionId": "24011",
+      "cashierName": "Mark Tansell",
+      "sku": "12BBLU28GF7.5",
+      "description": "OLY BLUES 28GR F7.5",
+      "qty": "250",
+      "discountReason": "PriceModification",
+      "discount": "20.2500",
+      "note": "",
+      "unitPrice": "0.3000",
+      "cost": "0.1550",
+      "netLineSale": "45.6250",
+      "lineSaleValue": "0.2190",
+      "tax": "9.1250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "300.0000"
+        },
+        {
+          "value": "1068.7000"
+        }
+      ],
+      "receiptDate": "2020-07-31T11:02:35.54",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37365",
+      "opsuiteTransactionId": "24012",
+      "cashierName": "Mark Tansell",
+      "sku": "1410029953",
+      "description": "FLEX RAPTOR BLK/GREY SHOTGUN SLIP 136CM",
+      "qty": "1",
+      "discountReason": "PriceModification",
+      "discount": "4.9500",
+      "note": "",
+      "unitPrice": "54.9500",
+      "cost": "27.9000",
+      "netLineSale": "41.6667",
+      "lineSaleValue": "50.0000",
+      "tax": "8.3333",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "60.0000"
+        },
+        {
+          "value": "-10.0000"
+        }
+      ],
+      "receiptDate": "2020-07-31T11:03:26.717",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37366",
+      "opsuiteTransactionId": "24013",
+      "cashierName": "Mark Tansell",
+      "sku": "2HANDGOODS",
+      "description": "SECONDHAND GOODS",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "hugget belita",
+      "unitPrice": "50.0000",
+      "cost": "0.0000",
+      "netLineSale": "50.0000",
+      "lineSaleValue": "50.0000",
+      "tax": "0.0000",
+      "taxCode": "ZERO",
+      "totalSale": [
+        {
+          "value": "50.0000"
+        }
+      ],
+      "receiptDate": "2020-07-31T11:11:09.073",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37367",
+      "opsuiteTransactionId": "24014",
+      "cashierName": "Mark Tansell",
+      "sku": "AG FILL 1",
+      "description": "AIR GUN FILL SMALL/MEDIUM",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "1.0000",
+      "cost": "0.0100",
+      "netLineSale": "0.8333",
+      "lineSaleValue": "1.0000",
+      "tax": "0.1667",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "1.0000"
+        }
+      ],
+      "receiptDate": "2020-07-31T11:14:03.067",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37368",
+      "opsuiteTransactionId": "24015",
+      "cashierName": "Mark Tansell",
+      "sku": "AAP-451",
+      "description": "AIR ARM DIAB FIELD .17 (500)",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "10.7500",
+      "cost": "6.2819",
+      "netLineSale": "8.9583",
+      "lineSaleValue": "10.7500",
+      "tax": "1.7917",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "161.5000"
+        }
+      ],
+      "receiptDate": "2020-07-31T11:23:52.497",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37368",
+      "opsuiteTransactionId": "24015",
+      "cashierName": "Mark Tansell",
+      "sku": "6055",
+      "description": "NAPIER POWER AIRGUN OIL",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "10.7500",
+      "cost": "5.1700",
+      "netLineSale": "8.9583",
+      "lineSaleValue": "10.7500",
+      "tax": "1.7917",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "161.5000"
+        }
+      ],
+      "receiptDate": "2020-07-31T11:23:52.497",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37368",
+      "opsuiteTransactionId": "24015",
+      "cashierName": "Mark Tansell",
+      "sku": "JRY-TGT",
+      "description": "TARGETS 5 & 1 D'SIDED 10",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "1.0000",
+      "cost": "0.2700",
+      "netLineSale": "0.8333",
+      "lineSaleValue": "1.0000",
+      "tax": "0.1667",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "161.5000"
+        }
+      ],
+      "receiptDate": "2020-07-31T11:23:52.497",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37368",
+      "opsuiteTransactionId": "24015",
+      "cashierName": "Mark Tansell",
+      "sku": "2HANDGOODS",
+      "description": "SECONDHAND GOODS",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "crosman tr77 .177",
+      "unitPrice": "139.0000",
+      "cost": "0.0000",
+      "netLineSale": "139.0000",
+      "lineSaleValue": "139.0000",
+      "tax": "0.0000",
+      "taxCode": "ZERO",
+      "totalSale": [
+        {
+          "value": "161.5000"
+        }
+      ],
+      "receiptDate": "2020-07-31T11:23:52.497",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37369",
+      "opsuiteTransactionId": "24016",
+      "cashierName": "Mark Tansell",
+      "sku": "12BBLU28GF7.5",
+      "description": "OLY BLUES 28GR F7.5",
+      "qty": "1000",
+      "discountReason": "PriceModification",
+      "discount": "81.0000",
+      "note": "",
+      "unitPrice": "0.3000",
+      "cost": "0.1550",
+      "netLineSale": "182.5000",
+      "lineSaleValue": "0.2190",
+      "tax": "36.5000",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "219.0000"
+        }
+      ],
+      "receiptDate": "2020-07-31T11:56:25.57",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37370",
+      "opsuiteTransactionId": "24017",
+      "cashierName": "Mark Tansell",
+      "sku": "HW100KT.177CAR",
+      "description": "WEIHRAUCH HW100KT .177 CARBINE",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "825.0000",
+      "cost": "595.6500",
+      "netLineSale": "687.5000",
+      "lineSaleValue": "825.0000",
+      "tax": "137.5000",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "845.0000"
+        }
+      ],
+      "receiptDate": "2020-07-31T12:15:25.657",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37370",
+      "opsuiteTransactionId": "24017",
+      "cashierName": "Mark Tansell",
+      "sku": "POST & PACKING",
+      "description": "POSTAGE & PACKING",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "20.0000",
+      "cost": "0.0000",
+      "netLineSale": "20.0000",
+      "lineSaleValue": "20.0000",
+      "tax": "0.0000",
+      "taxCode": "ZERO",
+      "totalSale": [
+        {
+          "value": "845.0000"
+        }
+      ],
+      "receiptDate": "2020-07-31T12:15:25.657",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37371",
+      "opsuiteTransactionId": "24018",
+      "cashierName": "Tristan Read",
+      "sku": "AGT FILL 1",
+      "description": "AIR GUN TANK FILL 3 LT/300&232",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "5.0000",
+      "cost": "0.0100",
+      "netLineSale": "4.1667",
+      "lineSaleValue": "5.0000",
+      "tax": "0.8333",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "17.9500"
+        }
+      ],
+      "receiptDate": "2020-07-31T12:42:25.52",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37371",
+      "opsuiteTransactionId": "24018",
+      "cashierName": "Tristan Read",
+      "sku": "WPLACCU22",
+      "description": "WEBLEY ACCUPELL .22 14.3gr",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "12.9500",
+      "cost": "6.8200",
+      "netLineSale": "10.7917",
+      "lineSaleValue": "12.9500",
+      "tax": "2.1583",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "17.9500"
+        }
+      ],
+      "receiptDate": "2020-07-31T12:42:25.52",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37372",
+      "opsuiteTransactionId": "24019",
+      "cashierName": "Tristan Read",
+      "sku": "03B3-AC01",
+      "description": "BEST FITTINGS 200 TO 300 BAR SPACER RING",
+      "qty": "1",
+      "discountReason": "PriceModification",
+      "discount": "3.4900",
+      "note": "",
+      "unitPrice": "3.4900",
+      "cost": "1.8500",
+      "netLineSale": "0.0000",
+      "lineSaleValue": "0.0000",
+      "tax": "0.0000",
+      "taxCode": "Standard",
+      "totalSale": [],
+      "receiptDate": "2020-07-31T12:44:10.327",
+      "tenderDescription": "",
+      "tenderType": ""
+    },
+    {
+      "transactionID": "37373",
+      "opsuiteTransactionId": "24020",
+      "cashierName": "Tristan Read",
+      "sku": "02100",
+      "description": "ELEY 22 CLUB",
+      "qty": "200",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "0.1200",
+      "cost": "0.0720",
+      "netLineSale": "20.0000",
+      "lineSaleValue": "0.1200",
+      "tax": "4.0000",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "44.0000"
+        }
+      ],
+      "receiptDate": "2020-07-31T12:50:33.86",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37373",
+      "opsuiteTransactionId": "24020",
+      "cashierName": "Tristan Read",
+      "sku": "04100",
+      "description": "ELEY 22 SPORT",
+      "qty": "200",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "0.1000",
+      "cost": "0.0570",
+      "netLineSale": "16.6667",
+      "lineSaleValue": "0.1000",
+      "tax": "3.3333",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "44.0000"
+        }
+      ],
+      "receiptDate": "2020-07-31T12:50:33.86",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37374",
+      "opsuiteTransactionId": "24021",
+      "cashierName": "Tristan Read",
+      "sku": "AGT FILL 1",
+      "description": "AIR GUN TANK FILL 3 LT/300&232",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "5.0000",
+      "cost": "0.0100",
+      "netLineSale": "4.1667",
+      "lineSaleValue": "5.0000",
+      "tax": "0.8333",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "5.0000"
+        }
+      ],
+      "receiptDate": "2020-07-31T13:16:03.343",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37375",
+      "opsuiteTransactionId": "24022",
+      "cashierName": "Tristan Read",
+      "sku": "BC-BU30330",
+      "description": "BUTLER CREEK FLIP UPS OBJ 33",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "13.9500",
+      "cost": "7.4900",
+      "netLineSale": "11.6250",
+      "lineSaleValue": "13.9500",
+      "tax": "2.3250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "40.0000"
+        },
+        {
+          "value": "-12.1000"
+        }
+      ],
+      "receiptDate": "2020-07-31T14:10:32.203",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37375",
+      "opsuiteTransactionId": "24022",
+      "cashierName": "Tristan Read",
+      "sku": "BC-BU30200",
+      "description": "BUTLER CREEK FLIP UPS OBJ 20",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "13.9500",
+      "cost": "5.2700",
+      "netLineSale": "11.6250",
+      "lineSaleValue": "13.9500",
+      "tax": "2.3250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "40.0000"
+        },
+        {
+          "value": "-12.1000"
+        }
+      ],
+      "receiptDate": "2020-07-31T14:10:32.203",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37376",
+      "opsuiteTransactionId": "24023",
+      "cashierName": "Tristan Read",
+      "sku": "2HANDGOODS",
+      "description": "SECONDHAND GOODS",
+      "qty": "1",
+      "discountReason": "PriceModification",
+      "discount": "40.3400",
+      "note": "huntsman",
+      "unitPrice": "599.0000",
+      "cost": "0.0000",
+      "netLineSale": "558.6600",
+      "lineSaleValue": "558.6600",
+      "tax": "0.0000",
+      "taxCode": "ZERO",
+      "totalSale": [
+        {
+          "value": "1050.0000"
+        }
+      ],
+      "receiptDate": "2020-07-31T15:40:17.357",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37376",
+      "opsuiteTransactionId": "24023",
+      "cashierName": "Tristan Read",
+      "sku": "JRY-BIM30TH",
+      "description": "BISLEY 2-PIECE 30MM HIGH MOUNT",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "36.9500",
+      "cost": "19.3368",
+      "netLineSale": "30.7917",
+      "lineSaleValue": "36.9500",
+      "tax": "6.1583",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "1050.0000"
+        }
+      ],
+      "receiptDate": "2020-07-31T15:40:17.357",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37376",
+      "opsuiteTransactionId": "24023",
+      "cashierName": "Tristan Read",
+      "sku": "13200",
+      "description": "AIRMAX 30 COMP 3-12X40 AMXIR",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "269.9500",
+      "cost": "140.4000",
+      "netLineSale": "224.9583",
+      "lineSaleValue": "269.9500",
+      "tax": "44.9917",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "1050.0000"
+        }
+      ],
+      "receiptDate": "2020-07-31T15:40:17.357",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37376",
+      "opsuiteTransactionId": "24023",
+      "cashierName": "Tristan Read",
+      "sku": "JRY-BIAC3J",
+      "description": "3LT CYL 300 BAR SHORT BLEED & HOSE",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "169.9500",
+      "cost": "99.5000",
+      "netLineSale": "141.6250",
+      "lineSaleValue": "169.9500",
+      "tax": "28.3250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "1050.0000"
+        }
+      ],
+      "receiptDate": "2020-07-31T15:40:17.357",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37376",
+      "opsuiteTransactionId": "24023",
+      "cashierName": "Tristan Read",
+      "sku": "D3RMSOV22DS",
+      "description": "DSTATE RMASTER SOVEREIGN .22",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "14.4900",
+      "cost": "9.4600",
+      "netLineSale": "12.0750",
+      "lineSaleValue": "14.4900",
+      "tax": "2.4150",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "1050.0000"
+        }
+      ],
+      "receiptDate": "2020-07-31T15:40:17.357",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37377",
+      "opsuiteTransactionId": "24024",
+      "cashierName": "Mark Tansell",
+      "sku": "GGG22355",
+      "description": "MILITARY GGG 223 FMJ 55G",
+      "qty": "100",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "0.5200",
+      "cost": "0.3100",
+      "netLineSale": "43.3333",
+      "lineSaleValue": "0.5200",
+      "tax": "8.6667",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "57.0000"
+        }
+      ],
+      "receiptDate": "2020-07-31T15:58:01.657",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37377",
+      "opsuiteTransactionId": "24024",
+      "cashierName": "Mark Tansell",
+      "sku": "123",
+      "description": "MISCELLANEOUS ITEM",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "tippman arms firing pin",
+      "unitPrice": "5.0000",
+      "cost": "0.0000",
+      "netLineSale": "4.1667",
+      "lineSaleValue": "5.0000",
+      "tax": "0.8333",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "57.0000"
+        }
+      ],
+      "receiptDate": "2020-07-31T15:58:01.657",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37378",
+      "opsuiteTransactionId": "24032",
+      "cashierName": "Antony Bill",
+      "sku": "018043612",
+      "description": "BR' 20G 525 GAME ONE 30INV",
+      "qty": "1",
+      "discountReason": "PriceModification",
+      "discount": "29.0000",
+      "note": "",
+      "unitPrice": "1629.0000",
+      "cost": "1187.0000",
+      "netLineSale": "1333.3333",
+      "lineSaleValue": "1600.0000",
+      "tax": "266.6667",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "1749.9500"
+        }
+      ],
+      "receiptDate": "2020-07-31T17:16:09.703",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37378",
+      "opsuiteTransactionId": "24032",
+      "cashierName": "Antony Bill",
+      "sku": "JRY-PECAM",
+      "description": "COMBAT ARMS MED EAR PLUGS",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "19.9500",
+      "cost": "11.9700",
+      "netLineSale": "16.6250",
+      "lineSaleValue": "19.9500",
+      "tax": "3.3250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "1749.9500"
+        }
+      ],
+      "receiptDate": "2020-07-31T17:16:09.703",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37378",
+      "opsuiteTransactionId": "24032",
+      "cashierName": "Antony Bill",
+      "sku": "SKU-005",
+      "description": "TEALES DEVONSHIRE GUN SLIP (30\")",
+      "qty": "1",
+      "discountReason": "PriceModification",
+      "discount": "14.9900",
+      "note": "",
+      "unitPrice": "144.9900",
+      "cost": "76.0000",
+      "netLineSale": "108.3333",
+      "lineSaleValue": "130.0000",
+      "tax": "21.6667",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "1749.9500"
+        }
+      ],
+      "receiptDate": "2020-07-31T17:16:09.703",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37379",
+      "opsuiteTransactionId": "24033",
+      "cashierName": "Mark Tansell",
+      "sku": "JRY-WIPPDBL",
+      "description": "WILKINS PELLET POUCH D'BROWN",
+      "qty": "1",
+      "discountReason": "PriceModification",
+      "discount": "27.4900",
+      "note": "",
+      "unitPrice": "27.4900",
+      "cost": "15.3800",
+      "netLineSale": "0.0000",
+      "lineSaleValue": "0.0000",
+      "tax": "0.0000",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "711.9900"
+        }
+      ],
+      "receiptDate": "2020-07-31T17:21:09.997",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37379",
+      "opsuiteTransactionId": "24033",
+      "cashierName": "Mark Tansell",
+      "sku": "PREDLR",
+      "description": "PREDATOR LAMP RED FILTER",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "7.9900",
+      "cost": "3.0000",
+      "netLineSale": "6.6583",
+      "lineSaleValue": "7.9900",
+      "tax": "1.3317",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "711.9900"
+        }
+      ],
+      "receiptDate": "2020-07-31T17:21:09.997",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37379",
+      "opsuiteTransactionId": "24033",
+      "cashierName": "Mark Tansell",
+      "sku": "AAMAG-22-Y",
+      "description": "AIR ARMS MAGAZINE 410 .22",
+      "qty": "1",
+      "discountReason": "PriceModification",
+      "discount": "4.9500",
+      "note": "",
+      "unitPrice": "39.9500",
+      "cost": "22.0000",
+      "netLineSale": "29.1667",
+      "lineSaleValue": "35.0000",
+      "tax": "5.8333",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "711.9900"
+        }
+      ],
+      "receiptDate": "2020-07-31T17:21:09.997",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37379",
+      "opsuiteTransactionId": "24033",
+      "cashierName": "Mark Tansell",
+      "sku": "2HANDGOODS",
+      "description": "SECONDHAND GOODS",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "669.0000",
+      "cost": "0.0000",
+      "netLineSale": "669.0000",
+      "lineSaleValue": "669.0000",
+      "tax": "0.0000",
+      "taxCode": "ZERO",
+      "totalSale": [
+        {
+          "value": "711.9900"
+        }
+      ],
+      "receiptDate": "2020-07-31T17:21:09.997",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37380",
+      "opsuiteTransactionId": "24034",
+      "cashierName": "Mark Tansell",
+      "sku": "2HANDGOODS",
+      "description": "SECONDHAND GOODS",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "gsg 1911",
+      "unitPrice": "299.0000",
+      "cost": "0.0000",
+      "netLineSale": "299.0000",
+      "lineSaleValue": "299.0000",
+      "tax": "0.0000",
+      "taxCode": "ZERO",
+      "totalSale": [
+        {
+          "value": "362.9500"
+        }
+      ],
+      "receiptDate": "2020-07-31T17:35:14.473",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37380",
+      "opsuiteTransactionId": "24034",
+      "cashierName": "Mark Tansell",
+      "sku": "GSG-411.01.52",
+      "description": "GSG 1911 10RD MAGAZINE",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "33.9500",
+      "cost": "15.5000",
+      "netLineSale": "28.2917",
+      "lineSaleValue": "33.9500",
+      "tax": "5.6583",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "362.9500"
+        }
+      ],
+      "receiptDate": "2020-07-31T17:35:14.473",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37380",
+      "opsuiteTransactionId": "24034",
+      "cashierName": "Mark Tansell",
+      "sku": "CCI-30",
+      "description": "CCI 22 MINI MAG SOLID 40G",
+      "qty": "300",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "0.1000",
+      "cost": "0.0625",
+      "netLineSale": "25.0000",
+      "lineSaleValue": "0.1000",
+      "tax": "5.0000",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "362.9500"
+        }
+      ],
+      "receiptDate": "2020-07-31T17:35:14.473",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37381",
+      "opsuiteTransactionId": "24035",
+      "cashierName": "Tristan Read",
+      "sku": "JRY-JSEX4.51",
+      "description": "JSB EXACT .177 (500)",
+      "qty": "1",
+      "discountReason": "PriceModification",
+      "discount": "1.0000",
+      "note": "",
+      "unitPrice": "11.4900",
+      "cost": "6.9500",
+      "netLineSale": "8.7417",
+      "lineSaleValue": "10.4900",
+      "tax": "1.7483",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "10.4900"
+        }
+      ],
+      "receiptDate": "2020-07-31T17:35:47.723",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37382",
+      "opsuiteTransactionId": "24036",
+      "cashierName": "Tristan Read",
+      "sku": "123",
+      "description": "MISCELLANEOUS ITEM",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "7x64 ammo",
+      "unitPrice": "82.0000",
+      "cost": "0.0000",
+      "netLineSale": "68.3333",
+      "lineSaleValue": "82.0000",
+      "tax": "13.6667",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "82.0000"
+        }
+      ],
+      "receiptDate": "2020-07-31T17:36:27.747",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37383",
+      "opsuiteTransactionId": "24037",
+      "cashierName": "Tristan Read",
+      "sku": "AG FILL 1",
+      "description": "AIR GUN FILL SMALL/MEDIUM",
+      "qty": "4",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "1.0000",
+      "cost": "0.0100",
+      "netLineSale": "3.3333",
+      "lineSaleValue": "1.0000",
+      "tax": "0.6667",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "4.0000"
+        }
+      ],
+      "receiptDate": "2020-07-31T18:11:54.877",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37384",
+      "opsuiteTransactionId": "24038",
+      "cashierName": "Tristan Read",
+      "sku": "TSHB34-100",
+      "description": "SHBC .457 CAST LEAD BALL (100)",
+      "qty": "2",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "9.9500",
+      "cost": "6.0800",
+      "netLineSale": "16.5833",
+      "lineSaleValue": "9.9500",
+      "tax": "3.3167",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "245.2500"
+        }
+      ],
+      "receiptDate": "2020-07-31T18:54:24.53",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37384",
+      "opsuiteTransactionId": "24038",
+      "cashierName": "Tristan Read",
+      "sku": "S1365",
+      "description": "SIERRA .224 55G SPT",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "26.9500",
+      "cost": "15.7300",
+      "netLineSale": "22.4583",
+      "lineSaleValue": "26.9500",
+      "tax": "4.4917",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "245.2500"
+        }
+      ],
+      "receiptDate": "2020-07-31T18:54:24.53",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37384",
+      "opsuiteTransactionId": "24038",
+      "cashierName": "Tristan Read",
+      "sku": "SPR-1030",
+      "description": "SPEER .224 50gr SPITZER TNT HP",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "27.7500",
+      "cost": "14.0000",
+      "netLineSale": "23.1250",
+      "lineSaleValue": "27.7500",
+      "tax": "4.6250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "245.2500"
+        }
+      ],
+      "receiptDate": "2020-07-31T18:54:24.53",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37384",
+      "opsuiteTransactionId": "24038",
+      "cashierName": "Tristan Read",
+      "sku": "ALLI-111",
+      "description": "ALLIANT RELOADER 19",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "53.9500",
+      "cost": "31.5000",
+      "netLineSale": "44.9583",
+      "lineSaleValue": "53.9500",
+      "tax": "8.9917",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "245.2500"
+        }
+      ],
+      "receiptDate": "2020-07-31T18:54:24.53",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37384",
+      "opsuiteTransactionId": "24038",
+      "cashierName": "Tristan Read",
+      "sku": "ALLI-108",
+      "description": "ALLIANT RELOADER 7",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "53.9500",
+      "cost": "31.4906",
+      "netLineSale": "44.9583",
+      "lineSaleValue": "53.9500",
+      "tax": "8.9917",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "245.2500"
+        }
+      ],
+      "receiptDate": "2020-07-31T18:54:24.53",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37384",
+      "opsuiteTransactionId": "24038",
+      "cashierName": "Tristan Read",
+      "sku": "CCI-14",
+      "description": "CCI 500 STD SM PIST PRIMER 100",
+      "qty": "10",
+      "discountReason": "PriceModification",
+      "discount": "4.7500",
+      "note": "",
+      "unitPrice": "4.7500",
+      "cost": "2.8600",
+      "netLineSale": "35.6250",
+      "lineSaleValue": "4.2750",
+      "tax": "7.1250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "245.2500"
+        }
+      ],
+      "receiptDate": "2020-07-31T18:54:24.53",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37384",
+      "opsuiteTransactionId": "24038",
+      "cashierName": "Tristan Read",
+      "sku": "CCI-30",
+      "description": "CCI 22 MINI MAG SOLID 40G",
+      "qty": "200",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "0.1000",
+      "cost": "0.0625",
+      "netLineSale": "16.6667",
+      "lineSaleValue": "0.1000",
+      "tax": "3.3333",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "245.2500"
+        }
+      ],
+      "receiptDate": "2020-07-31T18:54:24.53",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37385",
+      "opsuiteTransactionId": "24039",
+      "cashierName": "Mark Tansell",
+      "sku": "GUNREPAIRS",
+      "description": "GUN REPAIRS",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "50.0000",
+      "cost": "0.0000",
+      "netLineSale": "41.6667",
+      "lineSaleValue": "50.0000",
+      "tax": "8.3333",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "50.0000"
+        }
+      ],
+      "receiptDate": "2020-08-01T09:14:06.197",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37386",
+      "opsuiteTransactionId": "24040",
+      "cashierName": "Mark Tansell",
+      "sku": "DWRH2212WR0",
+      "description": "DAYSTATE WOLVERINE R HI-LITE .22",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "1479.0000",
+      "cost": "866.3800",
+      "netLineSale": "1232.5000",
+      "lineSaleValue": "1479.0000",
+      "tax": "246.5000",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "1832.8000"
+        }
+      ],
+      "receiptDate": "2020-08-01T09:18:20.667",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37386",
+      "opsuiteTransactionId": "24040",
+      "cashierName": "Mark Tansell",
+      "sku": "JRY-BIM30TH",
+      "description": "BISLEY 2-PIECE 30MM HIGH MOUNT",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "36.9500",
+      "cost": "19.3368",
+      "netLineSale": "30.7917",
+      "lineSaleValue": "36.9500",
+      "tax": "6.1583",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "1832.8000"
+        }
+      ],
+      "receiptDate": "2020-08-01T09:18:20.667",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37386",
+      "opsuiteTransactionId": "24040",
+      "cashierName": "Mark Tansell",
+      "sku": "AAP-552",
+      "description": "AIR ARM DIAB FIELD .22 (500)",
+      "qty": "2",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "13.9500",
+      "cost": "2.0286",
+      "netLineSale": "23.2500",
+      "lineSaleValue": "13.9500",
+      "tax": "4.6500",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "1832.8000"
+        }
+      ],
+      "receiptDate": "2020-08-01T09:18:20.667",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37386",
+      "opsuiteTransactionId": "24040",
+      "cashierName": "Mark Tansell",
+      "sku": "SWMODSTUMPY.22",
+      "description": "SWIFT MOD.22 AIR RIFLE 1/2\"UNF",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "49.9500",
+      "cost": "24.0000",
+      "netLineSale": "41.6250",
+      "lineSaleValue": "49.9500",
+      "tax": "8.3250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "1832.8000"
+        }
+      ],
+      "receiptDate": "2020-08-01T09:18:20.667",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37386",
+      "opsuiteTransactionId": "24040",
+      "cashierName": "Mark Tansell",
+      "sku": "2HANDGOODS",
+      "description": "SECONDHAND GOODS",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "airmax 4-16x50",
+      "unitPrice": "239.0000",
+      "cost": "0.0000",
+      "netLineSale": "239.0000",
+      "lineSaleValue": "239.0000",
+      "tax": "0.0000",
+      "taxCode": "ZERO",
+      "totalSale": [
+        {
+          "value": "1832.8000"
+        }
+      ],
+      "receiptDate": "2020-08-01T09:18:20.667",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37387",
+      "opsuiteTransactionId": "24041",
+      "cashierName": "Antony Bill",
+      "sku": "AAULT-R-17-BLA",
+      "description": "AIR ARMS ULTIMATE SP REG 177 BLACK",
+      "qty": "1",
+      "discountReason": "PriceModification",
+      "discount": "17.9000",
+      "note": "",
+      "unitPrice": "1079.0000",
+      "cost": "692.5500",
+      "netLineSale": "884.2500",
+      "lineSaleValue": "1061.1000",
+      "tax": "176.8500",
+      "taxCode": "Standard",
+      "totalSale": [],
+      "receiptDate": "2020-08-01T09:27:38.473",
+      "tenderDescription": "",
+      "tenderType": ""
+    },
+    {
+      "transactionID": "37387",
+      "opsuiteTransactionId": "24041",
+      "cashierName": "Antony Bill",
+      "sku": "18130",
+      "description": "FRONTIER SF 4-20x44 IR MIL PRO 20X",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "459.0000",
+      "cost": "273.6000",
+      "netLineSale": "382.5000",
+      "lineSaleValue": "459.0000",
+      "tax": "76.5000",
+      "taxCode": "Standard",
+      "totalSale": [],
+      "receiptDate": "2020-08-01T09:27:38.473",
+      "tenderDescription": "",
+      "tenderType": ""
+    },
+    {
+      "transactionID": "37387",
+      "opsuiteTransactionId": "24041",
+      "cashierName": "Antony Bill",
+      "sku": "AAMAC-17-G",
+      "description": "AIR ARMS MAGAZINE 410 .177",
+      "qty": "2",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "39.9500",
+      "cost": "22.0000",
+      "netLineSale": "66.5833",
+      "lineSaleValue": "39.9500",
+      "tax": "13.3167",
+      "taxCode": "Standard",
+      "totalSale": [],
+      "receiptDate": "2020-08-01T09:27:38.473",
+      "tenderDescription": "",
+      "tenderType": ""
+    },
+    {
+      "transactionID": "37387",
+      "opsuiteTransactionId": "24041",
+      "cashierName": "Antony Bill",
+      "sku": "4200",
+      "description": "GAMO BOXER BULLPUP 177",
+      "qty": "-1",
+      "discountReason": "PriceModification",
+      "discount": "-249.0000",
+      "note": "",
+      "unitPrice": "549.0000",
+      "cost": "334.0000",
+      "netLineSale": "-250.0000",
+      "lineSaleValue": "300.0000",
+      "tax": "-50.0000",
+      "taxCode": "Standard",
+      "totalSale": [],
+      "receiptDate": "2020-08-01T09:27:38.473",
+      "tenderDescription": "",
+      "tenderType": ""
+    },
+    {
+      "transactionID": "37387",
+      "opsuiteTransactionId": "24041",
+      "cashierName": "Antony Bill",
+      "sku": "DW2H1712AR0",
+      "description": "DAYSTATE WOLVERINE MK2 HILITE .177",
+      "qty": "-1",
+      "discountReason": "PriceModification",
+      "discount": "-349.0000",
+      "note": "",
+      "unitPrice": "1249.0000",
+      "cost": "833.0000",
+      "netLineSale": "-750.0000",
+      "lineSaleValue": "900.0000",
+      "tax": "-150.0000",
+      "taxCode": "Standard",
+      "totalSale": [],
+      "receiptDate": "2020-08-01T09:27:38.473",
+      "tenderDescription": "",
+      "tenderType": ""
+    },
+    {
+      "transactionID": "37387",
+      "opsuiteTransactionId": "24041",
+      "cashierName": "Antony Bill",
+      "sku": "2HANDGOODS",
+      "description": "SECONDHAND GOODS",
+      "qty": "-1",
+      "discountReason": "",
+      "discount": "",
+      "note": "HW100 T 177",
+      "unitPrice": "400.0000",
+      "cost": "0.0000",
+      "netLineSale": "-400.0000",
+      "lineSaleValue": "400.0000",
+      "tax": "0.0000",
+      "taxCode": "ZERO",
+      "totalSale": [],
+      "receiptDate": "2020-08-01T09:27:38.473",
+      "tenderDescription": "",
+      "tenderType": ""
+    },
+    {
+      "transactionID": "37388",
+      "opsuiteTransactionId": "24042",
+      "cashierName": "Tristan Read",
+      "sku": "RA2136805",
+      "description": "RWS .22 SUPERDOME 14.5gr",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "11.9900",
+      "cost": "6.5000",
+      "netLineSale": "9.9917",
+      "lineSaleValue": "11.9900",
+      "tax": "1.9983",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "20.0000"
+        },
+        {
+          "value": "-8.0100"
+        }
+      ],
+      "receiptDate": "2020-08-01T09:48:20.11",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37389",
+      "opsuiteTransactionId": "24043",
+      "cashierName": "Tristan Read",
+      "sku": "DEPOSIT",
+      "description": "DEPOSIT",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "100.0000",
+      "cost": "0.0000",
+      "netLineSale": "83.3333",
+      "lineSaleValue": "100.0000",
+      "tax": "16.6667",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "100.0000"
+        }
+      ],
+      "receiptDate": "2020-08-01T10:02:44.057",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37390",
+      "opsuiteTransactionId": "24044",
+      "cashierName": "Tristan Read",
+      "sku": "MILCO2",
+      "description": "12G CO2 CAPSULE",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "9.9500",
+      "cost": "1.9998",
+      "netLineSale": "8.2917",
+      "lineSaleValue": "9.9500",
+      "tax": "1.6583",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "20.0000"
+        },
+        {
+          "value": "-10.0500"
+        }
+      ],
+      "receiptDate": "2020-08-01T10:16:57.317",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37391",
+      "opsuiteTransactionId": "24045",
+      "cashierName": "Tristan Read",
+      "sku": "AG FILL 1",
+      "description": "AIR GUN FILL SMALL/MEDIUM",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "1.0000",
+      "cost": "0.0100",
+      "netLineSale": "0.8333",
+      "lineSaleValue": "1.0000",
+      "tax": "0.1667",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "1.0000"
+        }
+      ],
+      "receiptDate": "2020-08-01T10:19:50.643",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37392",
+      "opsuiteTransactionId": "24046",
+      "cashierName": "Mark Tansell",
+      "sku": "JRY-009B",
+      "description": "PARKER HALE 009",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "4.9900",
+      "cost": "2.4900",
+      "netLineSale": "4.1583",
+      "lineSaleValue": "4.9900",
+      "tax": "0.8317",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "34.9900"
+        }
+      ],
+      "receiptDate": "2020-08-01T10:26:00.07",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37392",
+      "opsuiteTransactionId": "24046",
+      "cashierName": "Mark Tansell",
+      "sku": "CCI-30",
+      "description": "CCI 22 MINI MAG SOLID 40G",
+      "qty": "300",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "0.1000",
+      "cost": "0.0625",
+      "netLineSale": "25.0000",
+      "lineSaleValue": "0.1000",
+      "tax": "5.0000",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "34.9900"
+        }
+      ],
+      "receiptDate": "2020-08-01T10:26:00.07",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37393",
+      "opsuiteTransactionId": "24047",
+      "cashierName": "Mark Tansell",
+      "sku": "LK940",
+      "description": "WHITBY STEEL D'WOOD FOLD 3.00",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "10.9500",
+      "cost": "5.4800",
+      "netLineSale": "9.1250",
+      "lineSaleValue": "10.9500",
+      "tax": "1.8250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "89.7000"
+        }
+      ],
+      "receiptDate": "2020-08-01T10:48:18.757",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37393",
+      "opsuiteTransactionId": "24047",
+      "cashierName": "Mark Tansell",
+      "sku": "12BPIGHV32GF6",
+      "description": "PIGEON HV 32GR F6",
+      "qty": "250",
+      "discountReason": "PriceModification",
+      "discount": "13.7500",
+      "note": "",
+      "unitPrice": "0.3700",
+      "cost": "0.1930",
+      "netLineSale": "65.6250",
+      "lineSaleValue": "0.3150",
+      "tax": "13.1250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "89.7000"
+        }
+      ],
+      "receiptDate": "2020-08-01T10:48:18.757",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37394",
+      "opsuiteTransactionId": "24048",
+      "cashierName": "Antony Bill",
+      "sku": "PU-77423",
+      "description": "PULSAR AXION XM30 S MONOCULAR",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "1549.9500",
+      "cost": "995.0000",
+      "netLineSale": "1291.6250",
+      "lineSaleValue": "1549.9500",
+      "tax": "258.3250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "1569.9500"
+        }
+      ],
+      "receiptDate": "2020-08-01T11:44:42.68",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37394",
+      "opsuiteTransactionId": "24048",
+      "cashierName": "Antony Bill",
+      "sku": "PUL-79161",
+      "description": "PULSAR APS3 BATTERY PACK",
+      "qty": "1",
+      "discountReason": "PriceModification",
+      "discount": "19.9500",
+      "note": "",
+      "unitPrice": "39.9500",
+      "cost": "23.5000",
+      "netLineSale": "16.6667",
+      "lineSaleValue": "20.0000",
+      "tax": "3.3333",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "1569.9500"
+        }
+      ],
+      "receiptDate": "2020-08-01T11:44:42.68",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37395",
+      "opsuiteTransactionId": "24049",
+      "cashierName": "Antony Bill",
+      "sku": "HOPP-24011D",
+      "description": "HOPPES .22 BORESNAKE",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "19.9500",
+      "cost": "9.0000",
+      "netLineSale": "16.6250",
+      "lineSaleValue": "19.9500",
+      "tax": "3.3250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "27.9500"
+        }
+      ],
+      "receiptDate": "2020-08-01T11:50:15.687",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37395",
+      "opsuiteTransactionId": "24049",
+      "cashierName": "Antony Bill",
+      "sku": "CCI-35",
+      "description": "CCI 22 STANDARD SOLID 40G",
+      "qty": "100",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "0.0800",
+      "cost": "0.0490",
+      "netLineSale": "6.6667",
+      "lineSaleValue": "0.0800",
+      "tax": "1.3333",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "27.9500"
+        }
+      ],
+      "receiptDate": "2020-08-01T11:50:15.687",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37396",
+      "opsuiteTransactionId": "24050",
+      "cashierName": "Tristan Read",
+      "sku": "2HANDGOODS",
+      "description": "SECONDHAND GOODS",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "beretta 20g",
+      "unitPrice": "950.0000",
+      "cost": "0.0000",
+      "netLineSale": "950.0000",
+      "lineSaleValue": "950.0000",
+      "tax": "0.0000",
+      "taxCode": "ZERO",
+      "totalSale": [
+        {
+          "value": "985.0000"
+        }
+      ],
+      "receiptDate": "2020-08-01T12:14:19.353",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37396",
+      "opsuiteTransactionId": "24050",
+      "cashierName": "Tristan Read",
+      "sku": "HORN-83170",
+      "description": "HORNADY 17 VAR EXP V-MAX 17G",
+      "qty": "50",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "0.3000",
+      "cost": "0.1480",
+      "netLineSale": "12.5000",
+      "lineSaleValue": "0.3000",
+      "tax": "2.5000",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "985.0000"
+        }
+      ],
+      "receiptDate": "2020-08-01T12:14:19.353",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37396",
+      "opsuiteTransactionId": "24050",
+      "cashierName": "Tristan Read",
+      "sku": "REMI-SUB22HP1",
+      "description": "REM 22 SUBSONIC HP 38G",
+      "qty": "200",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "0.1000",
+      "cost": "0.0599",
+      "netLineSale": "16.6667",
+      "lineSaleValue": "0.1000",
+      "tax": "3.3333",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "985.0000"
+        }
+      ],
+      "receiptDate": "2020-08-01T12:14:19.353",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37397",
+      "opsuiteTransactionId": "24052",
+      "cashierName": "Tristan Read",
+      "sku": "MT-P100-44",
+      "description": "MTM P' CASES LARGE (100) P44",
+      "qty": "1",
+      "discountReason": "TransactionDiscount",
+      "discount": "0.4900",
+      "note": "",
+      "unitPrice": "3.9900",
+      "cost": "2.1500",
+      "netLineSale": "2.9167",
+      "lineSaleValue": "3.5000",
+      "tax": "0.5833",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "7.0000"
+        }
+      ],
+      "receiptDate": "2020-08-01T12:29:16.39",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37397",
+      "opsuiteTransactionId": "24052",
+      "cashierName": "Tristan Read",
+      "sku": "LE-90006",
+      "description": "LEE CASE LUBE",
+      "qty": "1",
+      "discountReason": "TransactionDiscount",
+      "discount": "0.4900",
+      "note": "",
+      "unitPrice": "3.9900",
+      "cost": "2.1875",
+      "netLineSale": "2.9167",
+      "lineSaleValue": "3.5000",
+      "tax": "0.5833",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "7.0000"
+        }
+      ],
+      "receiptDate": "2020-08-01T12:29:16.39",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37398",
+      "opsuiteTransactionId": "24053",
+      "cashierName": "Mark Tansell",
+      "sku": "CSBST223B",
+      "description": "WINCHESTER 223/55 SILVERTIP",
+      "qty": "60",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "1.4000",
+      "cost": "0.8000",
+      "netLineSale": "70.0000",
+      "lineSaleValue": "1.4000",
+      "tax": "14.0000",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "380.3500"
+        }
+      ],
+      "receiptDate": "2020-08-01T12:50:34.493",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37398",
+      "opsuiteTransactionId": "24053",
+      "cashierName": "Mark Tansell",
+      "sku": "CX223R",
+      "description": "WINCHESTER 223/55 POWERPOINT",
+      "qty": "100",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "0.9500",
+      "cost": "0.5550",
+      "netLineSale": "79.1667",
+      "lineSaleValue": "0.9500",
+      "tax": "15.8333",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "380.3500"
+        }
+      ],
+      "receiptDate": "2020-08-01T12:50:34.493",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37398",
+      "opsuiteTransactionId": "24053",
+      "cashierName": "Mark Tansell",
+      "sku": "FX-BUNGEEB",
+      "description": "FAB BUNGEE SLING BLACK",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "18.9500",
+      "cost": "8.4000",
+      "netLineSale": "15.7917",
+      "lineSaleValue": "18.9500",
+      "tax": "3.1583",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "380.3500"
+        }
+      ],
+      "receiptDate": "2020-08-01T12:50:34.493",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37398",
+      "opsuiteTransactionId": "24053",
+      "cashierName": "Mark Tansell",
+      "sku": "729",
+      "description": "BSA CARBINE COVER",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "48.9500",
+      "cost": "25.7688",
+      "netLineSale": "40.7917",
+      "lineSaleValue": "48.9500",
+      "tax": "8.1583",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "380.3500"
+        }
+      ],
+      "receiptDate": "2020-08-01T12:50:34.493",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37398",
+      "opsuiteTransactionId": "24053",
+      "cashierName": "Mark Tansell",
+      "sku": "RF2132095",
+      "description": "9mm GARDEN GUN CARTRIDGE (50)",
+      "qty": "2",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "21.7500",
+      "cost": "12.8000",
+      "netLineSale": "36.2500",
+      "lineSaleValue": "21.7500",
+      "tax": "7.2500",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "380.3500"
+        }
+      ],
+      "receiptDate": "2020-08-01T12:50:34.493",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37398",
+      "opsuiteTransactionId": "24053",
+      "cashierName": "Mark Tansell",
+      "sku": "AIR32234",
+      "description": "UTG CANTI 30MM RING 34MM OFFSET",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "89.9500",
+      "cost": "35.9600",
+      "netLineSale": "74.9583",
+      "lineSaleValue": "89.9500",
+      "tax": "14.9917",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "380.3500"
+        }
+      ],
+      "receiptDate": "2020-08-01T12:50:34.493",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37399",
+      "opsuiteTransactionId": "24054",
+      "cashierName": "Tristan Read",
+      "sku": "HW100KT.177CAR",
+      "description": "WEIHRAUCH HW100KT .177 CARBINE",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "825.0000",
+      "cost": "595.6500",
+      "netLineSale": "687.5000",
+      "lineSaleValue": "825.0000",
+      "tax": "137.5000",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "740.0000"
+        },
+        {
+          "value": "-15.0000"
+        }
+      ],
+      "receiptDate": "2020-08-01T12:59:03.337",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37399",
+      "opsuiteTransactionId": "24054",
+      "cashierName": "Tristan Read",
+      "sku": "DEPOSIT",
+      "description": "DEPOSIT",
+      "qty": "-1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "100.0000",
+      "cost": "0.0000",
+      "netLineSale": "-83.3333",
+      "lineSaleValue": "100.0000",
+      "tax": "-16.6667",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "740.0000"
+        },
+        {
+          "value": "-15.0000"
+        }
+      ],
+      "receiptDate": "2020-08-01T12:59:03.337",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37400",
+      "opsuiteTransactionId": "24055",
+      "cashierName": "Mark Tansell",
+      "sku": "12BPIGHV32GF6",
+      "description": "PIGEON HV 32GR F6",
+      "qty": "225",
+      "discountReason": "PriceModification",
+      "discount": "21.3800",
+      "note": "",
+      "unitPrice": "0.3700",
+      "cost": "0.1930",
+      "netLineSale": "51.5667",
+      "lineSaleValue": "0.2750",
+      "tax": "10.3133",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "351.8300"
+        }
+      ],
+      "receiptDate": "2020-08-01T13:19:05.173",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37400",
+      "opsuiteTransactionId": "24055",
+      "cashierName": "Mark Tansell",
+      "sku": "12BPIGSEL30GF6",
+      "description": "PIGEON SELECT 30GR F6",
+      "qty": "1000",
+      "discountReason": "PriceModification",
+      "discount": "80.0000",
+      "note": "",
+      "unitPrice": "0.3200",
+      "cost": "0.1700",
+      "netLineSale": "200.0000",
+      "lineSaleValue": "0.2400",
+      "tax": "40.0000",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "351.8300"
+        }
+      ],
+      "receiptDate": "2020-08-01T13:19:05.173",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37400",
+      "opsuiteTransactionId": "24055",
+      "cashierName": "Mark Tansell",
+      "sku": "S2155",
+      "description": "SIERRA .308 155G HPBT",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "49.9500",
+      "cost": "30.2104",
+      "netLineSale": "41.6250",
+      "lineSaleValue": "49.9500",
+      "tax": "8.3250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "351.8300"
+        }
+      ],
+      "receiptDate": "2020-08-01T13:19:05.173",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37401",
+      "opsuiteTransactionId": "24056",
+      "cashierName": "Mark Tansell",
+      "sku": "CCI-21",
+      "description": "CCI 22 BLAZER SOLID 40G",
+      "qty": "1000",
+      "discountReason": "PriceModification",
+      "discount": "7.0000",
+      "note": "",
+      "unitPrice": "0.0700",
+      "cost": "0.0399",
+      "netLineSale": "52.5000",
+      "lineSaleValue": "0.0630",
+      "tax": "10.5000",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "63.0000"
+        }
+      ],
+      "receiptDate": "2020-08-01T13:20:12.96",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37402",
+      "opsuiteTransactionId": "24057",
+      "cashierName": "Tristan Read",
+      "sku": "JRY-BIAC3J",
+      "description": "3LT CYL 300 BAR SHORT BLEED & HOSE",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "169.9500",
+      "cost": "99.5000",
+      "netLineSale": "141.6250",
+      "lineSaleValue": "169.9500",
+      "tax": "28.3250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "879.8000"
+        }
+      ],
+      "receiptDate": "2020-08-01T13:37:56.07",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37402",
+      "opsuiteTransactionId": "24057",
+      "cashierName": "Tristan Read",
+      "sku": "1825",
+      "description": "BSA ULTRA SE MSHOT TACT .22",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "499.0000",
+      "cost": "308.0000",
+      "netLineSale": "415.8333",
+      "lineSaleValue": "499.0000",
+      "tax": "83.1667",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "879.8000"
+        }
+      ],
+      "receiptDate": "2020-08-01T13:37:56.07",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37402",
+      "opsuiteTransactionId": "24057",
+      "cashierName": "Tristan Read",
+      "sku": "JRY-BIMTH",
+      "description": "BISLEY 2-PIECE 1\" HIGH MOUNT",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "25.9500",
+      "cost": "12.8464",
+      "netLineSale": "21.6250",
+      "lineSaleValue": "25.9500",
+      "tax": "4.3250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "879.8000"
+        }
+      ],
+      "receiptDate": "2020-08-01T13:37:56.07",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37402",
+      "opsuiteTransactionId": "24057",
+      "cashierName": "Tristan Read",
+      "sku": "SWMODSTUMPY.22",
+      "description": "SWIFT MOD.22 AIR RIFLE 1/2\"UNF",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "49.9500",
+      "cost": "24.0000",
+      "netLineSale": "41.6250",
+      "lineSaleValue": "49.9500",
+      "tax": "8.3250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "879.8000"
+        }
+      ],
+      "receiptDate": "2020-08-01T13:37:56.07",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37402",
+      "opsuiteTransactionId": "24057",
+      "cashierName": "Tristan Read",
+      "sku": "14252",
+      "description": "VANTAGE 4-12X50 IR M'DOT AO",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "134.9500",
+      "cost": "72.0000",
+      "netLineSale": "112.4583",
+      "lineSaleValue": "134.9500",
+      "tax": "22.4917",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "879.8000"
+        }
+      ],
+      "receiptDate": "2020-08-01T13:37:56.07",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37402",
+      "opsuiteTransactionId": "24057",
+      "cashierName": "Tristan Read",
+      "sku": "AAP-552",
+      "description": "AIR ARM DIAB FIELD .22 (500)",
+      "qty": "2",
+      "discountReason": "PriceModification",
+      "discount": "27.9000",
+      "note": "",
+      "unitPrice": "13.9500",
+      "cost": "2.0286",
+      "netLineSale": "0.0000",
+      "lineSaleValue": "0.0000",
+      "tax": "0.0000",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "879.8000"
+        }
+      ],
+      "receiptDate": "2020-08-01T13:37:56.07",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37403",
+      "opsuiteTransactionId": "24058",
+      "cashierName": "Mark Tansell",
+      "sku": "CCI-14",
+      "description": "CCI 500 STD SM PIST PRIMER 100",
+      "qty": "10",
+      "discountReason": "PriceModification",
+      "discount": "4.7500",
+      "note": "",
+      "unitPrice": "4.7500",
+      "cost": "2.8600",
+      "netLineSale": "35.6250",
+      "lineSaleValue": "4.2750",
+      "tax": "7.1250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "120.0000"
+        },
+        {
+          "value": "-0.3500"
+        }
+      ],
+      "receiptDate": "2020-08-01T13:40:06.973",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37403",
+      "opsuiteTransactionId": "24058",
+      "cashierName": "Mark Tansell",
+      "sku": "ALLI-107",
+      "description": "ALLIANT RED DOT",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "43.9500",
+      "cost": "26.0000",
+      "netLineSale": "36.6250",
+      "lineSaleValue": "43.9500",
+      "tax": "7.3250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "120.0000"
+        },
+        {
+          "value": "-0.3500"
+        }
+      ],
+      "receiptDate": "2020-08-01T13:40:06.973",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37403",
+      "opsuiteTransactionId": "24058",
+      "cashierName": "Mark Tansell",
+      "sku": "TSHB11B-500",
+      "description": "SHBC .38 WC F/BARREL 148G/.358 (500)",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "32.9500",
+      "cost": "18.7500",
+      "netLineSale": "27.4583",
+      "lineSaleValue": "32.9500",
+      "tax": "5.4917",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "120.0000"
+        },
+        {
+          "value": "-0.3500"
+        }
+      ],
+      "receiptDate": "2020-08-01T13:40:06.973",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37404",
+      "opsuiteTransactionId": "24059",
+      "cashierName": "Mark Tansell",
+      "sku": "DAYFT 177 HEAVY",
+      "description": "DAYSTATE FT .177 HEAVY",
+      "qty": "2",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "13.9900",
+      "cost": "8.1500",
+      "netLineSale": "23.3167",
+      "lineSaleValue": "13.9900",
+      "tax": "4.6633",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "27.9800"
+        }
+      ],
+      "receiptDate": "2020-08-01T13:42:19.517",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37405",
+      "opsuiteTransactionId": "24060",
+      "cashierName": "Mark Tansell",
+      "sku": "REMUK89344",
+      "description": "REMI KNOCK DOWN RABBIT",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "23.9500",
+      "cost": "10.4183",
+      "netLineSale": "19.9583",
+      "lineSaleValue": "23.9500",
+      "tax": "3.9917",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "442.4300"
+        }
+      ],
+      "receiptDate": "2020-08-01T13:47:41.963",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37405",
+      "opsuiteTransactionId": "24060",
+      "cashierName": "Mark Tansell",
+      "sku": "RA2136791",
+      "description": "RWS .177 SUPERDOME 8.4gr",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "7.4900",
+      "cost": "3.5000",
+      "netLineSale": "6.2417",
+      "lineSaleValue": "7.4900",
+      "tax": "1.2483",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "442.4300"
+        }
+      ],
+      "receiptDate": "2020-08-01T13:47:41.963",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37405",
+      "opsuiteTransactionId": "24060",
+      "cashierName": "Mark Tansell",
+      "sku": "JRY-JSBEXH177",
+      "description": "JSB EXACT HEAVY .177 (500)",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "11.9900",
+      "cost": "6.4161",
+      "netLineSale": "9.9917",
+      "lineSaleValue": "11.9900",
+      "tax": "1.9983",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "442.4300"
+        }
+      ],
+      "receiptDate": "2020-08-01T13:47:41.963",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37405",
+      "opsuiteTransactionId": "24060",
+      "cashierName": "Mark Tansell",
+      "sku": "HW97K 177",
+      "description": "WEIHRAUCH HW97K .177",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "399.0000",
+      "cost": "277.4000",
+      "netLineSale": "332.5000",
+      "lineSaleValue": "399.0000",
+      "tax": "66.5000",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "442.4300"
+        }
+      ],
+      "receiptDate": "2020-08-01T13:47:41.963",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37406",
+      "opsuiteTransactionId": "24061",
+      "cashierName": "Mark Tansell",
+      "sku": "CCI-11",
+      "description": "CCI 200 STD LG RIF PRIMER 100",
+      "qty": "10",
+      "discountReason": "PriceModification",
+      "discount": "4.7500",
+      "note": "",
+      "unitPrice": "4.7500",
+      "cost": "2.8600",
+      "netLineSale": "35.6250",
+      "lineSaleValue": "4.2750",
+      "tax": "7.1250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "17.7500"
+        }
+      ],
+      "receiptDate": "2020-08-01T13:58:02.313",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37406",
+      "opsuiteTransactionId": "24061",
+      "cashierName": "Mark Tansell",
+      "sku": "DEPOSIT",
+      "description": "DEPOSIT",
+      "qty": "-1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "25.0000",
+      "cost": "0.0000",
+      "netLineSale": "-20.8333",
+      "lineSaleValue": "25.0000",
+      "tax": "-4.1667",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "17.7500"
+        }
+      ],
+      "receiptDate": "2020-08-01T13:58:02.313",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37407",
+      "opsuiteTransactionId": "24062",
+      "cashierName": "Tristan Read",
+      "sku": "JRY-NACP50",
+      "description": "NAPIER COMFY PLUGS 50",
+      "qty": "4",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "0.9900",
+      "cost": "0.4285",
+      "netLineSale": "3.3000",
+      "lineSaleValue": "0.9900",
+      "tax": "0.6600",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "36.9100"
+        }
+      ],
+      "receiptDate": "2020-08-01T14:09:53.487",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37407",
+      "opsuiteTransactionId": "24062",
+      "cashierName": "Tristan Read",
+      "sku": "TR-LVAC205",
+      "description": "VERNEY CARRON GREEN/BROWN CARTRIDGE BAG",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "32.9500",
+      "cost": "14.4000",
+      "netLineSale": "27.4583",
+      "lineSaleValue": "32.9500",
+      "tax": "5.4917",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "36.9100"
+        }
+      ],
+      "receiptDate": "2020-08-01T14:09:53.487",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37408",
+      "opsuiteTransactionId": "24063",
+      "cashierName": "Tristan Read",
+      "sku": "JRY-FI40",
+      "description": "FIREBIRD SNIPER 40MM 10PK",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "11.4900",
+      "cost": "6.1600",
+      "netLineSale": "9.5750",
+      "lineSaleValue": "11.4900",
+      "tax": "1.9150",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "21.9800"
+        }
+      ],
+      "receiptDate": "2020-08-01T14:32:18.24",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37408",
+      "opsuiteTransactionId": "24063",
+      "cashierName": "Tristan Read",
+      "sku": "JRY-HNFTT177",
+      "description": "H&N FIELD TARGET TROPHY .177",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "10.4900",
+      "cost": "5.8232",
+      "netLineSale": "8.7417",
+      "lineSaleValue": "10.4900",
+      "tax": "1.7483",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "21.9800"
+        }
+      ],
+      "receiptDate": "2020-08-01T14:32:18.24",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37409",
+      "opsuiteTransactionId": "24064",
+      "cashierName": "Mark Tansell",
+      "sku": "JRY-009B",
+      "description": "PARKER HALE 009",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "4.9900",
+      "cost": "2.4900",
+      "netLineSale": "4.1583",
+      "lineSaleValue": "4.9900",
+      "tax": "0.8317",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "89.3100"
+        }
+      ],
+      "receiptDate": "2020-08-01T14:39:56.197",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37409",
+      "opsuiteTransactionId": "24064",
+      "cashierName": "Mark Tansell",
+      "sku": "PRO-PS2-500",
+      "description": "PRO-SHOT PATCH 270-38 (500)",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "14.9500",
+      "cost": "7.5800",
+      "netLineSale": "12.4583",
+      "lineSaleValue": "14.9500",
+      "tax": "2.4917",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "89.3100"
+        }
+      ],
+      "receiptDate": "2020-08-01T14:39:56.197",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37409",
+      "opsuiteTransactionId": "24064",
+      "cashierName": "Mark Tansell",
+      "sku": "JRY-LNB30",
+      "description": "LOOSE NYLON BRUSH .30",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "4.4900",
+      "cost": "1.7600",
+      "netLineSale": "3.7417",
+      "lineSaleValue": "4.4900",
+      "tax": "0.7483",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "89.3100"
+        }
+      ],
+      "receiptDate": "2020-08-01T14:39:56.197",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37409",
+      "opsuiteTransactionId": "24064",
+      "cashierName": "Mark Tansell",
+      "sku": "JRY-STJ30",
+      "description": "PRO-SHOT JAG 30 FEMALE",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "6.9500",
+      "cost": "3.9000",
+      "netLineSale": "5.7917",
+      "lineSaleValue": "6.9500",
+      "tax": "1.1583",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "89.3100"
+        }
+      ],
+      "receiptDate": "2020-08-01T14:39:56.197",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37409",
+      "opsuiteTransactionId": "24064",
+      "cashierName": "Mark Tansell",
+      "sku": "MTURS09S",
+      "description": "UTG M-LOK PIC RAIL 4 SLOT",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "31.9500",
+      "cost": "14.3045",
+      "netLineSale": "26.6250",
+      "lineSaleValue": "31.9500",
+      "tax": "5.3250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "89.3100"
+        }
+      ],
+      "receiptDate": "2020-08-01T14:39:56.197",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37409",
+      "opsuiteTransactionId": "24064",
+      "cashierName": "Mark Tansell",
+      "sku": "JRY-EXT",
+      "description": "EXPRESS GUN OIL DROPPER",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "5.9900",
+      "cost": "2.5400",
+      "netLineSale": "4.9917",
+      "lineSaleValue": "5.9900",
+      "tax": "0.9983",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "89.3100"
+        }
+      ],
+      "receiptDate": "2020-08-01T14:39:56.197",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37409",
+      "opsuiteTransactionId": "24064",
+      "cashierName": "Mark Tansell",
+      "sku": "JRY-RR270ALXT",
+      "description": "CLEANING ROD 1PIECE 270 LONG",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "19.9900",
+      "cost": "10.2200",
+      "netLineSale": "16.6583",
+      "lineSaleValue": "19.9900",
+      "tax": "3.3317",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "89.3100"
+        }
+      ],
+      "receiptDate": "2020-08-01T14:39:56.197",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37410",
+      "opsuiteTransactionId": "24065",
+      "cashierName": "Tristan Read",
+      "sku": "HW100KBP177",
+      "description": "WEIHRAUCH HW100 BULLPUP CARB .177",
+      "qty": "1",
+      "discountReason": "TransactionDiscount",
+      "discount": "33.7800",
+      "note": "",
+      "unitPrice": "1139.0000",
+      "cost": "722.0000",
+      "netLineSale": "921.0167",
+      "lineSaleValue": "1105.2200",
+      "tax": "184.2033",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "1500.0000"
+        }
+      ],
+      "receiptDate": "2020-08-01T15:14:38.54",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37410",
+      "opsuiteTransactionId": "24065",
+      "cashierName": "Tristan Read",
+      "sku": "JRY-BIM30TM",
+      "description": "BISLEY 2-PIECE 30MM MED MOUNT",
+      "qty": "1",
+      "discountReason": "TransactionDiscount",
+      "discount": "1.1000",
+      "note": "",
+      "unitPrice": "36.9500",
+      "cost": "19.1523",
+      "netLineSale": "29.8750",
+      "lineSaleValue": "35.8500",
+      "tax": "5.9750",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "1500.0000"
+        }
+      ],
+      "receiptDate": "2020-08-01T15:14:38.54",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37410",
+      "opsuiteTransactionId": "24065",
+      "cashierName": "Tristan Read",
+      "sku": "PVC-MC32B",
+      "description": "UTG COVERT GUN CASE BLK 32\"",
+      "qty": "1",
+      "discountReason": "TransactionDiscount",
+      "discount": "1.7800",
+      "note": "",
+      "unitPrice": "59.9500",
+      "cost": "24.6000",
+      "netLineSale": "48.4750",
+      "lineSaleValue": "58.1700",
+      "tax": "9.6950",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "1500.0000"
+        }
+      ],
+      "receiptDate": "2020-08-01T15:14:38.54",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37410",
+      "opsuiteTransactionId": "24065",
+      "cashierName": "Tristan Read",
+      "sku": "13260",
+      "description": "AIRMAX TOUCH3-12X32 IR SF",
+      "qty": "1",
+      "discountReason": "TransactionDiscount",
+      "discount": "9.1900",
+      "note": "",
+      "unitPrice": "309.9500",
+      "cost": "178.0000",
+      "netLineSale": "250.6333",
+      "lineSaleValue": "300.7600",
+      "tax": "50.1267",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "1500.0000"
+        }
+      ],
+      "receiptDate": "2020-08-01T15:14:38.54",
+      "tenderDescription": "CREDIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37411",
+      "opsuiteTransactionId": "24066",
+      "cashierName": "Tristan Read",
+      "sku": "HUG-MMAG1/2",
+      "description": "HUGGETT MINI MAGNA 1/2\" UNF",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "119.9500",
+      "cost": "65.0000",
+      "netLineSale": "99.9583",
+      "lineSaleValue": "119.9500",
+      "tax": "19.9917",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "119.9500"
+        }
+      ],
+      "receiptDate": "2020-08-01T15:15:48.123",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37412",
+      "opsuiteTransactionId": "24067",
+      "cashierName": "Mark Tansell",
+      "sku": "GUNREPAIRS",
+      "description": "GUN REPAIRS",
+      "qty": "2",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "75.0000",
+      "cost": "0.0000",
+      "netLineSale": "125.0000",
+      "lineSaleValue": "75.0000",
+      "tax": "25.0000",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "150.0000"
+        }
+      ],
+      "receiptDate": "2020-08-01T15:20:58.397",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37413",
+      "opsuiteTransactionId": "24068",
+      "cashierName": "Mark Tansell",
+      "sku": "AAP-452",
+      "description": "AIR ARM DIAB FIELD .17 (500)",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "10.7500",
+      "cost": "6.5113",
+      "netLineSale": "8.9583",
+      "lineSaleValue": "10.7500",
+      "tax": "1.7917",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "10.7500"
+        }
+      ],
+      "receiptDate": "2020-08-01T15:25:17.78",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37414",
+      "opsuiteTransactionId": "24069",
+      "cashierName": "Mark Tansell",
+      "sku": "02B3-KT05",
+      "description": "BEST FITTINGS STARTER KIT",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "24.9500",
+      "cost": "11.8500",
+      "netLineSale": "20.7917",
+      "lineSaleValue": "24.9500",
+      "tax": "4.1583",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "25.0000"
+        },
+        {
+          "value": "-0.0500"
+        }
+      ],
+      "receiptDate": "2020-08-01T15:37:19.243",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37415",
+      "opsuiteTransactionId": "24070",
+      "cashierName": "Mark Tansell",
+      "sku": "RA2317165",
+      "description": "RWS SUPER FIELD .22 5.52MM",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "10.9900",
+      "cost": "5.9439",
+      "netLineSale": "9.1583",
+      "lineSaleValue": "10.9900",
+      "tax": "1.8317",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "10.9900"
+        }
+      ],
+      "receiptDate": "2020-08-01T16:09:58.307",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37416",
+      "opsuiteTransactionId": "24071",
+      "cashierName": "Tristan Read",
+      "sku": "AAP-552",
+      "description": "AIR ARM DIAB FIELD .22 (500)",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "13.9500",
+      "cost": "2.0286",
+      "netLineSale": "11.6250",
+      "lineSaleValue": "13.9500",
+      "tax": "2.3250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "20.0000"
+        },
+        {
+          "value": "-5.0500"
+        }
+      ],
+      "receiptDate": "2020-08-01T16:42:58.18",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37416",
+      "opsuiteTransactionId": "24071",
+      "cashierName": "Tristan Read",
+      "sku": "AG FILL 1",
+      "description": "AIR GUN FILL SMALL/MEDIUM",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "1.0000",
+      "cost": "0.0100",
+      "netLineSale": "0.8333",
+      "lineSaleValue": "1.0000",
+      "tax": "0.1667",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "20.0000"
+        },
+        {
+          "value": "-5.0500"
+        }
+      ],
+      "receiptDate": "2020-08-01T16:42:58.18",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    },
+    {
+      "transactionID": "37417",
+      "opsuiteTransactionId": "24072",
+      "cashierName": "Tristan Read",
+      "sku": "123",
+      "description": "MISCELLANEOUS ITEM",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "collection/handling fee k22",
+      "unitPrice": "65.0000",
+      "cost": "0.0000",
+      "netLineSale": "54.1667",
+      "lineSaleValue": "65.0000",
+      "tax": "10.8333",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "87.9500"
+        }
+      ],
+      "receiptDate": "2020-08-01T16:44:35.663",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37417",
+      "opsuiteTransactionId": "24072",
+      "cashierName": "Tristan Read",
+      "sku": "BER-E00378",
+      "description": "GEL-TEK CHEEK PROTECTOR",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "22.9500",
+      "cost": "13.0000",
+      "netLineSale": "19.1250",
+      "lineSaleValue": "22.9500",
+      "tax": "3.8250",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "87.9500"
+        }
+      ],
+      "receiptDate": "2020-08-01T16:44:35.663",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37418",
+      "opsuiteTransactionId": "24073",
+      "cashierName": "Antony Bill",
+      "sku": "H006",
+      "description": "HENRY BIG BOY .44",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "1079.0000",
+      "cost": "738.7100",
+      "netLineSale": "899.1667",
+      "lineSaleValue": "1079.0000",
+      "tax": "179.8333",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "1239.0000"
+        }
+      ],
+      "receiptDate": "2020-08-01T17:10:03.853",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37418",
+      "opsuiteTransactionId": "24073",
+      "cashierName": "Antony Bill",
+      "sku": "CBC-44C",
+      "description": "CBC 44 FMJ RNFP 240G",
+      "qty": "50",
+      "discountReason": "PriceModification",
+      "discount": "30.5000",
+      "note": "",
+      "unitPrice": "0.6100",
+      "cost": "0.3610",
+      "netLineSale": "0.0000",
+      "lineSaleValue": "0.0000",
+      "tax": "0.0000",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "1239.0000"
+        }
+      ],
+      "receiptDate": "2020-08-01T17:10:03.853",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37418",
+      "opsuiteTransactionId": "24073",
+      "cashierName": "Antony Bill",
+      "sku": "2HANDGOODS",
+      "description": "SECONDHAND GOODS",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "WEBLEY TEMPEST",
+      "unitPrice": "160.0000",
+      "cost": "0.0000",
+      "netLineSale": "160.0000",
+      "lineSaleValue": "160.0000",
+      "tax": "0.0000",
+      "taxCode": "ZERO",
+      "totalSale": [
+        {
+          "value": "1239.0000"
+        }
+      ],
+      "receiptDate": "2020-08-01T17:10:03.853",
+      "tenderDescription": "DEBIT CARD",
+      "tenderType": "Card (External)"
+    },
+    {
+      "transactionID": "37419",
+      "opsuiteTransactionId": "24074",
+      "cashierName": "Mark Tansell",
+      "sku": "AS612S28",
+      "description": "ARMSAN 612S SYN 28",
+      "qty": "1",
+      "discountReason": "",
+      "discount": "",
+      "note": "",
+      "unitPrice": "399.0000",
+      "cost": "190.0000",
+      "netLineSale": "332.5000",
+      "lineSaleValue": "399.0000",
+      "tax": "66.5000",
+      "taxCode": "Standard",
+      "totalSale": [
+        {
+          "value": "400.0000"
+        },
+        {
+          "value": "-1.0000"
+        }
+      ],
+      "receiptDate": "2020-08-01T17:11:30.947",
+      "tenderDescription": "CASH",
+      "tenderType": "Cash"
+    }
+  ]
+}

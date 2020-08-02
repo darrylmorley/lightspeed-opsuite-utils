@@ -4,7 +4,7 @@ const BasicHttpBinding = require("wcf.js").BasicHttpBinding;
 const WSHttpBinding = require("wcf.js").WSHttpBinding;
 const fs = require("fs");
 const Proxy = require("wcf.js").Proxy;
-const dotenv = require("dotenv").config();
+const dotenv = require("dotenv").config({path: '../.env'});
 const { transform, prettyPrint } = require("camaro");
 
 const getOpsuiteItemMasters = () => {
@@ -22,16 +22,16 @@ const getOpsuiteItemMasters = () => {
     proxy.ClientCredentials.Username.Username = process.env.API_USER;
     proxy.ClientCredentials.Username.Password = process.env.API_PASS;
 
-    let status = -1;
-    let startDate = "2020-06-27T08:00:00Z";
-    let endDate = "2020-06-27T20:00:00Z";
+    let status = 'Any';
+    let startDate = "2020-01-01T08:00:00Z";
+    let endDate = "2020-12-31T20:00:00Z";
 
     const message =
       '<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="http://www.opsuite.com/opservices/2013/08">' +
       "<soapenv:Header/>" +
       "<soapenv:Body>" +
       "<ns:GetPurchaseOrdersByDate>" +
-      //`<ns:status>${status}</ns:status>` +
+      `<ns:status>${status}</ns:status>` +
       `<ns:startDate>${startDate}</ns:startDate>` +
       `<ns:endDate>${endDate}</ns:endDate>` +
       "</ns:GetPurchaseOrdersByDate>" +
@@ -40,10 +40,10 @@ const getOpsuiteItemMasters = () => {
 
     const template = {
       PurchaseOrders: [
-        "//a:ExportItem",
+        "//a:ExportPurchaseOrder",
         {
-          refNum: "normalize-space(a:)",
-          orderedDate: "normalize-space(a:)",
+          refNum: "normalize-space(a:OrderNumber)",
+          orderedDate: "normalize-space(a:DatePlaced)",
           receivedDate: "normalize-space(a:)",
           arrivalDate: "normalize-space(a:)",
           shipInstructions: "normalize-space(a:)",
@@ -53,7 +53,7 @@ const getOpsuiteItemMasters = () => {
           vendor: "normalize-space(a:)",
           shop: "normalize-space(a:)",
           itemID: "normalize-space(a:)",
-          qty: "normalize-space(a:)",
+          qty: "normalize-space(a:QuantityOrdered)",
           price: "normalize-space(a:)",
           originalPrice: "normalize-space(a:)",
           orderID: "normalize-space(a:)",
@@ -70,18 +70,13 @@ const getOpsuiteItemMasters = () => {
       async function (response, err) {
         if (response) {
           console.log(response);
-          fs.writeFile("./temp/PurchaseOrders.xml", response, (err) => {
+          fs.writeFile("../data/xml/OpsuitePurchaseOrders2020.xml", response, (err) => {
             console.error(err);
           });
           // const result = await transform(response, template);
           // const converted = JSON.stringify(result);
-          // fs.writeFile(
-          //   "./temp/OpsuiteBatchTransactionsExport.json",
-          //   converted,
-          //   (err) => {
-          //     if (err) throw err;
-          //   }
-          // );
+          // fs.writeFile("../data/json/OpsuitePurchaseOrders2017.json", converted, (err) => {
+          //  if (err) throw err; });
 
           resolve(response);
         }
