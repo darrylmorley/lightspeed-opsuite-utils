@@ -5,7 +5,7 @@ const {
   getAccountID,
 } = require("./base/getRequired");
 const lightspeedApi = "https://api.lightspeedapp.com/API";
-const items = require('../data/json/missingItemsLs.json', 'utf-8')
+const items = require('../data/json/missingItemsLs.json')
 const axios = require("axios");
 const fs = require("fs");
 
@@ -23,29 +23,6 @@ const updateItems = async () => {
   
   items.forEach((item, index) => {
     setTimeout(async () => {
-    
-      const postBody = `
-      {
-        "defaultCost": "${item.defaultCost}",
-        "discountable": "${item.discountable}",
-        "tax": "${item.tax}",
-        "itemType": "default",
-        "serialized": "false",
-        "description": "${item.description}",
-        "Manufacturer": "${item.Manufacturer}",
-        "ean": "${item.ean}",
-        "customSku": "${item.customSku}",
-        "manufacturerSku": "",
-        "Prices": {
-          "ItemPrice": [
-            {
-              "amount": "${item.amount}",
-              "useTypeID": "1",
-              "useType": "Default"	
-            }
-        ]
-      }
-  }`;
 
     axios.interceptors.response.use(function(response) {
       return response;
@@ -76,15 +53,18 @@ const updateItems = async () => {
         url: `${lightspeedApi}/Account/${accountID}/Item.json`,
         method: 'post',
         headers: header,
-        data: postBody
+        data: item
       })
       console.log(res.data)
       console.log(res.status)
       return res.data
-    } catch (err) {
-      if (err) console.error('We have a problem: ', err)
-      fs.appendFile('../data/errors/itemPostErrors.json', JSON.stringify(err), (err) => console.error(err));
-      return err
+    } catch (error) {
+      console.log(error)
+      if (error.response.status != 401) {
+        fs.appendFile('../data/errors/itemPostErrors.json', JSON.stringify(error), (error) => console.error(error));
+        console.error('We have a problem: ', error)
+        return error
+      }
     }
   }, index * 10000) 
   })

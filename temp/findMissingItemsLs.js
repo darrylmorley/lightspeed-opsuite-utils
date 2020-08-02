@@ -30,18 +30,24 @@ const data = missing.map((item) => {
   itm = opsuiteItemMasters.find((itm) => item.customSku === itm.customSku)
   if (itm) {
     return {
-      customSku: item.customSku,
-      description: item.description,
-      Manufacturer: itm.brand,
-      defaultCost: itm.cost,
-      tax: itm.taxable,
-      discountable: true,
-      ean: itm.barcodeNumber,
-      Note: itm.note,
-      qoh: item.qoh,
-      amount: itm.price,
-      itemType: 'default',
-      categoryID: itm.category
+      "defaultCost": itm.cost,
+      "discountable": "true",
+      "tax": itm.taxable,
+      "itemType": "default",
+      "serialized": "false",
+      "description": item.description,
+      "Manufacturer": itm.brand,
+      "ean": itm.barcodeNumber,
+      "customSku": item.customSku,
+      "Prices": {
+        "ItemPrice": [
+          {
+            "amount": itm.price,
+            "useTypeID": "1",
+            "useType": "Default"	
+          }
+      ]
+    }
     }
   }
 })
