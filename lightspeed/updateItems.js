@@ -5,7 +5,7 @@ const {
   getAccountID,
 } = require("./base/getRequired");
 const lightspeedApi = "https://api.lightspeedapp.com/API";
-const items = require('../data/json/opsuiteLsMerged.json', 'utf-8')
+const items = require('../data/json/lightspeed/itemsToPost.json')
 const axios = require("axios");
 const fs = require("fs");
 
@@ -25,15 +25,11 @@ const updateItems = async () => {
     setTimeout(async () => {
     
       const postBody = `{
-      "ean": "${item.ean}",
       "defaultCost": "${item.defaultCost}",
-      "tax": "${item.tax}",
-      "itemType": "default",
       "ItemShops": {
         "ItemShop": [
           {
-            "itemShopID": "${item.itemShopID}",
-            "qoh": "${item.qoh}",
+            "itemShopID": "${item.shopID}",
             "reorderPoint": "${item.reorderPoint}",
             "reorderLevel": "${item.reorderLevel}"
           }
@@ -51,7 +47,7 @@ const updateItems = async () => {
       "Tags": {
 				"Tag": [
 					{
-						"name": "${item.location}"
+						"name": "${item.tag}"
 					}
 				]
 			}

@@ -1,0 +1,6662 @@
+[
+  {
+    "customSku": "084-171-200",
+    "description": "CLEANING BRUSH BRASS",
+    "amount": "3.4900",
+    "cost": "1.1100",
+    "qoh": "3",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "100-004-990",
+    "description": "MAGPUL ANGLED GRIP FDE",
+    "amount": "48.9500",
+    "cost": "30.5800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "100-003-183",
+    "description": "NORDIC BARREL CLAMP",
+    "amount": "49.9500",
+    "cost": "32.1700",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "100-013-938",
+    "description": "BENELLI TACT BOLT RELEASE M2",
+    "amount": "20.9500",
+    "cost": "13.5800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "100059",
+    "description": "CED7000 TIMER NON RF",
+    "amount": "109.9500",
+    "cost": "68.8500",
+    "qoh": "0",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "100061",
+    "description": "CED7000 TIMER WITH RF",
+    "amount": "119.9500",
+    "cost": "71.7500",
+    "qoh": "0",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "100432",
+    "description": "D-TERMINATORSCALE",
+    "amount": "129.9500",
+    "cost": "80.0300",
+    "qoh": "1",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "100486",
+    "description": "12G TACTICAL STRIPPER 6 SHELL",
+    "amount": "24.9900",
+    "cost": "17.3800",
+    "qoh": "0",
+    "reorderPoint": "2",
+    "reorderLevel": "4"
+  },
+  {
+    "customSku": "100529/4",
+    "description": "IPSC CARD TARGET  MINI 25 PACK",
+    "amount": "11.9500",
+    "cost": "7.2300",
+    "qoh": "9",
+    "reorderPoint": "2",
+    "reorderLevel": "4"
+  },
+  {
+    "customSku": "100723",
+    "description": "NM400 IR IC KIT",
+    "amount": "124.9500",
+    "cost": "70.7000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "100733",
+    "description": "NM800 IR IC PULSAR KIT",
+    "amount": "214.9500",
+    "cost": "121.6300",
+    "qoh": "2",
+    "reorderPoint": "1",
+    "reorderLevel": "3"
+  },
+  {
+    "customSku": "101060",
+    "description": "DAA R'MASTER ALI MAG POUCH BK",
+    "amount": "44.9500",
+    "cost": "25.2900",
+    "qoh": "2",
+    "reorderPoint": "2",
+    "reorderLevel": "4"
+  },
+  {
+    "customSku": "101062",
+    "description": "DAA R'MASTER ALI MAGPOUCH RD",
+    "amount": "44.9500",
+    "cost": "23.5100",
+    "qoh": "1",
+    "reorderPoint": "2",
+    "reorderLevel": "4"
+  },
+  {
+    "customSku": "101369",
+    "description": "DAA MAGNETIC 12G CADDY 4SHOT",
+    "amount": "26.9500",
+    "cost": "13.2800",
+    "qoh": "1",
+    "reorderPoint": "2",
+    "reorderLevel": "6"
+  },
+  {
+    "customSku": "101672",
+    "description": "DAA R'MASTER HOL MUZZLE SUP",
+    "amount": "17.4900",
+    "cost": "10.7600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "120535TH",
+    "description": "INTEGRAL HUNTER KNIFE",
+    "amount": "159.9500",
+    "cost": "71.9100",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "120541",
+    "description": "HUNTING KNIFE INTEGRAL11",
+    "amount": "179.9500",
+    "cost": "54.9500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "120587",
+    "description": "BOKER CARBON STEEL HUNTER",
+    "amount": "159.9500",
+    "cost": "46.3400",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "12131",
+    "description": "REFLEX RED DOT SIGHT 5MOA",
+    "amount": "98.9500",
+    "cost": "59.3900",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "1217A",
+    "description": "POWDER FLASK .36",
+    "amount": "25.9500",
+    "cost": "15.1300",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "12850",
+    "description": "BROWNING HIVIS COMP",
+    "amount": "39.9500",
+    "cost": "21.7000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "1311P",
+    "description": "PISTOL LOAD/CLEAN KIT",
+    "amount": "41.9500",
+    "cost": "25.7100",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "13300",
+    "description": "AIRMAX 30 TAC 3-12X50 MD",
+    "amount": "279.9500",
+    "cost": "161.9900",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "1348",
+    "description": "BORE LIGHT (BLACKPOWDER)",
+    "amount": "8.9500",
+    "cost": "5.3100",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "14121",
+    "description": "VANTAGE 3-9 X40 MILLDOT",
+    "amount": "59.9500",
+    "cost": "35.6035",
+    "qoh": "2",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "14123",
+    "description": "VANTAGE 3-9 X40 MILLDOT AO",
+    "amount": "69.9500",
+    "cost": "38.2017",
+    "qoh": "0",
+    "reorderPoint": "2",
+    "reorderLevel": "3"
+  },
+  {
+    "customSku": "14161",
+    "description": "VANTAGE 4-16X44SF 1/2 MIL DOT",
+    "amount": "189.9500",
+    "cost": "88.7475",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "14225",
+    "description": "VANTAGE 3-9 X40 IR M'DOT AO",
+    "amount": "104.9500",
+    "cost": "53.5933",
+    "qoh": "2",
+    "reorderPoint": "2",
+    "reorderLevel": "3"
+  },
+  {
+    "customSku": "14230",
+    "description": "VANTAGE 3-9 X50 IR M'DOT",
+    "amount": "104.9500",
+    "cost": "53.5450",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "14232",
+    "description": "VANTAGE 3-9 X50 IR M'DOT AO",
+    "amount": "114.9500",
+    "cost": "58.7950",
+    "qoh": "1",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "14265",
+    "description": "VANTAGE 6-24X50 IR M'DOT AO",
+    "amount": "154.9500",
+    "cost": "81.5900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "1501",
+    "description": "BSA SUPERSPORT SE .177",
+    "amount": "199.0000",
+    "cost": "128.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "15110",
+    "description": "PANORAMA 3-9X40 IR 1/2 MD",
+    "amount": "159.9500",
+    "cost": "80.9900",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "1602",
+    "description": "BSA LIGHTNING SE .22",
+    "amount": "239.0000",
+    "cost": "142.0000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "168S-44",
+    "description": "PIETTA REMI 1858 ARMY  ST44",
+    "amount": "540.0000",
+    "cost": "327.6000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "17220",
+    "description": "SIDEWINDER 30SF 6-24X56 MD",
+    "amount": "399.9500",
+    "cost": "200.9000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "18230",
+    "description": "FRONTIER 30 SF 5-30X50 LR",
+    "amount": "599.9500",
+    "cost": "296.9900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "202264",
+    "description": "GSG-5 MAGAZINE CLAMP",
+    "amount": "25.4900",
+    "cost": "12.0900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "20749/16SC",
+    "description": "W/RAUCH HW60J 16\"S'CUT 17HMR",
+    "amount": "699.0000",
+    "cost": "468.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "22-31-001092",
+    "description": "MYTH FIXED BLADE PRO DP",
+    "amount": "69.9900",
+    "cost": "32.0800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "22-41795",
+    "description": "PROFILE DP",
+    "amount": "27.9900",
+    "cost": "14.3900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-CPGO1911A1DO",
+    "description": "UMAREX COLT DARK OPS",
+    "amount": "209.9500",
+    "cost": "123.1200",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "23372001",
+    "description": "UMAREX COLT PYTHON 4\" NICKEL",
+    "amount": "129.9500",
+    "cost": "71.6000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "23372002",
+    "description": "UMAREX COLT PYTHON 6\" NICKEL",
+    "amount": "139.9500",
+    "cost": "78.8500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "23380400",
+    "description": "UMAREX SMITH&WESS 4\" BLACK",
+    "amount": "209.9500",
+    "cost": "96.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "23389003",
+    "description": "COLT SA ARMY NICKEL CO2 4.5",
+    "amount": "159.9500",
+    "cost": "63.1000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "23393000",
+    "description": "LUGER PO8 4.5MM BB",
+    "amount": "69.0000",
+    "cost": "31.9600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "23395001",
+    "description": "UMAREX BERETTA 92 FPS NICKEL",
+    "amount": "219.9500",
+    "cost": "118.3300",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "23398000",
+    "description": "UMAREX BERETTA XX-TREME",
+    "amount": "249.9500",
+    "cost": "138.6900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "29236000",
+    "description": "BLANKS CHILDS SIDE/SIDE",
+    "amount": "2.9500",
+    "cost": "1.8300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "300019",
+    "description": "NM 18650 BATTERY 3400 SINGLE",
+    "amount": "15.9500",
+    "cost": "9.0200",
+    "qoh": "0",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "3110",
+    "description": "BSA SCORPION G'STAR BP .177 MC",
+    "amount": "895.0000",
+    "cost": "596.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "3577",
+    "description": "G10 HUNTING KNIFE",
+    "amount": "69.9500",
+    "cost": "27.4500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "376",
+    "description": "BSA ULTRA .22",
+    "amount": "349.0000",
+    "cost": "236.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "377",
+    "description": "BSA ULTRA .177",
+    "amount": "399.0000",
+    "cost": "236.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "40150",
+    "description": "BERETTA 12G U'LIGHT 28 FM/C",
+    "amount": "2035.0000",
+    "cost": "1445.0000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "40153",
+    "description": "BERETTA 12G U'LIGHT GOLD 28M/C",
+    "amount": "2215.0000",
+    "cost": "1510.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "41100",
+    "description": "LRF400 RANGEFINDER",
+    "amount": "159.9500",
+    "cost": "83.3000",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "4-12310E",
+    "description": "ELITE GLASSES",
+    "amount": "54.9500",
+    "cost": "23.8000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "42506",
+    "description": "BERETTA 693 FIELD 30\"M/C",
+    "amount": "2349.0000",
+    "cost": "1670.0000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "43111",
+    "description": "HAWKE FOREGRIP LIGHT/LASER",
+    "amount": "89.9900",
+    "cost": "48.5900",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "4800",
+    "description": "NAPIER MOD'COVER BLACK",
+    "amount": "10.9500",
+    "cost": "4.7300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "5015",
+    "description": "BSA R10 SE SUPERCARB .177 BLK",
+    "amount": "799.0000",
+    "cost": "539.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "5019",
+    "description": "BSA R10 SE CARB 22 WOODLAND",
+    "amount": "775.0000",
+    "cost": "519.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "50984",
+    "description": "BERETTA 690 I SPORT 30\"M/C",
+    "amount": "2275.0000",
+    "cost": "1645.0000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "51878",
+    "description": "BERETTA 12G 694 SPORT 30 M/C",
+    "amount": "3300.0000",
+    "cost": "2300.0000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "50580",
+    "description": "BERETTA 12G 692 SPORT 32 M/C",
+    "amount": "2950.0000",
+    "cost": "2145.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "511072361",
+    "description": "W'CHESTER 12G X3 COM 28 7+1",
+    "amount": "919.0000",
+    "cost": "653.3000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "511101392",
+    "description": "SX3 RED PERFORMANCE 28\"",
+    "amount": "999.0000",
+    "cost": "765.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "511102392",
+    "description": "SX3 RED PERFORMANCE 28\" FAC",
+    "amount": "899.0000",
+    "cost": "719.1000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "511156260",
+    "description": "W'CHESTER 12G SX3  30\" 12SHOT",
+    "amount": "1185.0000",
+    "cost": "807.4600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "511202271",
+    "description": "WIN 12G SX4 SYNTH 26\"",
+    "amount": "669.0000",
+    "cost": "485.0000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "51136700",
+    "description": "AKAH RIFLE SCOPE 10-40X56 ILL",
+    "amount": "349.9500",
+    "cost": "158.3300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "512251391",
+    "description": "B'SHADOW 12G PUMP 26\" FAC",
+    "amount": "353.0000",
+    "cost": "243.4600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "5-13395-131",
+    "description": "TOPGUN GREEN SHOTGUN SLIP 30\"",
+    "amount": "32.9500",
+    "cost": "10.3250",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "5212",
+    "description": "NAPIER WOODEN CLEANING KIT",
+    "amount": "72.4500",
+    "cost": "29.8500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "528-101-004",
+    "description": "243/22-250/6.5 BORE GUIDE",
+    "amount": "24.9500",
+    "cost": "14.6700",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "55907/24/F",
+    "description": "BERETTA 1301 12G COMP FAC",
+    "amount": "1099.0000",
+    "cost": "780.7500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "55950/28",
+    "description": "BERETTA 12G A400 ACTION 28\"",
+    "amount": "1375.0000",
+    "cost": "975.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "55962L/28",
+    "description": "BERETTA 12G A400 ACT 28\" LHKO",
+    "amount": "1445.0000",
+    "cost": "1030.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "55966/28",
+    "description": "BERETTA 12G A400 LITE 28\" K/O",
+    "amount": "1195.0000",
+    "cost": "870.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "600066",
+    "description": "NM400 DIMMABLE IR LED ONLY",
+    "amount": "74.9500",
+    "cost": "40.6000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "60019934M",
+    "description": "FLEECE- MED - HENRY NAVY BLUE",
+    "amount": "59.9500",
+    "cost": "24.2200",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "60019934S",
+    "description": "FLEECE- SML - HENRY NAVY BLUE",
+    "amount": "59.9500",
+    "cost": "24.2200",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "60019934XL",
+    "description": "FLEECE- XL- HENRY NAVY BLUE",
+    "amount": "59.9500",
+    "cost": "24.2200",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "600216696L",
+    "description": "JACKET - LRG - DERBY PINEGREEN",
+    "amount": "169.9500",
+    "cost": "84.9500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "60021669M",
+    "description": "JACKET - MED - DERBY PINEGREEN",
+    "amount": "169.9500",
+    "cost": "84.9500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "60021669S",
+    "description": "JACKET - SML - DERBY PINEGREEN",
+    "amount": "169.9500",
+    "cost": "84.9500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "60021669XL",
+    "description": "JACKET - XL - DERBY PINEGREEN",
+    "amount": "169.9500",
+    "cost": "75.8500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "60022198 52",
+    "description": "BREEKS - 52 - DERBY PINEGREEN",
+    "amount": "84.9500",
+    "cost": "51.9500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "6105",
+    "description": "NAPIER SILENCER PROTECTOR",
+    "amount": "6.9900",
+    "cost": "3.2200",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "61100260-W",
+    "description": "GAMO DELTA FOX  GT WHISPER 177",
+    "amount": "94.9500",
+    "cost": "51.6250",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "63360000",
+    "description": "AKAH SHOTGUN SLIP GREEN",
+    "amount": "29.9500",
+    "cost": "9.8653",
+    "qoh": "0",
+    "reorderPoint": "1",
+    "reorderLevel": "3"
+  },
+  {
+    "customSku": "63361000",
+    "description": "AKAH RIFLE SLIP",
+    "amount": "32.9500",
+    "cost": "11.7900",
+    "qoh": "5",
+    "reorderPoint": "1",
+    "reorderLevel": "3"
+  },
+  {
+    "customSku": "63363000",
+    "description": "AKAH CARBINE RIFLE SLIP",
+    "amount": "31.9500",
+    "cost": "10.6450",
+    "qoh": "0",
+    "reorderPoint": "1",
+    "reorderLevel": "3"
+  },
+  {
+    "customSku": "68190000",
+    "description": "STEADIFY S'GLE SHOOTING STICK",
+    "amount": "99.9500",
+    "cost": "61.5600",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "700001",
+    "description": "NM ADJUSTABLE RAIL MOUNT",
+    "amount": "39.9500",
+    "cost": "24.2200",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "700002",
+    "description": "NM ADJUSTABLE RAIL MOUNT SET",
+    "amount": "54.9500",
+    "cost": "32.0500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "71042",
+    "description": "BUTTOLO DECOY ROE CALL",
+    "amount": "29.9500",
+    "cost": "15.2300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "717",
+    "description": "BSA RIFLE SLIP S10",
+    "amount": "39.9500",
+    "cost": "20.7875",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "718",
+    "description": "BSA RIFLE SLIP S10 LONG",
+    "amount": "39.9500",
+    "cost": "20.1454",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "729",
+    "description": "BSA CARBINE COVER",
+    "amount": "48.9500",
+    "cost": "25.7688",
+    "qoh": "2",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "730",
+    "description": "BSA CARBINE COVER 110CM",
+    "amount": "48.9500",
+    "cost": "25.9787",
+    "qoh": "1",
+    "reorderPoint": "2",
+    "reorderLevel": "3"
+  },
+  {
+    "customSku": "73243000",
+    "description": "ELK HUNTER AND SHEATH",
+    "amount": "79.9500",
+    "cost": "43.6000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "80107H",
+    "description": "TIKKA T3 LITE SYN/BLUE 243",
+    "amount": "749.0000",
+    "cost": "527.9600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "80550/AH",
+    "description": "SAKO QUAD WOOD S/C 17",
+    "amount": "915.0000",
+    "cost": "570.3800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "80551/B",
+    "description": "SAKO QUAD SYN S/C 22",
+    "amount": "685.0000",
+    "cost": "421.4700",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "80552AH",
+    "description": "SAKO QUAD BARREL .17 HMR",
+    "amount": "225.0000",
+    "cost": "161.5000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "80552B",
+    "description": "SAKO QUAD BARREL .22",
+    "amount": "225.0000",
+    "cost": "161.5000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "80553/AH",
+    "description": "SAKO QUAD WOOD VAR S/C 17",
+    "amount": "905.0000",
+    "cost": "655.5000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "80553/B",
+    "description": "SAKO QUAD WOOD VAR S/C 22",
+    "amount": "905.0000",
+    "cost": "655.5000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "80553AH",
+    "description": "SAKO QUAD VAR BARREL .17 HMR",
+    "amount": "225.0000",
+    "cost": "161.5000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "80553B",
+    "description": "SAKO QUAD VAR BARREL .22",
+    "amount": "225.0000",
+    "cost": "161.5000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "80558AH",
+    "description": "SAKO FINNFIRE II WOOD 17HMR 16\"",
+    "amount": "779.0000",
+    "cost": "565.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "80558B",
+    "description": "SAKO FINNFIRE II WOOD .22LR 16\"",
+    "amount": "779.0000",
+    "cost": "565.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "80617R",
+    "description": "SAKO TRG-22 BLUE/BLACK 308",
+    "amount": "2695.0000",
+    "cost": "1741.8300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "81107D",
+    "description": "TIKKA T3X LITE SYN BLUE 223",
+    "amount": "945.0000",
+    "cost": "631.7500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "813007302",
+    "description": "MIROKU 12G MK38 SP 32 TEAGUE",
+    "amount": "1649.0000",
+    "cost": "1060.3200",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "813017303",
+    "description": "MIROKU 12G MK38SP G5 30 TEAGUE",
+    "amount": "2899.0000",
+    "cost": "1835.8200",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "87018R",
+    "description": "SAKO A7 R'TECH 308 BLACK",
+    "amount": "1245.0000",
+    "cost": "902.5000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "94530",
+    "description": "GMK ADJUSTABLE BUTT PLATE",
+    "amount": "18.9500",
+    "cost": "9.7400",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "A009982",
+    "description": "ANSCHUTZ 1416 D HB BEAV 23\"",
+    "amount": "895.0000",
+    "cost": "563.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "A-221",
+    "description": "PRIVI 44 MAG FPJ 240G",
+    "amount": "0.6900",
+    "cost": "0.4180",
+    "qoh": "100",
+    "reorderPoint": "50",
+    "reorderLevel": "100"
+  },
+  {
+    "customSku": "AA",
+    "description": "BATTERY AA 4 PACK",
+    "amount": "4.9500",
+    "cost": "2.1600",
+    "qoh": "1",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "AA5/LGE/BLK",
+    "description": "WILKINS PELLET POUCH BLACK",
+    "amount": "29.9500",
+    "cost": "15.2800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "AC15224",
+    "description": "ALLEN EZ SEE SIGHT IN GRID",
+    "amount": "11.9900",
+    "cost": "5.3557",
+    "qoh": "2",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "ACHC44240S",
+    "description": "ACE 44 240gr SWC (500)",
+    "amount": "54.9500",
+    "cost": "34.4250",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "AG5",
+    "description": "BATTERY AG5 (PAIR)",
+    "amount": "1.4900",
+    "cost": "0.3700",
+    "qoh": "5",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "AIMPOINT-11417",
+    "description": "AIMPOINT 9000SC 2 MOA",
+    "amount": "499.0000",
+    "cost": "223.6500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "AIMPOINT-11421",
+    "description": "AIMPOINT COMP C3 2 MOA",
+    "amount": "595.0000",
+    "cost": "364.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "AIMPOINT-200018",
+    "description": "AIMPOINT MICRO H-1 2 MOA WEA",
+    "amount": "549.9500",
+    "cost": "255.3300",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "AIMPOINT-200090",
+    "description": "AIMPOINT MICRO H-1 2 MOA BLA",
+    "amount": "849.9500",
+    "cost": "473.6000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "AIMPOINT-200185",
+    "description": "AIMPOINT MICRO H-2 2 MOA WEA",
+    "amount": "619.9500",
+    "cost": "366.3000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "AIMPOINT-200187",
+    "description": "AIMPOINT MICRO H-2 2 MOA BLA",
+    "amount": "895.0000",
+    "cost": "568.8000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "AKKAR-A12954",
+    "description": "CHURCHILL 206 O/U 28\" BLK",
+    "amount": "675.0000",
+    "cost": "424.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "ALLI-101",
+    "description": "ALLIANT BULLSEYE",
+    "amount": "43.9500",
+    "cost": "24.9321",
+    "qoh": "3",
+    "reorderPoint": "2",
+    "reorderLevel": "4"
+  },
+  {
+    "customSku": "ALLI-106",
+    "description": "ALLIANT 2400",
+    "amount": "45.9500",
+    "cost": "26.5600",
+    "qoh": "2",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "ALLI-119",
+    "description": "ALLIANT RELOADER 17",
+    "amount": "45.9500",
+    "cost": "26.8800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "ASGP17176",
+    "description": "DAN WESSON 4\" 4.5 BB BLACK",
+    "amount": "144.9500",
+    "cost": "73.9900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BC-BU21618",
+    "description": "B'CREEK UNI EYE 16-18",
+    "amount": "14.9500",
+    "cost": "7.8200",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BC-BU26522",
+    "description": "B'CREEK SUEDE COBRA SLING",
+    "amount": "31.9500",
+    "cost": "21.3100",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BCH1000 41/42",
+    "description": "SOCK BOOT BLIZARD 7/8",
+    "amount": "17.9500",
+    "cost": "6.2500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BEN-00002/26",
+    "description": "BEN M.FELTRO COMFORT 12G 26\"",
+    "amount": "1275.0000",
+    "cost": "925.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BEN-00002/28",
+    "description": "BEN M.FELTRO COMFORT 12G 28\"",
+    "amount": "1275.0000",
+    "cost": "925.0000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BEN-00087/28/F",
+    "description": "BENELLI M2 COMFORT 7+1 12G 28\"",
+    "amount": "1250.0000",
+    "cost": "885.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BEN-00226/28",
+    "description": "BENELLI S/SPORT RAFF 12G 28\"",
+    "amount": "2165.0000",
+    "cost": "1395.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BEN-00318/28",
+    "description": "SUPER BLACK EAGLE 28\" MAX 4",
+    "amount": "1850.0000",
+    "cost": "1315.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BEN-00340/28",
+    "description": "BENELLI VINCI BLACK SYN 28\"",
+    "amount": "1499.0000",
+    "cost": "1050.0000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BEN-00920/28",
+    "description": "BENELLI 828U BLACK 12G 28\"",
+    "amount": "2025.0000",
+    "cost": "1315.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BER-BSC83551702",
+    "description": "GAMEKEEPER CART BAG 100",
+    "amount": "49.9500",
+    "cost": "14.9600",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BER-CU552295-V2",
+    "description": "BERETTA BRN BEAR TROUSER M",
+    "amount": "119.9500",
+    "cost": "54.9500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BER-E00608",
+    "description": "1301 12G EXT TUBE",
+    "amount": "27.3750",
+    "cost": "22.8125",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "BERGU45102295V2",
+    "description": "BERETTA TD STATIC JKT M",
+    "amount": "299.9500",
+    "cost": "127.9500",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BER-GU34302295",
+    "description": "BERETTA WINTER TEAL JACKET L",
+    "amount": "299.9500",
+    "cost": "127.9500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BERGU45102295V4",
+    "description": "BERETTA TD STATIC JKT XL",
+    "amount": "299.9500",
+    "cost": "127.9500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BERGU48102295L",
+    "description": "BERETTA INSU ACTIVE  JKT L",
+    "amount": "279.9500",
+    "cost": "114.9500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BERGU48102295M",
+    "description": "BERETTA INSU ACTIVE  JKT M",
+    "amount": "279.9500",
+    "cost": "114.9500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BERGU48102295S",
+    "description": "BERETTA INSU ACTIVE  JKT S",
+    "amount": "279.9500",
+    "cost": "114.9500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BERGU48102295XL",
+    "description": "BERETTA INSU ACTIVE  JKT XL",
+    "amount": "279.9500",
+    "cost": "114.9500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BON KIMB GR L",
+    "description": "FLEECE SHIRT KIMBOLTON G L",
+    "amount": "46.9500",
+    "cost": "18.3700",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BON SGS B/R 32",
+    "description": "BONART BLK/RED 32\" SLIP",
+    "amount": "46.9500",
+    "cost": "18.2813",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BON-S DEER XL",
+    "description": "LEATHER SHOOTING VEST EX LARGE",
+    "amount": "169.9500",
+    "cost": "79.9900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BP2546",
+    "description": "DEBEN LITHIUM BAT 12V/14AH",
+    "amount": "199.9900",
+    "cost": "110.9900",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BRCP44",
+    "description": "B'RIVER RIFLE SLIP 44B",
+    "amount": "31.9500",
+    "cost": "9.1200",
+    "qoh": "5",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "BRCP44C",
+    "description": "B'RIVER RIFLE SLIP 44C",
+    "amount": "31.9500",
+    "cost": "9.1200",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "BRCP48",
+    "description": "B'RIVER RIFLE SLIP 48B",
+    "amount": "31.9500",
+    "cost": "9.1200",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "BRCP52",
+    "description": "B'RIVER RIFLE SLIP 52B",
+    "amount": "31.9500",
+    "cost": "9.1200",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BRCP52C",
+    "description": "B'RIVER RIFLE SLIP 52C",
+    "amount": "31.9500",
+    "cost": "9.1200",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BSQ-10201",
+    "description": "B-SQUARE MOUNT 1\" - WEA ADJ",
+    "amount": "69.9500",
+    "cost": "33.4500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BSQ-10230",
+    "description": "B-SQUARE MOUNT 30MM - WEA ADJ",
+    "amount": "74.9500",
+    "cost": "35.8500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BSQ-17101",
+    "description": "B-SQUARE MOUNT 1\" 11MM ADJ ONE",
+    "amount": "74.9500",
+    "cost": "35.1500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BU-02937",
+    "description": "BUTCH'S BORE SHINE 4OZ",
+    "amount": "13.9500",
+    "cost": "7.9375",
+    "qoh": "2",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "BUR-200172",
+    "description": "BURRIS F/FIELD 3.5-10X50 PLEX",
+    "amount": "369.9500",
+    "cost": "216.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BUSH-422152E",
+    "description": "BUSHNELL ELITE 2.5-10X50 ILL4A",
+    "amount": "649.0000",
+    "cost": "344.0000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BUSH-616185",
+    "description": "BANNER 6-18X50 MULTI-X AO",
+    "amount": "175.0000",
+    "cost": "119.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BUSH-654305MD",
+    "description": "BUSHNELL ELITE 4.5-30X50 AO MD",
+    "amount": "785.0000",
+    "cost": "479.6900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BUSH-733126E",
+    "description": "TROPHY XLT 3-12X56 4A W/ILLUM",
+    "amount": "345.0000",
+    "cost": "190.8200",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "BUSH-ET4305",
+    "description": "BUSHNELL TACT 4.5-30X50 AO MD",
+    "amount": "749.0000",
+    "cost": "495.9900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "CALD516620",
+    "description": "CALDWELL BREST BAG FRONT LG",
+    "amount": "34.9500",
+    "cost": "19.1000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "CALD-531123",
+    "description": "CALDWELL BI POD PICATINNY",
+    "amount": "94.9500",
+    "cost": "50.8750",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "CALD-571429",
+    "description": "CALDWELL BI POD SWIV LM",
+    "amount": "84.9500",
+    "cost": "46.5500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "CBCBR44M",
+    "description": "CBC 44 MAGNUM CASES",
+    "amount": "39.9500",
+    "cost": "18.2000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "CCI-019",
+    "description": "CCI B'REST SM RIF PRIMER 100",
+    "amount": "7.9900",
+    "cost": "4.8327",
+    "qoh": "10",
+    "reorderPoint": "5",
+    "reorderLevel": "15"
+  },
+  {
+    "customSku": "CCI-311",
+    "description": "CCI PER CAPS NO 11 (100)",
+    "amount": "7.4900",
+    "cost": "4.3680",
+    "qoh": "10",
+    "reorderPoint": "5",
+    "reorderLevel": "15"
+  },
+  {
+    "customSku": "CHASSEUR 43",
+    "description": "CHASSEUR WELLINGTON SIZE 43",
+    "amount": "339.9500",
+    "cost": "111.7000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "CHASSEUR 45",
+    "description": "CHASSEUR WELLINGTON SIZE 45",
+    "amount": "339.9500",
+    "cost": "151.6000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "CHASSEUR 47",
+    "description": "CHASSEUR WELLINGTON SIZE 47",
+    "amount": "339.9500",
+    "cost": "149.4000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "CHIA-920.133",
+    "description": "1892 CAR WAL .357 MAG 20\"",
+    "amount": "899.0000",
+    "cost": "483.3000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "CMX1011024",
+    "description": "C-MORE 1-10X24 IR",
+    "amount": "299.0000",
+    "cost": "156.2000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "CO2LAS10",
+    "description": "BEAMSHOT TRIG' LASER BERETTA",
+    "amount": "86.9500",
+    "cost": "21.8800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-WACP99B",
+    "description": "UMAREX WALTHER CP99 BLACK",
+    "amount": "149.9500",
+    "cost": "86.7700",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "CO2WAL40",
+    "description": "UMAREX CP99 NIGHTHAWK",
+    "amount": "189.9500",
+    "cost": "87.5600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "CSW-R1457",
+    "description": "RISERVA BOLT CARRIER CORDURA",
+    "amount": "25.9500",
+    "cost": "12.7300",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "CSW-R2060",
+    "description": "LODEN ADJ RIFLE SLING NEOPRENE",
+    "amount": "57.9500",
+    "cost": "38.3400",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "CSW-UNIPICRAIL",
+    "description": "UNIVERSAL PICATINNEY RAIL",
+    "amount": "79.9500",
+    "cost": "55.5500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "CZ452-18/19/20",
+    "description": "CZ 452 EXTRACTOR SET",
+    "amount": "27.9500",
+    "cost": "12.7800",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "CZUB-276V",
+    "description": "CZ 557 VARMINT 26\" .308",
+    "amount": "949.0000",
+    "cost": "602.1000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "CZUB-I17116",
+    "description": "CZ 455 VARMINT 16\" S'CUT 17",
+    "amount": "449.0000",
+    "cost": "296.1000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "CZUB-I1716",
+    "description": "CZ 455 AMERICAN 16\" S'CUT 17",
+    "amount": "475.0000",
+    "cost": "300.6000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "CZUB-I1716SYN",
+    "description": "CZ 455 SYNTHETIC 16\" S'CUT 17",
+    "amount": "359.0000",
+    "cost": "252.9000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "CZUBL110THRL",
+    "description": "CZ 455 V'MINT 20\" S/C 22 TH LH",
+    "amount": "465.0000",
+    "cost": "309.6000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "DHRR2212RR0",
+    "description": "DAYSTATE HREG HUNTSMAN REGAL .22",
+    "amount": "899.0000",
+    "cost": "495.2100",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "DAYMAG171",
+    "description": "DAYSTATE MAG .177 L/H WOLV",
+    "amount": "59.9500",
+    "cost": "34.9000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "DAYMAG221",
+    "description": "DAYSTATE MAGAZINE .22 L/H",
+    "amount": "59.9500",
+    "cost": "31.9800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "DAYRM22 25.4G",
+    "description": "DAYSTATE MONSTERS.22 FAC (200)",
+    "amount": "11.9900",
+    "cost": "7.2100",
+    "qoh": "14",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "DAYTRAY22",
+    "description": "DAYSTATE PELLET TRAY .22",
+    "amount": "14.9900",
+    "cost": "7.8300",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "70006",
+    "description": "DEBEN TILT BIPOD MED 9-13 P/L",
+    "amount": "73.9500",
+    "cost": "33.7400",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "DMAG22LPWOL",
+    "description": "DAYSTATE WOLVERINE MAG .22",
+    "amount": "59.9500",
+    "cost": "31.9800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "DPELWOLV303",
+    "description": "DAYSTATE PELL WOLV 303 3.25GR",
+    "amount": "13.9900",
+    "cost": "7.5900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "DPTMF6MM15X1",
+    "description": "DPT MUZZLE F'WARD 6MM 15X1",
+    "amount": "219.0000",
+    "cost": "116.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "DPTMF3018X1",
+    "description": "DPT MUZZLE F'WARD 30CAL 18X1",
+    "amount": "219.0000",
+    "cost": "116.0000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "DPTMF6MM14X1",
+    "description": "DPT MUZZLE F'WARD 6MM 14X1",
+    "amount": "219.0000",
+    "cost": "116.0000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "DPUT1712AR0",
+    "description": "DAYSTATE PULSAR SYN .177",
+    "amount": "1499.0000",
+    "cost": "956.0700",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "DPUT2212AR0",
+    "description": "DAYSTATE PULSAR SYN .22",
+    "amount": "1499.0000",
+    "cost": "930.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "ED-AT44X-1022PK",
+    "description": "AT44 SYN BLK .22 SCOPE & MOD",
+    "amount": "599.0000",
+    "cost": "299.2500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "EDGAR-2103",
+    "description": "ESCORT 12G S/A WOOD/MATTE 28\"",
+    "amount": "449.0000",
+    "cost": "307.8000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "EDGAR-4101",
+    "description": "ESCORT 12G S/A SYN/MATTE 24\"",
+    "amount": "429.0000",
+    "cost": "290.7000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "EDGAR-4102",
+    "description": "ESCORT 12G S/A SYN/MATTE 26\"",
+    "amount": "429.0000",
+    "cost": "290.7000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "EDGAR-4102MAR",
+    "description": "ESCORT 12G S/A SYN/MARINE 26\"",
+    "amount": "429.0000",
+    "cost": "302.4000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "EDGAR-4103LH",
+    "description": "ESCORT 12G S/A SYN/MATTE 28\"LH",
+    "amount": "429.0000",
+    "cost": "290.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "EDGAR-4103LHS1",
+    "description": "ESCORT 12G SYN/MAT 28\" LH FAC",
+    "amount": "429.0000",
+    "cost": "290.7000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "EDGAR-4103MAR",
+    "description": "ESCORT 12G S/A SYN/MARINE 28\"",
+    "amount": "449.0000",
+    "cost": "302.4000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "EDGAR4103S1",
+    "description": "ESCORT 12G S/A SYN/MAT 28\" FAC",
+    "amount": "429.0000",
+    "cost": "290.7000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "EDGAR-4202",
+    "description": "ESCORT 20G S/A SYN/MATTE 26\"",
+    "amount": "429.0000",
+    "cost": "289.8000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "EDGAR-900X-22",
+    "description": "HATSAN 900X WOOD .22 PACKAGE",
+    "amount": "135.0000",
+    "cost": "66.1500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "EDGAR-GAL111C22",
+    "description": "GALATAIN 1 CAR THOLE SYN .22",
+    "amount": "619.0000",
+    "cost": "287.1000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "EDGAR-GALIVC22",
+    "description": "GALATAIN IV CAR THOLE SYN .22",
+    "amount": "619.0000",
+    "cost": "287.1000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "EDGAR-MP-A24",
+    "description": "ESCORT 12G S/A PRACTICAL 24\"",
+    "amount": "499.0000",
+    "cost": "301.5000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "EDGAR-MP-A24SI",
+    "description": "ESCORT 12G S/A PRACT24\"FAC",
+    "amount": "499.0000",
+    "cost": "301.5000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "EDGAR-SM410335",
+    "description": "ESCORT SUPREMEMAX 12/28\" WOOD",
+    "amount": "449.0000",
+    "cost": "273.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "EDGAR-X4102G",
+    "description": "ESCORT 12G S/A SYN/XTREM 26\"",
+    "amount": "499.0000",
+    "cost": "206.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "EDGAR-X4103BL",
+    "description": "ESCORT 12G S/A XTREM BLUE 28\"",
+    "amount": "499.0000",
+    "cost": "322.2000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "EDGAR-X4103GLH",
+    "description": "ESCORT 12G S/A SYN/XRM 28\" LH",
+    "amount": "499.0000",
+    "cost": "232.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "ESP-FL7",
+    "description": "6OZ FLASK & COLLAPSIBLE CUPS",
+    "amount": "34.9500",
+    "cost": "9.7200",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "F16 SP30 GR4",
+    "description": "BLASER F16 SPORTING 30\" GR4",
+    "amount": "3799.0000",
+    "cost": "1753.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "FED-222A",
+    "description": "FED 222 POWER SHOK SP 50G",
+    "amount": "1.0100",
+    "cost": "0.5880",
+    "qoh": "40",
+    "reorderPoint": "20",
+    "reorderLevel": "40"
+  },
+  {
+    "customSku": "FED-3030A",
+    "description": "FED 30-30 POWER SHOK SP 150G",
+    "amount": "1.2300",
+    "cost": "0.6300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "FED-GM210M",
+    "description": "FEDRAL GM LG RI PRIMER 100",
+    "amount": "5.7900",
+    "cost": "3.3800",
+    "qoh": "34",
+    "reorderPoint": "10",
+    "reorderLevel": "20"
+  },
+  {
+    "customSku": "FED-GM215M",
+    "description": "FEDRAL GM MAG LG RI PRIMER 100",
+    "amount": "6.4900",
+    "cost": "3.7400",
+    "qoh": "50",
+    "reorderPoint": "5",
+    "reorderLevel": "15"
+  },
+  {
+    "customSku": "FED-P223F",
+    "description": "FED 223 NOSLER BT 55G",
+    "amount": "1.5800",
+    "cost": "0.9200",
+    "qoh": "0",
+    "reorderPoint": "40",
+    "reorderLevel": "60"
+  },
+  {
+    "customSku": "FED-P243C",
+    "description": "FED 243 SIERRA SP 100G",
+    "amount": "1.9000",
+    "cost": "1.1100",
+    "qoh": "0",
+    "reorderPoint": "20",
+    "reorderLevel": "40"
+  },
+  {
+    "customSku": "FED-P280A",
+    "description": "FED 280 N' PARTITION 150G",
+    "amount": "2.6700",
+    "cost": "1.4200",
+    "qoh": "60",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "FED-P308TCI3",
+    "description": "FED 308 150G TROPHY",
+    "amount": "2.6700",
+    "cost": "1.5600",
+    "qoh": "60",
+    "reorderPoint": "20",
+    "reorderLevel": "40"
+  },
+  {
+    "customSku": "FED-P338B2",
+    "description": "FED 338WM 250G NOS PART",
+    "amount": "3.7000",
+    "cost": "1.8900",
+    "qoh": "40",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "FIOC-60357000",
+    "description": "FIOCHI 357 BRASS (250)",
+    "amount": "69.9500",
+    "cost": "39.7500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "FIOC-O8044800",
+    "description": "SMALL RIFLE PRIMER (150)",
+    "amount": "4.9900",
+    "cost": "3.3800",
+    "qoh": "10",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "FIOC-O8044900",
+    "description": "SMALL PISTOL PRIMER (150)",
+    "amount": "4.9900",
+    "cost": "3.2300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "FUD-EM",
+    "description": "FUD EUROPEAN MAGPIE",
+    "amount": "4.9900",
+    "cost": "2.3800",
+    "qoh": "30",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "FX1931",
+    "description": "FX BOBCAT.177",
+    "amount": "1210.0000",
+    "cost": "812.6000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "FX1954",
+    "description": "FX WILDCAT.22",
+    "amount": "1069.0000",
+    "cost": "698.7000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "FX1960",
+    "description": "FX IMPACT BLACK 177",
+    "amount": "1688.0000",
+    "cost": "1066.7500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "GA5033",
+    "description": "DEBEN LAMP MOUNT PLASTIC",
+    "amount": "5.5000",
+    "cost": "3.4200",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "GL2922ELP",
+    "description": "DEBEN MINPRO LITHIUM KIT",
+    "amount": "144.9500",
+    "cost": "78.7200",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "GLCLTB25",
+    "description": "COLT BLACK 2.5\"",
+    "amount": "99.9500",
+    "cost": "63.2400",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "GLJRH941",
+    "description": "JRH941",
+    "amount": "89.9500",
+    "cost": "48.5600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "GLM712S",
+    "description": "M712S",
+    "amount": "189.9500",
+    "cost": "97.2100",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "GLPARA",
+    "description": "PARABELLUM",
+    "amount": "129.9500",
+    "cost": "57.9750",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "GSG-411.00.52",
+    "description": "GSG 1911 LBP .22 LR",
+    "amount": "449.0000",
+    "cost": "225.9000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "GSG-411.00.70",
+    "description": "GSG 1911 LBP .22 LR STAINLESS",
+    "amount": "489.0000",
+    "cost": "299.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "GSG-411.00.71",
+    "description": "GSG 1911 LBP .22 LR TAN",
+    "amount": "489.0000",
+    "cost": "225.9000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "GUNBAG1",
+    "description": "GUNBAG FLAP ZIP POUCH 51\" SHOT",
+    "amount": "27.5000",
+    "cost": "11.2900",
+    "qoh": "12",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "H004",
+    "description": "HENRY GOLDEN BOY .22",
+    "amount": "749.0000",
+    "cost": "470.6900",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "H006",
+    "description": "HENRY BIG BOY .44",
+    "amount": "1079.0000",
+    "cost": "738.7100",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "H006M",
+    "description": "HENRY BIG BOY .357/38",
+    "amount": "1079.0000",
+    "cost": "653.6500",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "H010AW",
+    "description": "HENRY ALL WEATHER 45/70",
+    "amount": "1179.0000",
+    "cost": "783.1600",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "H012",
+    "description": "HENRY BIG BOY STEEL .44",
+    "amount": "995.0000",
+    "cost": "670.6400",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "H012915",
+    "description": "GAUGE HOSE BLEED A CLAMP",
+    "amount": "74.9500",
+    "cost": "45.6200",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "H012920",
+    "description": "GAUGE HOSE BLEED DIN",
+    "amount": "69.9500",
+    "cost": "41.0100",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "H012M",
+    "description": "HENRY BIG BOY STEEL .357",
+    "amount": "995.0000",
+    "cost": "670.6400",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HK5159",
+    "description": "PANORAMA 4-12X50 IR L4 DOT",
+    "amount": "144.9500",
+    "cost": "76.4600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HOD-4141",
+    "description": "HODGDON H414",
+    "amount": "44.9500",
+    "cost": "25.6800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HOD-HLR1",
+    "description": "LEVEREVOLUTION 1LB",
+    "amount": "46.9500",
+    "cost": "22.5600",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HOD-HSP1",
+    "description": "SUPERFORMANCE 1LB",
+    "amount": "46.9500",
+    "cost": "22.5600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HOD-INT1",
+    "description": "HODGDON INTERNATIONAL CLAYS",
+    "amount": "37.9500",
+    "cost": "19.7400",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HOD-P",
+    "description": "HODGDON PYRODEX P",
+    "amount": "36.9500",
+    "cost": "15.0511",
+    "qoh": "0",
+    "reorderPoint": "2",
+    "reorderLevel": "3"
+  },
+  {
+    "customSku": "HOD-RP4430",
+    "description": "HODGDON PYRODEX RP4430",
+    "amount": "32.9500",
+    "cost": "18.6100",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HOD-T73",
+    "description": "HODGDON TRIPLE 7 (FFFG)",
+    "amount": "47.9500",
+    "cost": "22.6076",
+    "qoh": "3",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "HOPP-24010D",
+    "description": "HOPPES .17 CAL BORESNAKE",
+    "amount": "19.9500",
+    "cost": "9.0880",
+    "qoh": "4",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "HOPP-24012V",
+    "description": "HOPPES .243 VIPER BORESNAKE",
+    "amount": "22.9500",
+    "cost": "6.2600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HOPP-24015V",
+    "description": "HOPPES .30 VIPER BORESNAKE",
+    "amount": "22.9500",
+    "cost": "6.2600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HOPP-24020",
+    "description": "HOPPES 50CAL BORESNAKE",
+    "amount": "19.9500",
+    "cost": "4.8100",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HORN-043360",
+    "description": "L-N-L SONIC SOLUTION GUN",
+    "amount": "34.9500",
+    "cost": "13.0600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HORN-044094",
+    "description": "LOCK N LOAD DIE BUSHINGS (2PK)",
+    "amount": "15.9500",
+    "cost": "9.6300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "HORN-085006",
+    "description": "HORN LOCK N LOAD CLASSIC KIT",
+    "amount": "575.0000",
+    "cost": "251.8600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HORN-085520",
+    "description": "HORN LNL IRON PRESS KIT",
+    "amount": "319.9500",
+    "cost": "184.6700",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HORN-2230",
+    "description": "HORNADY .22 45GR HORNET",
+    "amount": "27.9500",
+    "cost": "13.0900",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HORN-2442",
+    "description": "HORNADY 6MM/87G BTHP",
+    "amount": "37.9500",
+    "cost": "16.6800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HORN-2520",
+    "description": "HORNADY .25 75GR HP",
+    "amount": "34.9500",
+    "cost": "14.3500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HORN-26302",
+    "description": "HORNADY 6.5/140G SST (100)",
+    "amount": "44.9500",
+    "cost": "22.7300",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HORN-3010",
+    "description": "HORNADY .30/110G SP",
+    "amount": "31.9500",
+    "cost": "16.3500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "HORN-30502",
+    "description": "HORNADY .30/168  AMAX (100)",
+    "amount": "48.9500",
+    "cost": "23.3600",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HORN-30702",
+    "description": "HORNADY .30/180  SST (100)",
+    "amount": "49.9500",
+    "cost": "24.6900",
+    "qoh": "3",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HORN-30732",
+    "description": "HORNADY .30/208 AMAX (100)",
+    "amount": "47.9500",
+    "cost": "28.5100",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HORN-3560",
+    "description": "HORNADY 9.3/286G INTER SP-RP",
+    "amount": "42.9500",
+    "cost": "42.0800",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HORN-44099",
+    "description": "HORNADY LOCK & LOAD KIT",
+    "amount": "21.9500",
+    "cost": "11.1900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HORN-45015",
+    "description": "HORNADY FTX .45/325G (50)",
+    "amount": "44.9500",
+    "cost": "22.9600",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HORN-050069",
+    "description": "HORNADY POWDER MEASURE",
+    "amount": "109.9500",
+    "cost": "54.9500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HORN-6020",
+    "description": "HORNADY ROUND BALL 36/375",
+    "amount": "11.9500",
+    "cost": "6.2640",
+    "qoh": "5",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HORN-6095",
+    "description": "HORNADY ROUND BALL 50-520",
+    "amount": "19.9500",
+    "cost": "10.5800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HORN-82193",
+    "description": "HORNADY 300 WIN MAG 180G SST",
+    "amount": "2.8600",
+    "cost": "1.4600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HS61",
+    "description": "LEATHER SHOTGUN CASE",
+    "amount": "149.9500",
+    "cost": "69.9500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HSF28",
+    "description": "HSF BENCHREST BAG COMBO",
+    "amount": "29.9500",
+    "cost": "8.5300",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "HW10",
+    "description": "WHITBY HAND WARMER",
+    "amount": "19.9500",
+    "cost": "7.4800",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HW100KTFSB22",
+    "description": "WEIHRAUCH HW100KT BULL.22 CAR",
+    "amount": "879.0000",
+    "cost": "514.5000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HW100T .177",
+    "description": "WEIHRAUCH HW100T .177",
+    "amount": "825.0000",
+    "cost": "532.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HW100TL177",
+    "description": "WEIHRAUCH HW100T .177 LAMINATE",
+    "amount": "949.0000",
+    "cost": "576.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HW30S22",
+    "description": "WEIHRAUCH HW30S .22",
+    "amount": "199.0000",
+    "cost": "109.2500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HW45S22",
+    "description": "WEIHRAUCH HW45 .22 SILVR STAR",
+    "amount": "319.0000",
+    "cost": "187.1500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HW57177",
+    "description": "WEIHRAUCH HW57 .177",
+    "amount": "285.0000",
+    "cost": "188.5750",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HW75177",
+    "description": "WEIHRAUCH HW75 .177",
+    "amount": "339.0000",
+    "cost": "197.7600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HW80K&SIL",
+    "description": "WEIHRAUCH HW80K .22 & SIL",
+    "amount": "399.0000",
+    "cost": "242.2500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HW97KWOODST177",
+    "description": "WEIHRAUCH HW97K STAIN .177",
+    "amount": "449.0000",
+    "cost": "263.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "HW98S177",
+    "description": "WEIHRAUCH HW98S .177",
+    "amount": "439.0000",
+    "cost": "260.3000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "IMRP-78281S",
+    "description": "IMR IMR7828SSC",
+    "amount": "47.9500",
+    "cost": "25.3800",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "IMRP-TB1",
+    "description": "IMR TRAILBOSS 9OZ",
+    "amount": "27.9500",
+    "cost": "15.5100",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "JKR0064",
+    "description": "JOKER FERRULE RED WOOD WIDE",
+    "amount": "12.9500",
+    "cost": "4.7200",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "JRY-AC212",
+    "description": "ACME WHISTLE DOG 212",
+    "amount": "11.9500",
+    "cost": "5.9300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AC506",
+    "description": "HARDWOOD RABBIT",
+    "amount": "10.4900",
+    "cost": "5.3600",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-ACDU",
+    "description": "CALLS DUCK/TEAL/WIDGEON",
+    "amount": "11.9500",
+    "cost": "5.8700",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-ACMA",
+    "description": "CALLS JAY/MAGPIE",
+    "amount": "11.9900",
+    "cost": "5.5400",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-ACPI",
+    "description": "CALLS PIGEON/DOVE",
+    "amount": "19.9500",
+    "cost": "7.4100",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AI200B 177",
+    "description": "AIR ARMS S200 .177 MK3",
+    "amount": "499.0000",
+    "cost": "279.2500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AI200B 22",
+    "description": "AIR ARMS S200 MK3 .22",
+    "amount": "499.0000",
+    "cost": "279.2500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AI200SDR",
+    "description": "AIR ARMS T200 REAR SIGHT",
+    "amount": "35.9500",
+    "cost": "16.2800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AI200SM 177",
+    "description": "AIR ARMS S200 MAG CONV 177",
+    "amount": "99.9500",
+    "cost": "45.0100",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AI200SM 22",
+    "description": "AIR ARMS S200 MAG CONV 22",
+    "amount": "99.9500",
+    "cost": "47.2800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AI200SMI 22",
+    "description": "AIR ARMS S200 SPARE MAG 22",
+    "amount": "23.9500",
+    "cost": "11.6900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AI200T 177",
+    "description": "AIR ARMS S200 .177 TARGET",
+    "amount": "539.0000",
+    "cost": "305.6100",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRYAI400FKB 177",
+    "description": "AIR ARMS S400 .177 CAR BCH",
+    "amount": "459.0000",
+    "cost": "308.1600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRYAI400FKW 177",
+    "description": "AIR ARMS S400 .177 CAR WAL",
+    "amount": "510.0000",
+    "cost": "358.5600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AI400FW 177",
+    "description": "AIR ARMS S400 .177 STD WAL",
+    "amount": "509.0000",
+    "cost": "358.5600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AI400MPRPAB",
+    "description": "AIR ARMS S400 MPRFT.177",
+    "amount": "729.0000",
+    "cost": "518.1800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AI400SH177",
+    "description": "AIR ARMS S400 .177 S'LITE",
+    "amount": "579.0000",
+    "cost": "331.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AI410FB 22",
+    "description": "AIR ARMS S410 .22 STD BCH",
+    "amount": "599.0000",
+    "cost": "428.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRYAI410FKB 177",
+    "description": "AIR ARMS S410 .177 CAR BCH",
+    "amount": "599.0000",
+    "cost": "428.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AI410FKB 22",
+    "description": "AIR ARMS S410 .22 CAR BCH",
+    "amount": "599.0000",
+    "cost": "428.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRYAI410FKW 177",
+    "description": "AIR ARMS S410 .177 CAR W'NUT",
+    "amount": "685.0000",
+    "cost": "485.0600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AI410FKW 22",
+    "description": "AIR ARMS S410 .22 CAR W'NUT",
+    "amount": "715.0000",
+    "cost": "485.0600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AI410FT 22",
+    "description": "A/ARMS S410 .22 THMBHOLE W'NUT",
+    "amount": "769.0000",
+    "cost": "547.5000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRYAI410FTDR 22",
+    "description": "AIR ARMS S410 .22 TDR",
+    "amount": "710.0000",
+    "cost": "481.9900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AI410FW 22",
+    "description": "AIR ARMS S410 .22 STD W'NUT",
+    "amount": "685.0000",
+    "cost": "485.0600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AI410SH 22",
+    "description": "AIR ARMS S410 .22 STD S'LIGHT",
+    "amount": "659.0000",
+    "cost": "450.8300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "AA410C-22-SLG",
+    "description": "AIR ARMS S410 .22 CARB S'LIGHT GRN",
+    "amount": "749.0000",
+    "cost": "484.0000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "AA410C-17-SLG",
+    "description": "AIR ARMS S410 .17 CARB S'LIGHT",
+    "amount": "749.0000",
+    "cost": "484.0000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "JRY-AI410TDR177",
+    "description": "AIR ARMS S410 .177 TDR",
+    "amount": "699.0000",
+    "cost": "481.9900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AI510KB 177",
+    "description": "AIR ARMS S510 .177 CAR BCH",
+    "amount": "699.0000",
+    "cost": "474.2200",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "AAULT-17-LAM",
+    "description": "AIR ARMS S510 .177 ULTIMATE SP",
+    "amount": "995.0000",
+    "cost": "655.0000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AIAPS 177",
+    "description": "AIR ARMS ALFA.177 PISTOL",
+    "amount": "739.0000",
+    "cost": "423.4500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AICBCP",
+    "description": "AIR ARMS BLACK RIFLE COVER",
+    "amount": "54.9500",
+    "cost": "24.8600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "AAP-452",
+    "description": "AIR ARM DIAB FIELD .17 (500)",
+    "amount": "10.7500",
+    "cost": "6.5113",
+    "qoh": "49",
+    "reorderPoint": "10",
+    "reorderLevel": "35"
+  },
+  {
+    "customSku": "AAP-551",
+    "description": "AIR ARM DIAB FIELD .22 (500)",
+    "amount": "13.9500",
+    "cost": "7.8305",
+    "qoh": "0",
+    "reorderPoint": "10",
+    "reorderLevel": "40"
+  },
+  {
+    "customSku": "JRY-AIGADW177",
+    "description": "AIR ARMS GALAHAD WAL .177 DT",
+    "amount": "1179.7300",
+    "cost": "756.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "AATXC-22-BEE",
+    "description": "AIR ARMS TX200 HUNTER CARB BEECH.22",
+    "amount": "475.0000",
+    "cost": "313.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "JRY-AIHFT500177",
+    "description": "AIR ARMS S500 HFT.177",
+    "amount": "1049.0000",
+    "cost": "683.0000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "JRY-AIPO22",
+    "description": "AIR ARM HUNTER POINT .22 (500)",
+    "amount": "13.9500",
+    "cost": "8.2182",
+    "qoh": "9",
+    "reorderPoint": "2",
+    "reorderLevel": "4"
+  },
+  {
+    "customSku": "AAPRO-17-WAL",
+    "description": "AIR ARMS PRO SPORT W'NUT 177",
+    "amount": "659.0000",
+    "cost": "427.0000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "JRY-AIRSN70177",
+    "description": "AIR ARMS RSN70 SPEC. 177",
+    "amount": "2399.9900",
+    "cost": "1669.3500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AIS200 177",
+    "description": "AA MOD Q-TEC S200 177",
+    "amount": "69.9500",
+    "cost": "41.3100",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AIS200 22",
+    "description": "AA MOD Q-TEC S200 22",
+    "amount": "69.9500",
+    "cost": "41.3100",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AIS2002",
+    "description": "AA SILENCER S200 MK2",
+    "amount": "51.4900",
+    "cost": "27.6700",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AIS400 177",
+    "description": "AA MOD Q-TEC S400/410 177",
+    "amount": "71.9500",
+    "cost": "41.3100",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AISMSB 22",
+    "description": "AA MOD Q-TEC MINI S500/510 22",
+    "amount": "78.9500",
+    "cost": "30.4300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AISSB 177",
+    "description": "AA MOD Q-TEC S510 177",
+    "amount": "71.9500",
+    "cost": "41.3100",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-AITXB 177",
+    "description": "AIR ARMS TX200 MK3 BEECH .177",
+    "amount": "475.0000",
+    "cost": "313.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "JRY-BACO",
+    "description": "BARNET COBRA SLINGSHOT",
+    "amount": "26.9500",
+    "cost": "14.3600",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "JRY-BADI",
+    "description": "BARNET DIABLO SLINGSHOT",
+    "amount": "24.9500",
+    "cost": "9.9400",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-BCPBP",
+    "description": "BIRCHWOOD GUN BLUE PEN",
+    "amount": "12.9500",
+    "cost": "4.2600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-BCSBPF",
+    "description": "B'WOOD SUPER BLACK FLAT PEN",
+    "amount": "10.4900",
+    "cost": "4.4600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-BCSNCM110",
+    "description": "BIRCHWOOD SHOOT & SEE 1\" 2\" 3\"",
+    "amount": "9.2500",
+    "cost": "4.2886",
+    "qoh": "14",
+    "reorderPoint": "3",
+    "reorderLevel": "15"
+  },
+  {
+    "customSku": "JRY-BCSR2",
+    "description": "BIRCHWOOD STOCK REJUVENATOR",
+    "amount": "9.4900",
+    "cost": "3.5400",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-BIF4PH",
+    "description": "HIP FLASK 4OZ SLIM PHEASANT",
+    "amount": "49.9500",
+    "cost": "22.1400",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-BIF6BR",
+    "description": "BROWN 6OZ FLASK",
+    "amount": "55.9500",
+    "cost": "13.8700",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-BIF6RSH",
+    "description": "HIP FLASK 6OZ SHOOTER PEWTER",
+    "amount": "36.9500",
+    "cost": "16.3200",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-BIF6SSH",
+    "description": "6OZ SQUARE  FLASK BOXED",
+    "amount": "28.9500",
+    "cost": "9.5200",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-BIF8BR",
+    "description": "HUNTERS FLASK 8OZ &CUPS",
+    "amount": "79.9500",
+    "cost": "27.6900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-BIGBF",
+    "description": "FOX GAME BAG BROWN",
+    "amount": "61.9500",
+    "cost": "30.9300",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-BIHA 12",
+    "description": "BISLEY HAND GUARD 12G",
+    "amount": "43.9500",
+    "cost": "19.0200",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-BILRG177",
+    "description": "BISLEY L'RANGE GOLD.177 (500)",
+    "amount": "10.9500",
+    "cost": "5.5680",
+    "qoh": "13",
+    "reorderPoint": "2",
+    "reorderLevel": "4"
+  },
+  {
+    "customSku": "JRY-BIM30TEH",
+    "description": "BISLEY 2-PIECE 30MM HIGH EXT",
+    "amount": "64.9500",
+    "cost": "35.8450",
+    "qoh": "2",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "JRY-BIM30TH",
+    "description": "BISLEY 2-PIECE 30MM HIGH MOUNT",
+    "amount": "36.9500",
+    "cost": "19.3368",
+    "qoh": "8",
+    "reorderPoint": "2",
+    "reorderLevel": "12"
+  },
+  {
+    "customSku": "JRY-BIM30TM",
+    "description": "BISLEY 2-PIECE 30MM MED MOUNT",
+    "amount": "36.9500",
+    "cost": "19.1523",
+    "qoh": "1",
+    "reorderPoint": "2",
+    "reorderLevel": "3"
+  },
+  {
+    "customSku": "JRY-BIMAD",
+    "description": "SPORTSMATCH WEAVER-11MM ADPT",
+    "amount": "42.9500",
+    "cost": "19.3400",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-BIMSS",
+    "description": "SWING OUT LEVEL",
+    "amount": "40.9500",
+    "cost": "21.1800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-BIMTEM",
+    "description": "BISLEY 2-PIECE 1\" MED EXT",
+    "amount": "39.9500",
+    "cost": "21.7000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-BIMTH",
+    "description": "BISLEY 2-PIECE 1\" HIGH MOUNT",
+    "amount": "25.9500",
+    "cost": "12.8464",
+    "qoh": "3",
+    "reorderPoint": "5",
+    "reorderLevel": "15"
+  },
+  {
+    "customSku": "JRY-BIMTM",
+    "description": "BISLEY 2-PIECE 1\" MED MOUNT",
+    "amount": "24.9500",
+    "cost": "12.5144",
+    "qoh": "9",
+    "reorderPoint": "5",
+    "reorderLevel": "15"
+  },
+  {
+    "customSku": "JRY-BIPB",
+    "description": "BISLEY BRASS PRIEST",
+    "amount": "19.9500",
+    "cost": "9.7400",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-BIPC22",
+    "description": "BISLEY PEST CONTROL .22 (200)",
+    "amount": "6.9500",
+    "cost": "3.5258",
+    "qoh": "6",
+    "reorderPoint": "2",
+    "reorderLevel": "4"
+  },
+  {
+    "customSku": "JRY-BIPM22",
+    "description": "BISLEY PREMIER .22 (200)",
+    "amount": "5.9500",
+    "cost": "3.1300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-BIRSP",
+    "description": "BISLEY ELBOW PADS",
+    "amount": "36.9500",
+    "cost": "18.4900",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-BISCW",
+    "description": "CERTIFICATE WALLET",
+    "amount": "16.4500",
+    "cost": "6.0500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-BISP12",
+    "description": "BISLEY SNAP CAPS 12G PLASTIC",
+    "amount": "7.4500",
+    "cost": "2.9300",
+    "qoh": "2",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "JRY-BISP20",
+    "description": "BISLEY SNAP CAPS 20G PLASTIC",
+    "amount": "7.4500",
+    "cost": "2.8300",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "JRY-BR4812L",
+    "description": "BRADY WEB CART BELT 12G LG",
+    "amount": "49.9500",
+    "cost": "20.9400",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-BR4812XL",
+    "description": "BRADY WEB CART BELT 12G XL",
+    "amount": "49.9500",
+    "cost": "20.9400",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-BR5012M",
+    "description": "BRADY LEATH CART BELT 12G MED",
+    "amount": "79.9500",
+    "cost": "37.4100",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-BR5012XL",
+    "description": "BRADY LEATH CART BELT 12G XL",
+    "amount": "79.9500",
+    "cost": "37.4100",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-CBB 410",
+    "description": "BISLEY CART'BELT VINYL 410",
+    "amount": "16.9500",
+    "cost": "8.5800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-CBCL12",
+    "description": "CART BELT CANVAS LEATHER 12G",
+    "amount": "31.9500",
+    "cost": "15.1300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-CBF100",
+    "description": "BISLEY 100 C'BAG BROWN",
+    "amount": "46.9500",
+    "cost": "24.1300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-CBG100",
+    "description": "BISLEY 100 C'BAG GREEN",
+    "amount": "46.9500",
+    "cost": "24.8500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-CBLD12",
+    "description": "CART BELT DEEP LEATHER",
+    "amount": "76.9500",
+    "cost": "27.2100",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-CLAS12",
+    "description": "P'HALE CLEAN KIT CLASSIC",
+    "amount": "85.9500",
+    "cost": "34.8000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-CRCBL1Q",
+    "description": "CROOTS CART BAG LEATHER 100",
+    "amount": "172.9500",
+    "cost": "84.0800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-CRCBLS",
+    "description": "CROOTS 30\"SLIP LEATHER",
+    "amount": "289.9500",
+    "cost": "136.5000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-CRCBLS32",
+    "description": "CROOTS 32\"SLIP LEATHER",
+    "amount": "274.9500",
+    "cost": "136.5000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-GADI",
+    "description": "HUMANE GAME DISPATCHER",
+    "amount": "54.9500",
+    "cost": "27.5300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-GADIH",
+    "description": "HUMANE DISPATCHER POUCH",
+    "amount": "22.9500",
+    "cost": "8.2700",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-GARTS",
+    "description": "BISLEY GARTERS SET 4 SUB",
+    "amount": "13.9500",
+    "cost": "6.2200",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-GRLI",
+    "description": "GAME REGISTER",
+    "amount": "39.9500",
+    "cost": "13.2900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-HAAP20 177",
+    "description": "HAMMERLI AP20 .177 PISTOL",
+    "amount": "749.0000",
+    "cost": "486.2000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-HNBM5.51",
+    "description": "H&N BARRACUDA MATCH .22 (200)",
+    "amount": "7.4900",
+    "cost": "3.7273",
+    "qoh": "3",
+    "reorderPoint": "0",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "JRY-HNFMH4.50",
+    "description": "H & N FINALE MATCH HEAVY 4.50",
+    "amount": "13.9500",
+    "cost": "6.9700",
+    "qoh": "6",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-HNFTT177",
+    "description": "H&N FIELD TARGET TROPHY .177",
+    "amount": "10.4900",
+    "cost": "5.8232",
+    "qoh": "30",
+    "reorderPoint": "5",
+    "reorderLevel": "55"
+  },
+  {
+    "customSku": "JRY-HNRM22",
+    "description": "H&N FIELD RABBIT MAG .22",
+    "amount": "10.9500",
+    "cost": "6.1400",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-HNSNMA22",
+    "description": "H&N SNIPER MAGNUM .22",
+    "amount": "8.9900",
+    "cost": "4.5600",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "JRY-HPSE",
+    "description": "HIDE POLES",
+    "amount": "51.9500",
+    "cost": "30.3300",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-LAI410FKW22",
+    "description": "AA S410 .22 CAR WALNUT L'HAND",
+    "amount": "625.0000",
+    "cost": "493.5200",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-LAI410FW 22",
+    "description": "AA S410 .22 STD WALNUT L'HAND",
+    "amount": "669.0000",
+    "cost": "493.5200",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-LNB12",
+    "description": "LOOSE NYLON BRUSH 12G",
+    "amount": "4.4900",
+    "cost": "1.7800",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "JRY-LNB40",
+    "description": "LOOSE NYLON BRUSH .40",
+    "amount": "4.4900",
+    "cost": "1.7800",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "JRY-LPSE",
+    "description": "LOFTING POLES",
+    "amount": "54.9500",
+    "cost": "27.2100",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-LSJ",
+    "description": "LEGGING STUDDED WAX JUNIOR",
+    "amount": "24.9500",
+    "cost": "12.0600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-MTBGRS",
+    "description": "MTM BORE GUIDE SHORT ACTION",
+    "amount": "18.9500",
+    "cost": "5.9000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-MTBGWL",
+    "description": "MTM BORE GUIDE LONG ACTION",
+    "amount": "18.9500",
+    "cost": "5.9000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-MTEZ11",
+    "description": "MTM EZ-II CLAY THROWER",
+    "amount": "9.9500",
+    "cost": "4.0900",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-PB28",
+    "description": "BISLEY P' BRONZE 28G",
+    "amount": "5.2500",
+    "cost": "2.4300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-PBICU",
+    "description": "ICU 1.0 TACTICAL CAMERA",
+    "amount": "35.9900",
+    "cost": "18.2400",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-PBICU2",
+    "description": "ICU 2.0 HD TACTICAL CAMERA",
+    "amount": "74.9900",
+    "cost": "34.2170",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-PESG",
+    "description": "PELTOR EAR DEFEND H64FB/V",
+    "amount": "26.9500",
+    "cost": "13.8683",
+    "qoh": "3",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "JRY-PEST",
+    "description": "PELTOR SPORTTAC ELECT EAR DEF",
+    "amount": "139.9500",
+    "cost": "88.3589",
+    "qoh": "2",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "JRY-PFWA12",
+    "description": "POSITION FINDER WALLET",
+    "amount": "26.9500",
+    "cost": "12.5100",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-PHTUS",
+    "description": "BISLEY TURN SCREWS",
+    "amount": "94.9500",
+    "cost": "37.6500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-PRIBHP",
+    "description": "PRIMOS BLOODHUNTER TORCH",
+    "amount": "69.9500",
+    "cost": "35.7800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-PRITS3BI",
+    "description": "PRIMOS TRIGGER STICK GEN 3 BIPOD",
+    "amount": "139.9500",
+    "cost": "70.8000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-PRITSSI",
+    "description": "PRIMOS TRIGGER STICK MONOPOD",
+    "amount": "89.9500",
+    "cost": "34.9200",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "PRO-PS1-600",
+    "description": "PRO-SHOT PATCH 22-270 (600)",
+    "amount": "19.9500",
+    "cost": "9.1433",
+    "qoh": "3",
+    "reorderPoint": "2",
+    "reorderLevel": "3"
+  },
+  {
+    "customSku": "JRY-QUSC1",
+    "description": "QUAKE COVERS 1",
+    "amount": "10.9500",
+    "cost": "3.9700",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-QUSC6",
+    "description": "QUAKE COVERS 6",
+    "amount": "10.9500",
+    "cost": "47.3200",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-RELS",
+    "description": "LEATHER SLIP-ON RECOIL PAD",
+    "amount": "28.9500",
+    "cost": "11.6500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-RRSIB",
+    "description": "SHOOTING STICKS MONOPOD",
+    "amount": "29.9500",
+    "cost": "13.6400",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-RS2C",
+    "description": "SLING 2\" CANVAS",
+    "amount": "22.9500",
+    "cost": "11.6300",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-RSBB",
+    "description": "SLING BASIC BROWN",
+    "amount": "16.9500",
+    "cost": "7.0800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-RSPB",
+    "description": "SLING PLAITED BROWN",
+    "amount": "28.9500",
+    "cost": "13.6400",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-S210",
+    "description": "AA FEMALE CONNECTOR TARGET",
+    "amount": "29.9500",
+    "cost": "12.6700",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-S515A",
+    "description": "AIR ARMS 410 LOADING POST",
+    "amount": "18.9500",
+    "cost": "4.8300",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "JRY-S701",
+    "description": "AIR ARMS 410/400 O RING SET",
+    "amount": "8.9900",
+    "cost": "2.3800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-SAND12",
+    "description": "P'HALE CLEAN KIT SANDRINGHAM",
+    "amount": "123.9500",
+    "cost": "46.0700",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-SCA28",
+    "description": "BISLEY SNAP CAPS 28G ALLI",
+    "amount": "10.4900",
+    "cost": "4.7700",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-SCA410",
+    "description": "BISLEY SNAP CAPS 410G ALLI",
+    "amount": "10.4900",
+    "cost": "4.7700",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-SCB20",
+    "description": "BISLEY SNAP CAPS 20G BRASS",
+    "amount": "13.4900",
+    "cost": "5.7700",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-SPKE",
+    "description": "KESTREL WITH WINGS",
+    "amount": "21.9500",
+    "cost": "21.5400",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-SPLF",
+    "description": "DECOY LITTLE OWL FLAPPING",
+    "amount": "21.9500",
+    "cost": "21.5400",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-SPLO",
+    "description": "DECOY LITTLE OWL",
+    "amount": "11.9500",
+    "cost": "6.6100",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-SPMA",
+    "description": "SP MAGPIE",
+    "amount": "8.9500",
+    "cost": "4.2200",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "JRY-SPPD",
+    "description": "SP PIGEON FEED",
+    "amount": "6.2500",
+    "cost": "3.0500",
+    "qoh": "15",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-SPPU",
+    "description": "SP PIGEON HEAD UP",
+    "amount": "6.2500",
+    "cost": "1.9600",
+    "qoh": "5",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-TRMO34",
+    "description": "MOLE SKIN TROUSERS OLIVE 34\"",
+    "amount": "74.4900",
+    "cost": "39.8900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-UNCTM",
+    "description": "UNCLE MIKES TACTICAL CASE 33\"",
+    "amount": "40.9500",
+    "cost": "19.3400",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-UNCTMP5",
+    "description": "UNCLE MIKES MP5/P'TOL CASE 24\"",
+    "amount": "42.9500",
+    "cost": "16.1200",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-VFGFS22",
+    "description": "VFG PULL THRO SET PELLETS .22",
+    "amount": "23.9500",
+    "cost": "12.0300",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-VFGMS177",
+    "description": "VFG PULL THRO SET PELLETS .177",
+    "amount": "23.9500",
+    "cost": "12.0300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-WAMC",
+    "description": "WAMADET CORD 2FT PLATE",
+    "amount": "51.9500",
+    "cost": "27.6000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-WAMC3",
+    "description": "WAMADET CORD 3FT",
+    "amount": "30.9500",
+    "cost": "14.9000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "JRY-WM60",
+    "description": "BISLEY MOPS .60",
+    "amount": "4.9500",
+    "cost": "1.7800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "KG-10",
+    "description": "KG-10 DRI-LUBE",
+    "amount": "21.9500",
+    "cost": "8.5400",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "KG-11",
+    "description": "KG-11 MOLY GREASE",
+    "amount": "33.9500",
+    "cost": "13.2192",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "KGD612",
+    "description": "KG-12 BIG BORE COPPER SOLVENT 4OZ",
+    "amount": "19.9500",
+    "cost": "10.5950",
+    "qoh": "2",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "KG-3",
+    "description": "KG-3 SOLVENT & DEGREASER",
+    "amount": "19.9500",
+    "cost": "9.9111",
+    "qoh": "3",
+    "reorderPoint": "2",
+    "reorderLevel": "3"
+  },
+  {
+    "customSku": "KG-6",
+    "description": "KG-6 MOLY BORE PREP",
+    "amount": "17.9500",
+    "cost": "6.9792",
+    "qoh": "3",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "KG-7",
+    "description": "KG-7 MOLY ARM KOTE POWDER 2OZ",
+    "amount": "27.9500",
+    "cost": "11.8100",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "KOL-21510",
+    "description": "RHINO GRIP XL SINGLE",
+    "amount": "64.0000",
+    "cost": "32.3700",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LA-4PH5003",
+    "description": "LAPUA BRASS .223",
+    "amount": "84.9500",
+    "cost": "46.4713",
+    "qoh": "2",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "LAK-5603-L",
+    "description": "LAKSEN GATLIN SHOOTING VEST L",
+    "amount": "79.0000",
+    "cost": "27.6000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LE-90058",
+    "description": "LEE PERFECT POWDER MEASURE",
+    "amount": "27.9500",
+    "cost": "17.1900",
+    "qoh": "2",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "LE-90462",
+    "description": "LEE CASE LENGTH GAUGE .338",
+    "amount": "4.9500",
+    "cost": "3.0500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LE-90503",
+    "description": "LEE DIE SET RIFLE .22/250",
+    "amount": "37.9500",
+    "cost": "18.1100",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LE-90516",
+    "description": "LEE DIE SET CARBIDE .44 SPL",
+    "amount": "39.9500",
+    "cost": "23.5100",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "LE-90523",
+    "description": "LEE PRESS SHELL HOLDER 6",
+    "amount": "4.4900",
+    "cost": "1.7700",
+    "qoh": "3",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LE-90524",
+    "description": "LEE PRESS SHELL HOLDER 7",
+    "amount": "4.4900",
+    "cost": "1.9800",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LE-90526",
+    "description": "LEE PRESS SHELL HOLDER 9",
+    "amount": "4.4900",
+    "cost": "1.9800",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LE-90529",
+    "description": "LEE PRESS SHELL HOLDER 12",
+    "amount": "4.4900",
+    "cost": "1.8900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LE-90578",
+    "description": "LEE AUTO DISC POWDER MEASURE",
+    "amount": "29.9500",
+    "cost": "16.0700",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LE-90694",
+    "description": "LEE ULT DIE RIFLE SET .223",
+    "amount": "59.9500",
+    "cost": "35.7788",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "LE-90863",
+    "description": "LEE FACTORY CRIMP DIE 44",
+    "amount": "20.9500",
+    "cost": "11.6500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "LE-90932",
+    "description": "LEE TURRET PRESS 4 HOLE ALLY",
+    "amount": "114.9500",
+    "cost": "68.7500",
+    "qoh": "2",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "LED 0039",
+    "description": "INTELLIGENT CASE FOR P7",
+    "amount": "16.4900",
+    "cost": "6.8700",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LED 1200",
+    "description": "P7.2 + PRESS SWITCH &  MOUNT",
+    "amount": "76.9500",
+    "cost": "35.1416",
+    "qoh": "2",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "LED 5003",
+    "description": "E3 KEY RING TORCH",
+    "amount": "8.7900",
+    "cost": "3.6600",
+    "qoh": "3",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LED 8701",
+    "description": "F1 GIFT BOX",
+    "amount": "76.9500",
+    "cost": "32.0600",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LED 9407Q",
+    "description": "P7 QUATTRO TORCH IN GIFT BOX",
+    "amount": "87.9500",
+    "cost": "36.6500",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LED 9414",
+    "description": "P14.2 GIFT BOX",
+    "amount": "71.4900",
+    "cost": "29.7700",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LED 9417",
+    "description": "P17.2 GIFT BOX",
+    "amount": "87.9500",
+    "cost": "43.3100",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "LED 9804",
+    "description": "POLICE TAC TORCH BLACK G BOX",
+    "amount": "49.4900",
+    "cost": "26.7900",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LEICA-40534",
+    "description": "RANGEMASTER CRF1600-B (M/YDS)",
+    "amount": "670.0000",
+    "cost": "445.0000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LEIGHT-1013530",
+    "description": "H/LGHT IMPACT SPORT ELEC EAR",
+    "amount": "79.9500",
+    "cost": "59.9900",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LEU-174083",
+    "description": "LEUPOLD RINGS 30MM LOW",
+    "amount": "84.9500",
+    "cost": "42.3600",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "LEU172830",
+    "description": "LEUPOLD LTO THERM TRACKER",
+    "amount": "875.0000",
+    "cost": "545.0000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LEU-49853",
+    "description": "LEUPOLD QR RINGS 1\" LOW",
+    "amount": "89.9500",
+    "cost": "48.9600",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LEU-49856",
+    "description": "LEUPOLD QR RINGS 1\" MED",
+    "amount": "89.9500",
+    "cost": "48.9600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LEU-49858",
+    "description": "LEUPOLD QR RINGS 1\" HIGH",
+    "amount": "89.9500",
+    "cost": "48.9600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LEU-49956",
+    "description": "STEEL SCOPE RING 30 MED",
+    "amount": "44.9500",
+    "cost": "28.5696",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LEU-50016",
+    "description": "LEU STD 2-PIECE BASE REM 700",
+    "amount": "34.9500",
+    "cost": "17.8560",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LEU-174079",
+    "description": "LEUPOLD RINGS 1\" LOW",
+    "amount": "74.9500",
+    "cost": "37.5840",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LEU-174081",
+    "description": "LEUPOLD RINGS 1\" MED",
+    "amount": "74.9500",
+    "cost": "37.5800",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "LEU-174084",
+    "description": "LEUPOLD RINGS 30MM MED",
+    "amount": "84.9500",
+    "cost": "42.3600",
+    "qoh": "0",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "LEU-174085",
+    "description": "LEUPOLD RINGS 30MM HIGH",
+    "amount": "84.9500",
+    "cost": "42.3648",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "LEU-54447",
+    "description": "LEU STD 2-PIECEBASE TIKKA",
+    "amount": "34.9500",
+    "cost": "17.8560",
+    "qoh": "3",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LP-4PH6050",
+    "description": "LAPUA BRASS .260",
+    "amount": "99.9500",
+    "cost": "57.8100",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LP-4PH7217",
+    "description": "LAPUA BRASS .308",
+    "amount": "84.9500",
+    "cost": "43.1550",
+    "qoh": "0",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "LR3615",
+    "description": "LEDRAY F900 RED/WHITE/GREEN",
+    "amount": "199.9900",
+    "cost": "93.4950",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LSHOT3",
+    "description": "LEAD SHOT NO3",
+    "amount": "52.9500",
+    "cost": "22.7500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "LSHOT4",
+    "description": "LEAD SHOT NO4",
+    "amount": "52.9500",
+    "cost": "30.3100",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "LSHOT5",
+    "description": "LEAD SHOT NO5",
+    "amount": "52.9500",
+    "cost": "32.3400",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "LT110",
+    "description": "LEATHERMAN WINGMAN",
+    "amount": "69.9500",
+    "cost": "29.9800",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "LT650N/JP",
+    "description": "LEATHERMAN WAVE",
+    "amount": "129.9500",
+    "cost": "54.9500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LTF-RM1702EXP",
+    "description": "L'FORCE STRIKER170 VEH MOUNT",
+    "amount": "124.9500",
+    "cost": "74.6000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LY-7031298",
+    "description": "LYMAN DELUX HAMMER & PUNCH KIT",
+    "amount": "55.9500",
+    "cost": "32.6500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LY-7631290",
+    "description": "LYMAN UNIVERSAL DE - PRIMER",
+    "amount": "24.9500",
+    "cost": "14.6000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "M013703",
+    "description": "1/4 BONDED SEAL",
+    "amount": "1.5000",
+    "cost": "0.4200",
+    "qoh": "7",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "MEO-642",
+    "description": "ARTEMIS 2000 6X42  (4B)",
+    "amount": "425.0000",
+    "cost": "242.1000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "MHANDLE",
+    "description": "DIVE BOTTLE CARRY HANDLE",
+    "amount": "14.9500",
+    "cost": "7.9300",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "MILL-SR00002",
+    "description": "MILLET SCOPE RING 1\" MED",
+    "amount": "40.9500",
+    "cost": "16.3500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "MOMRSC",
+    "description": "MO MUSCADINE NEO R/SLING CAM",
+    "amount": "31.9500",
+    "cost": "7.6200",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "MT-P100-38/357",
+    "description": "MTM P' CASES SM (100) P38/357",
+    "amount": "3.9900",
+    "cost": "2.1188",
+    "qoh": "4",
+    "reorderPoint": "2",
+    "reorderLevel": "4"
+  },
+  {
+    "customSku": "N17636",
+    "description": "NORMA 308 SP ALASKA 180G",
+    "amount": "2.5500",
+    "cost": "1.4200",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "NDS105060NATO",
+    "description": "NIKKO SPORTSMAN 10-50X60 NATO",
+    "amount": "849.9500",
+    "cost": "529.9900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "NF5.52250MOAMD",
+    "description": "NIGHTFORCE 5.5-22X50 MOA MD",
+    "amount": "1599.0000",
+    "cost": "945.9600",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "NOSLER-16316",
+    "description": "NOSLER 22/.224\" 60GR P'TITION",
+    "amount": "42.9500",
+    "cost": "18.1300",
+    "qoh": "3",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "NOSLER-16318",
+    "description": "NOSLER .25 115GR P'TITION",
+    "amount": "53.9500",
+    "cost": "25.9100",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "NOSLER-16329",
+    "description": "NOSLER 30/.308\" 150GR P'TITION",
+    "amount": "59.9500",
+    "cost": "28.6300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "NOSLER-16330",
+    "description": "NOSLER 30/.308\" 165GR P'TITION",
+    "amount": "61.9500",
+    "cost": "32.8400",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "NOSLER-24080",
+    "description": "NOSLER 6mm/.243\" 80GR SPITZER",
+    "amount": "48.9500",
+    "cost": "25.5200",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "NOSLER-24090",
+    "description": "NOSLER 6mm/.243\" 90GR SPITZER",
+    "amount": "27.9500",
+    "cost": "14.7800",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "NOSLER-24095",
+    "description": "NOSLER 6mm/.243\" 95GR SPITZER",
+    "amount": "27.9500",
+    "cost": "14.7800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "NOSLER-30180",
+    "description": "NOSLER 30/.308\" 180GR SPITZER",
+    "amount": "37.9500",
+    "cost": "17.6500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "NOSLER-34992",
+    "description": "NOSLER 22/.224\" 60 GR SPITZER",
+    "amount": "40.9500",
+    "cost": "18.0700",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "NOSLER-35642",
+    "description": "NOSLER 6mm/.243 100GR P'TITION",
+    "amount": "53.9500",
+    "cost": "28.4200",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "NOSLER-39510",
+    "description": "NOSLER 22/.224\" 40GR SPITZER",
+    "amount": "39.9500",
+    "cost": "17.8400",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "NOSLER-39526",
+    "description": "NOSLER 22/.224\" 55 GR SPITZER",
+    "amount": "39.9500",
+    "cost": "20.9700",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "NOSLER-39532",
+    "description": "NOSLER 6mm/.243\" 70GR SPITZER",
+    "amount": "47.9500",
+    "cost": "25.1400",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "NOSLER-44750",
+    "description": "NOSLER 9.3 286GR P'TITION (50)",
+    "amount": "84.9500",
+    "cost": "46.7400",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "NOSLER-53170",
+    "description": "NOSLER 30/.308\" 150GR SPITZER",
+    "amount": "44.9500",
+    "cost": "25.0700",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "NOSLER-54825",
+    "description": "NOSLER 30/.308\" 180GR ACCUB'",
+    "amount": "54.9500",
+    "cost": "17.6500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "NPMX3950AO",
+    "description": "NIKKO PANAMAX 3-9X50 1/2MD",
+    "amount": "129.9500",
+    "cost": "62.2400",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "NPMX41250AO",
+    "description": "NIKKO PANAMAX 4-12X50 1/2MD",
+    "amount": "139.9500",
+    "cost": "79.9900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "NPMXI3950AO",
+    "description": "NIKKO PANAMAX 3-9X50 1/2MD IR",
+    "amount": "149.9500",
+    "cost": "73.8700",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "NPT41650IR",
+    "description": "NIKKO NIGHTEATER ILL 4-16x50",
+    "amount": "199.9500",
+    "cost": "122.3300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "OAK-09146-01",
+    "description": "OAKLEY SI BALLISTIC FRAME 3.0",
+    "amount": "119.9500",
+    "cost": "64.8100",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "OAK-53-087",
+    "description": "OAKLEY RADAR PRIZM KIT",
+    "amount": "249.9500",
+    "cost": "132.1200",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "OPTI-08",
+    "description": "OPTI 1\" 6x44 WA DUAL-X",
+    "amount": "158.0000",
+    "cost": "71.4000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "OPTI-18",
+    "description": "OPTI 30mm 6x44 WA DUAL-X",
+    "amount": "149.0000",
+    "cost": "56.1600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "OPTI-61",
+    "description": "OPTI 1\" 8 X 56 ILL",
+    "amount": "322.0000",
+    "cost": "152.8200",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "PBAM30",
+    "description": "UMAREX PRACTICE BALL .43 (500)",
+    "amount": "29.9500",
+    "cost": "14.3600",
+    "qoh": "4",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "PRO-BG4",
+    "description": "PRO SHOT BORE GUIDE 260-30",
+    "amount": "40.9500",
+    "cost": "24.4000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "2-0003",
+    "description": "REMI 700 RAIL SA 20MOA",
+    "amount": "69.9500",
+    "cost": "34.5000",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "QD SAD MO30",
+    "description": "BLASER QD SADDLE MOUNT 30MM",
+    "amount": "439.0000",
+    "cost": "267.0000",
+    "qoh": "4",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "RA2136724",
+    "description": "RWS .22 SUPER POINT 14.5gr",
+    "amount": "10.9900",
+    "cost": "6.1073",
+    "qoh": "24",
+    "reorderPoint": "5",
+    "reorderLevel": "15"
+  },
+  {
+    "customSku": "RA2317162",
+    "description": "RWS SUPER FIELD .177 4.51MM",
+    "amount": "8.2500",
+    "cost": "4.3846",
+    "qoh": "26",
+    "reorderPoint": "5",
+    "reorderLevel": "15"
+  },
+  {
+    "customSku": "RB7/R",
+    "description": "RED RUBBER CAT ELASTIC / M",
+    "amount": "4.9900",
+    "cost": "2.3200",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "RCF2118505",
+    "description": "RWS 7mm REM MAG 162G SP",
+    "amount": "2.7900",
+    "cost": "1.4700",
+    "qoh": "120",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "RD5",
+    "description": "SAFE 5 GUN SCOPED RIFLE",
+    "amount": "219.0000",
+    "cost": "123.5800",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "RED-67105",
+    "description": "REDFIELD SCOPE 3 - 9 X 50",
+    "amount": "295.0000",
+    "cost": "148.5000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "RL7+",
+    "description": "SAFE 7 GUN SCOPED RIFLE+T/LCK",
+    "amount": "359.0000",
+    "cost": "203.9400",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "ROL75004253",
+    "description": "ROSSI MODEL 67 BLUED 357",
+    "amount": "649.0000",
+    "cost": "435.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "RUAMER-RFSPL",
+    "description": "RUGER AMERICAN B/A S/C 22",
+    "amount": "449.0000",
+    "cost": "263.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "RV080101 L",
+    "description": "MENS ERGOLINE SHIRT LARGE",
+    "amount": "69.9500",
+    "cost": "32.7300",
+    "qoh": "2",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "RV080101 M",
+    "description": "MENS ERGOLINE SHIRT MED",
+    "amount": "69.9500",
+    "cost": "32.7300",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "RV080101 S",
+    "description": "MENS ERGOLINE SHIRT SMALL",
+    "amount": "69.9500",
+    "cost": "32.7300",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "RV080103 2XL",
+    "description": "ERGOLINE JACKET 2XL",
+    "amount": "189.9500",
+    "cost": "95.3000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "RV080103 L",
+    "description": "ERGOLINE JACKET LARGE",
+    "amount": "189.9500",
+    "cost": "91.1600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "RV080103 M",
+    "description": "ERGOLINE JACKET MEDIUM",
+    "amount": "189.9500",
+    "cost": "91.1600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "RV080103 XL",
+    "description": "ERGOLINE JACKET XL",
+    "amount": "189.9500",
+    "cost": "95.3000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "RV080104 2XL",
+    "description": "MENS ERGOLINE FLEECE 2XL",
+    "amount": "89.9500",
+    "cost": "43.0900",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "RV080104 L",
+    "description": "MENS ERGOLINE FLEECE LARGE",
+    "amount": "89.9500",
+    "cost": "41.0200",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "RV080104 M",
+    "description": "MENS ERGOLINE FLEECE MED",
+    "amount": "89.9500",
+    "cost": "41.0200",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "RV080104 XL",
+    "description": "MENS ERGOLINE FLEECE XL",
+    "amount": "89.9500",
+    "cost": "43.0900",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "RV080117 C46",
+    "description": "MENS ERGOLINE TROUSER 30\"",
+    "amount": "109.9500",
+    "cost": "51.7900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "RV080117 C48",
+    "description": "MENS ERGOLINE TROUSER 32\"",
+    "amount": "109.9500",
+    "cost": "51.7900",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "RV080117 C50",
+    "description": "MENS ERGOLINE TROUSER 34\"",
+    "amount": "109.9500",
+    "cost": "51.7900",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "RV080117 C52",
+    "description": "MENS ERGOLINE TROUSER 36\"",
+    "amount": "109.9500",
+    "cost": "51.7900",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "RV080117 C54",
+    "description": "MENS ERGOLINE TROUSER 38\"",
+    "amount": "109.9500",
+    "cost": "53.8600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "RV080117 C56",
+    "description": "MENS ERGOLINE TROUSER 40\"",
+    "amount": "109.9500",
+    "cost": "53.8600",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "RV080117 C58",
+    "description": "MENS ERGOLINE TROUSER 42\"",
+    "amount": "109.9500",
+    "cost": "53.8600",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "RV080120 35-38",
+    "description": "SHIELD SOCK SMALL",
+    "amount": "17.9500",
+    "cost": "8.2700",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "RV080120 39-42",
+    "description": "SHIELD SOCK MED",
+    "amount": "17.9500",
+    "cost": "8.2700",
+    "qoh": "2",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "RV080120 43-46",
+    "description": "SHIELD SOCK LARGE",
+    "amount": "17.9500",
+    "cost": "8.2700",
+    "qoh": "1",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "RV080120 47-49",
+    "description": "SHIELD SOCK EXTRA LARGE",
+    "amount": "17.9500",
+    "cost": "8.2700",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "RV080161 2XL",
+    "description": "MENS DESERT SHIRT 2XL",
+    "amount": "69.9500",
+    "cost": "35.6300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "RV080161 L",
+    "description": "MENS DESERT SHIRT LARGE",
+    "amount": "69.9500",
+    "cost": "32.7300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "RV080161 M",
+    "description": "MENS DESERT SHIRT MED",
+    "amount": "69.9500",
+    "cost": "32.7300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "RV080161 S",
+    "description": "MENS DESERT SHIRT SMALL",
+    "amount": "69.9500",
+    "cost": "32.7300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "RV080161 XL",
+    "description": "MENS DESERT SHIRT XL",
+    "amount": "69.9500",
+    "cost": "35.6300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "S&B-33892",
+    "description": "S & B .308 FMJ 147g",
+    "amount": "25.9500",
+    "cost": "12.2110",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "S&B-33902",
+    "description": "S & B .308 FMJ 180g",
+    "amount": "30.9500",
+    "cost": "17.2800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "S&B6X42",
+    "description": "S&B HUN SCOPE 6X42 30MM RET7",
+    "amount": "549.0000",
+    "cost": "396.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "S1200",
+    "description": "SIERRA .224 40G S'POINT",
+    "amount": "26.9500",
+    "cost": "12.1400",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "S1210",
+    "description": "SIERRA .224 45G S'POINT",
+    "amount": "26.9500",
+    "cost": "12.1400",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "S1300925",
+    "description": "OPTILOCK RING 1\" HIGH",
+    "amount": "94.9500",
+    "cost": "45.6000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "S1300928",
+    "description": "OPTILOCK RING 30mm EXTRA LOW",
+    "amount": "94.9500",
+    "cost": "53.2000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "S1300929",
+    "description": "OPTILOCK RING 30mm LOW",
+    "amount": "94.9500",
+    "cost": "53.2000",
+    "qoh": "4",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "S1300930",
+    "description": "OPTILOCK RING 30mm HIGH",
+    "amount": "94.9500",
+    "cost": "53.2000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "S1300964",
+    "description": "OPTILOCK RING 30mm MED",
+    "amount": "94.9500",
+    "cost": "53.2000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "S1345",
+    "description": "SIERRA .224 55G BLITZ",
+    "amount": "26.9500",
+    "cost": "12.2800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "S1380",
+    "description": "SIERRA .224 69G HPBT",
+    "amount": "31.9500",
+    "cost": "18.7598",
+    "qoh": "2",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "S1450",
+    "description": "SIERRA .224 50G BLITZKING",
+    "amount": "33.9500",
+    "cost": "17.3900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "S1505",
+    "description": "SIERRA .243 70G HPBT",
+    "amount": "35.9500",
+    "cost": "19.8000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "S1507",
+    "description": "SIERRA .243 70G BLITZKING",
+    "amount": "39.9500",
+    "cost": "19.7300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "S1570",
+    "description": "SIERRA .243 107G HPBT",
+    "amount": "43.9500",
+    "cost": "24.2000",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "S1630",
+    "description": "SIERRA .257 117G GAMEKING",
+    "amount": "39.9500",
+    "cost": "19.7300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "S1A067758",
+    "description": "OPTILOCK SAKO BASE BLUE 1 & 3",
+    "amount": "54.9500",
+    "cost": "29.4500",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "S1720",
+    "description": "SIERRA 6.5MM 120G SPITZER",
+    "amount": "40.9500",
+    "cost": "19.1800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "S2120",
+    "description": "SIERRA .308 125G SPITZER",
+    "amount": "40.9500",
+    "cost": "19.8000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "S2156",
+    "description": "SIERRA .308 155G NEW PALMA",
+    "amount": "51.9500",
+    "cost": "30.3035",
+    "qoh": "3",
+    "reorderPoint": "2",
+    "reorderLevel": "4"
+  },
+  {
+    "customSku": "S2275",
+    "description": "SIERRA .308 175G HPBT",
+    "amount": "51.9500",
+    "cost": "28.4000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "S2305",
+    "description": "SIERRA .303 125G SPITZER",
+    "amount": "42.4900",
+    "cost": "17.9400",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "S5940367",
+    "description": "SAKO FINNFIRE 9 ROUND MAG",
+    "amount": "55.0000",
+    "cost": "31.3500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SAK-P609422G",
+    "description": "SAKO 222 422G BT 50G",
+    "amount": "1.1000",
+    "cost": "0.7400",
+    "qoh": "0",
+    "reorderPoint": "20",
+    "reorderLevel": "40"
+  },
+  {
+    "customSku": "SAK-P615113E",
+    "description": "SAKO 243 113E SP 100G",
+    "amount": "1.5700",
+    "cost": "0.9150",
+    "qoh": "140",
+    "reorderPoint": "160",
+    "reorderLevel": "240"
+  },
+  {
+    "customSku": "SAK-P629029A",
+    "description": "SAKO 308 129A SP 123G",
+    "amount": "1.6200",
+    "cost": "0.9450",
+    "qoh": "80",
+    "reorderPoint": "40",
+    "reorderLevel": "80"
+  },
+  {
+    "customSku": "SAU100XT223",
+    "description": "SAUER 100 CLASSIC XT 223 SYN",
+    "amount": "899.0000",
+    "cost": "594.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "SAU101XT308TB",
+    "description": "SAUER 101 XT SYNTHETIC 308",
+    "amount": "1375.0000",
+    "cost": "970.0000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SAVA-22095",
+    "description": "SAVAGE ACCUSTALK 223 1:9 20\"",
+    "amount": "1009.0000",
+    "cost": "792.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SAVA-25785",
+    "description": "SAVAGE .22 T/HOLE LAM",
+    "amount": "565.0000",
+    "cost": "388.3800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SAVA-25821",
+    "description": "SAVAGE .22 T/HOLE LAM L/H 16",
+    "amount": "565.0000",
+    "cost": "390.6000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "SAVA-28702",
+    "description": "SAVAGE MK11 FV 22 AT SYN 16",
+    "amount": "320.0000",
+    "cost": "305.1000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SAVA-28765",
+    "description": "SAVAGE .22 T/HOLE LAM CAR",
+    "amount": "570.0000",
+    "cost": "397.8000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SAVA-41800",
+    "description": "SAVAGE EDGE PICATINNY RAIL",
+    "amount": "39.9500",
+    "cost": "19.8000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SAVA-96210",
+    "description": "SAVAGE 17HMR T/HOLE LAM L/H",
+    "amount": "585.0000",
+    "cost": "396.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SAVA-96877",
+    "description": "SAVAGE 17HMR T/HOLE CAR LAM",
+    "amount": "570.0000",
+    "cost": "358.4000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SAVA-96972SC",
+    "description": "SAVAGE B MAG TARGET 17WSM",
+    "amount": "759.0000",
+    "cost": "471.6000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SB2",
+    "description": "SAFE 2 GUN BREAKDOWN 2 LOCK",
+    "amount": "145.0000",
+    "cost": "80.3800",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SC2S",
+    "description": "SAFE AMMO CABINET 2 SHELVES",
+    "amount": "209.0000",
+    "cost": "117.2800",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SL5+",
+    "description": "SAFE 5 SHOTGUN + TOP LOCK",
+    "amount": "249.0000",
+    "cost": "138.8800",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "SL9+",
+    "description": "SAFE 9 SHOTGUN + TOP LOCK",
+    "amount": "359.0000",
+    "cost": "200.7500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SM13002",
+    "description": "LASER & REFLEX SIGHT WEAVER",
+    "amount": "99.0000",
+    "cost": "52.6500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SM13002DT",
+    "description": "LASER & REFLEX SIGHT",
+    "amount": "99.0000",
+    "cost": "52.6500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SM13005",
+    "description": "SIGHTMARK ULTRA SHOT REFLEX",
+    "amount": "99.9500",
+    "cost": "52.6500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SM13018MDD",
+    "description": "SIGHTMARK 10-40X56 ILL MD",
+    "amount": "349.0000",
+    "cost": "211.6100",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SM13019MDD",
+    "description": "SIGHTMARK 6-25X56 ILL MD 35MM",
+    "amount": "399.0000",
+    "cost": "227.8100",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SM39014 UNI",
+    "description": "LASER BORESIGHTER UNIVERSAL",
+    "amount": "61.9500",
+    "cost": "34.2800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SPHBBRSM",
+    "description": "HENRY BIG BOY SCOPE MOUNT",
+    "amount": "54.9500",
+    "cost": "30.7200",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "SPR-1029",
+    "description": "SPEER .224 50gr SPITZER SP",
+    "amount": "24.9500",
+    "cost": "14.1000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SPR-2040",
+    "description": "SPEER .308 168gr MATCH BT",
+    "amount": "50.9500",
+    "cost": "25.9000",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SPY-204-MF",
+    "description": "SPYDERCO SHARPENER",
+    "amount": "114.9500",
+    "cost": "33.9900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SPY-C79PSOR",
+    "description": "SPYDERCO ASSIST C'EDGE ORG",
+    "amount": "69.9500",
+    "cost": "26.7300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SSAGRMCXFDES177",
+    "description": "SIG SAUER MCX FDE .177 SCOPE",
+    "amount": "399.9500",
+    "cost": "209.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SSAGTTS",
+    "description": "SIG SAUER TEXAS STAR SPINNER",
+    "amount": "54.9500",
+    "cost": "41.3600",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "ST9+",
+    "description": "SAFE 9 SHOTGUN",
+    "amount": "259.0000",
+    "cost": "147.4300",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "STE-8763900204",
+    "description": "STEINER RANGER 4-16X56 4A-I",
+    "amount": "895.0000",
+    "cost": "514.9000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SWA-52556P1/8M",
+    "description": "X5 5-25X56 1/8MOA PLEX",
+    "amount": "2310.0000",
+    "cost": "1503.6800",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SWA-BINOSUSP",
+    "description": "BINO SUSPENDER PRO",
+    "amount": "49.9500",
+    "cost": "27.7900",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "SWA-CKIT",
+    "description": "SWAROVSKI CLEANING KIT",
+    "amount": "39.9500",
+    "cost": "20.4100",
+    "qoh": "3",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "SWA-CL8X30",
+    "description": "CL COMPANION 8 X 30 GREEN",
+    "amount": "770.0000",
+    "cost": "503.1000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "SWA-CLPOCK825GR",
+    "description": "CL POCKET 8 X 25 GREEN",
+    "amount": "540.0000",
+    "cost": "332.0100",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SWA-EL1042HD",
+    "description": "EL 10X42 HIGH DEF SWAROVISION",
+    "amount": "1540.0000",
+    "cost": "1042.0300",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "SWA-EL10X42R",
+    "description": "EL 10X42 RANGE",
+    "amount": "2440.0000",
+    "cost": "1572.5500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "SWA-EL8.542HD",
+    "description": "EL 8.5X42 HIGH DEF SWAROVISION",
+    "amount": "1900.0000",
+    "cost": "1170.2300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SWA-EL832",
+    "description": "EL 8X32",
+    "amount": "1495.0000",
+    "cost": "959.6300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SWALENS PRO56ZF",
+    "description": "SLP-0-56 SCOPE LENS PROTECTOR",
+    "amount": "79.9500",
+    "cost": "49.9645",
+    "qoh": "3",
+    "reorderPoint": "2",
+    "reorderLevel": "3"
+  },
+  {
+    "customSku": "SWALENS PROT 46",
+    "description": "SLP-0-46SCOPE LENS PROTECTOR",
+    "amount": "79.9500",
+    "cost": "48.9867",
+    "qoh": "3",
+    "reorderPoint": "2",
+    "reorderLevel": "4"
+  },
+  {
+    "customSku": "SWA-SLC8X56",
+    "description": "SLC 8X56",
+    "amount": "1565.0000",
+    "cost": "959.6300",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SWAZ62515564AI",
+    "description": "Z6I 2.5-15X56 ILL BT4A",
+    "amount": "1999.0000",
+    "cost": "1228.7433",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "SWAZ6318504AI",
+    "description": "Z6I 3-18X50 ILL BT 4A",
+    "amount": "1950.0000",
+    "cost": "1433.4800",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SWAZ6I212504A3",
+    "description": "Z6I 2-12X50 30MM 4A-300",
+    "amount": "1775.0000",
+    "cost": "1175.7400",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SWA-Z6I21250BT",
+    "description": "Z6 ILL 2-12X50 30MM BT 4A",
+    "amount": "1789.0000",
+    "cost": "1140.7500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SWA-Z8I1713424A",
+    "description": "Z8I 1.7-13.3X42 ILL 4A-I",
+    "amount": "2069.0000",
+    "cost": "1182.6000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SWA-Z8I216504AI",
+    "description": "Z8I 2-16X50P ILL 4A-I",
+    "amount": "2250.0000",
+    "cost": "1231.2000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SWAZ8I2318564AI",
+    "description": "Z8I 2.3-18X56P ILL 4A-I",
+    "amount": "2420.0000",
+    "cost": "1484.7450",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "T66-357",
+    "description": "TAURUS 66 357",
+    "amount": "695.0000",
+    "cost": "505.9750",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "TC INVEXT/09",
+    "description": "TEAGUE INVECTOR EXT FULL",
+    "amount": "36.9900",
+    "cost": "19.1200",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SKU-032",
+    "description": "TEALES PREMIER LOADERS BAG",
+    "amount": "189.9900",
+    "cost": "95.2500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "SKU-004",
+    "description": "TEALES PREMIER GUN SLIP",
+    "amount": "199.9900",
+    "cost": "90.5000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "TEC400BK",
+    "description": "PRINCETON HEAD TORCH",
+    "amount": "29.9500",
+    "cost": "15.0500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "TET-007-C",
+    "description": "TETRA ACTION BLASTER 18OZ",
+    "amount": "15.9500",
+    "cost": "7.5325",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "TET-202",
+    "description": "TETRA GUN LUBE SPRAY 8OZ",
+    "amount": "15.9500",
+    "cost": "8.2400",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "THR-BJBOOFI11",
+    "description": "FIELDMAN BOOTS SIZE 11",
+    "amount": "110.0000",
+    "cost": "46.9500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "THR-BJBOOFI9",
+    "description": "FIELDMAN BOOTS SIZE 9",
+    "amount": "110.0000",
+    "cost": "46.9500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "TITAN 10 RIF",
+    "description": "TITAN 10 RIFLE WITH TOPLOCK",
+    "amount": "599.0000",
+    "cost": "341.6800",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "TR1402",
+    "description": "TRACER SCOPE MTD VAR 140MM",
+    "amount": "49.9900",
+    "cost": "66.9500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "TR1405",
+    "description": "TRACER SPORT LIGHT 140MM",
+    "amount": "59.9900",
+    "cost": "38.9500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "TR1560",
+    "description": "TRACER SPORT LED 150 C'LESS",
+    "amount": "59.9900",
+    "cost": "32.4900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "TR1700",
+    "description": "TRACER SPORT LIGHT 170MM VAR",
+    "amount": "84.9900",
+    "cost": "54.9500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "TR2100",
+    "description": "TRACER SPORT LIGHT 210MM VP",
+    "amount": "99.9900",
+    "cost": "66.9500",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "TR2105",
+    "description": "TRACER SPORT LIGHT 210MM",
+    "amount": "84.9900",
+    "cost": "42.9900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "USA520-440",
+    "description": "BUFFALO BALL 440 (100)",
+    "amount": "21.9500",
+    "cost": "13.0900",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "USA520-695",
+    "description": "BUFFALO BALL 695 (100)",
+    "amount": "52.9500",
+    "cost": "32.9100",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "UT46",
+    "description": "UTILITY KNIFE",
+    "amount": "16.9500",
+    "cost": "6.6100",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "V NORD XL 40",
+    "description": "VIERZONORDXL WELLINGTN SIZE 40",
+    "amount": "164.9500",
+    "cost": "61.2000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "VAHUGGER310C",
+    "description": "HUGGER 310C GUN SLING BLACK",
+    "amount": "34.9500",
+    "cost": "17.3350",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "VI-3N38 500G",
+    "description": "VIHTAVUORI 3N38 500G",
+    "amount": "51.9500",
+    "cost": "28.5500",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "VIKRTFK-2",
+    "description": "HUNTER KIT 308/243/7-08/358",
+    "amount": "121.9500",
+    "cost": "67.2600",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "VI-N310 500G",
+    "description": "VIHTAVUORI N310 500G",
+    "amount": "51.9500",
+    "cost": "29.5284",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "VT-CAPMISC",
+    "description": "VORTEX BASEBALL CAP",
+    "amount": "19.9500",
+    "cost": "11.9800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "VT-CF2-31033",
+    "description": "VORTEX C'FIRE2 6-18X44 AO BDC",
+    "amount": "219.9500",
+    "cost": "133.6600",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "VT-CF2-31045",
+    "description": "VORTEX C'FIRE2 6-24X50 AO BDC",
+    "amount": "299.9500",
+    "cost": "182.2700",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "VT-CF2-31049",
+    "description": "VORTEX HOG HUNTER 3-12X56",
+    "amount": "309.9500",
+    "cost": "186.8200",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "VT-CM-202",
+    "description": "VORTEX CANTI 30MM 2\" OFFSET",
+    "amount": "109.9500",
+    "cost": "59.4900",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "VT-CM-203",
+    "description": "VORTEX CANTI 30MM 3\" OFFSET",
+    "amount": "109.9500",
+    "cost": "65.6100",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "VT-CM-530-20",
+    "description": "VORTEX CANTI 30MM EXT 20MOA",
+    "amount": "235.9500",
+    "cost": "148.1000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "VT-E-10",
+    "description": "VORTEX DEF SCOPE CAP-EYE",
+    "amount": "21.9500",
+    "cost": "10.7650",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "VT-MT-5100",
+    "description": "VORTEX RAZOR MOUNT 1911",
+    "amount": "22.9500",
+    "cost": "13.0100",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "VT-O-50",
+    "description": "VORTEX DEF SCOPE CAP-OB50",
+    "amount": "21.9500",
+    "cost": "10.9250",
+    "qoh": "3",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "VT-O-56",
+    "description": "VORTEX DEF SCOPE CAP-OB56",
+    "amount": "21.9500",
+    "cost": "10.7650",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "VT-S105",
+    "description": "VORTEX SOLO MONOCULAR 10X25",
+    "amount": "129.9500",
+    "cost": "31.2400",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "VT-S825",
+    "description": "VORTEX SOLO MONOCULAR 8X25",
+    "amount": "75.9500",
+    "cost": "28.6300",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "VT-SF-RG-501",
+    "description": "VORTEX STRIKEFIRE II R/G DOT",
+    "amount": "199.9500",
+    "cost": "119.8850",
+    "qoh": "2",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "VT-SF-XL",
+    "description": "VORTEX SCOPECOVER XL",
+    "amount": "25.9500",
+    "cost": "13.6833",
+    "qoh": "3",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "VT-SPC-AR1",
+    "description": "VORTEX SPARC AR RED DOT",
+    "amount": "199.9500",
+    "cost": "121.5100",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "VT-VHS-4307",
+    "description": "VORTEX VPR HST 4-16X50 BDC",
+    "amount": "599.9500",
+    "cost": "240.2400",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "VT-VHS-4309",
+    "description": "VORTEX VPR HST 4-16X44 VMR1",
+    "amount": "599.9500",
+    "cost": "246.3100",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "VT-VHS-4325",
+    "description": "VORTEX VPR HST 6-24X50 VMR1",
+    "amount": "699.9500",
+    "cost": "388.8500",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "VT-V-VRD-6",
+    "description": "VORTEX VIPER RED DOT 6MOA",
+    "amount": "265.9500",
+    "cost": "150.1500",
+    "qoh": "2",
+    "reorderPoint": "1",
+    "reorderLevel": "2"
+  },
+  {
+    "customSku": "WARSM20 22",
+    "description": "HK416 20 ROUND MAGAZINE",
+    "amount": "47.9500",
+    "cost": "27.6500",
+    "qoh": "-1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "WEA-48447",
+    "description": "WEAVER RAIL MARLIN SILVER",
+    "amount": "24.9500",
+    "cost": "2.8400",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "WEA-49309",
+    "description": "WEAVER STEEL RING 30MM HIGH",
+    "amount": "42.9500",
+    "cost": "23.4000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "WP23",
+    "description": "WHITBY POUCH BROWN 3.0",
+    "amount": "6.9500",
+    "cost": "2.0200",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "WPLPOWA22",
+    "description": "WEBLEY POWERPELL .22 14.3gr",
+    "amount": "13.9500",
+    "cost": "7.1900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "WPLVERM22",
+    "description": "WEBLEY VERMIPELL .22 14.3gr",
+    "amount": "12.9500",
+    "cost": "5.6900",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "WRA-66305K",
+    "description": "TORQUE DRIVER BIT T10 EACH",
+    "amount": "3.9500",
+    "cost": "1.8000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "WRA-66308L",
+    "description": "TORQUE DRIVER BIT T15 EACH",
+    "amount": "3.9500",
+    "cost": "1.8000",
+    "qoh": "4",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "WX-4006",
+    "description": "WX GUARD 3 LENSE",
+    "amount": "94.9500",
+    "cost": "41.0500",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "WX-CHTAL2",
+    "description": "WX TALON 3 LENSE",
+    "amount": "94.9500",
+    "cost": "47.9000",
+    "qoh": "2",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "Z250",
+    "description": "ZIPPO LIGHTER CHROME",
+    "amount": "22.9500",
+    "cost": "10.7700",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "Z254",
+    "description": "ZIPPO LIGHTER BRASS",
+    "amount": "25.9500",
+    "cost": "12.1400",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "ZOLI-ZG12295",
+    "description": "ZOLI GAME 12G 29.5\" MC",
+    "amount": "1849.0000",
+    "cost": "1376.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "11884",
+    "description": "CROSMAN TRIGGER LASER",
+    "amount": "84.9500",
+    "cost": "51.5100",
+    "qoh": "3",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "AM421",
+    "description": "WEBLEY MOSQUITO POWER.177",
+    "amount": "8.9500",
+    "cost": "2.3600",
+    "qoh": "16",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "AM537",
+    "description": "SCALEMEAD HUSTLER .177 8.2gr",
+    "amount": "6.9900",
+    "cost": "3.8500",
+    "qoh": "13",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "S16BS",
+    "description": "LOGUN S16 BOTTLE SEALS",
+    "amount": "1.0000",
+    "cost": "0.4200",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "UTAS-XTR12-BR",
+    "description": "UTAS XTR12 S/A 12G BRONZE",
+    "amount": "945.0000",
+    "cost": "620.8300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "UTAS-XTR12-FDE",
+    "description": "UTAS XTR12 S/A 12G FDE",
+    "amount": "945.0000",
+    "cost": "620.8300",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "UTAS-XTR12-ODG",
+    "description": "UTAS XTR12 S/A 12G GREEN",
+    "amount": "945.0000",
+    "cost": "620.8300",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "ZSV10",
+    "description": "WEBLEY EXOCET PISTON SEAL",
+    "amount": "7.2500",
+    "cost": "3.2300",
+    "qoh": "3",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "AIM40DRAGBAGTAN",
+    "description": "AIM 40 TACTICAL DRAGBAG TAN",
+    "amount": "149.9500",
+    "cost": "85.4000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "AIM45DRAGBAGBK",
+    "description": "AIM 45 TACTICAL DRAGBAG BLACK",
+    "amount": "159.9500",
+    "cost": "87.9000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  },
+  {
+    "customSku": "50223",
+    "description": "BERETTA 12G PIG1 SP 30 M/C ADJ",
+    "amount": "1885.0000",
+    "cost": "1335.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "50223L",
+    "description": "BERETTA 12G PIG1 SP 30 M/C ADJ LH",
+    "amount": "1885.0000",
+    "cost": "1335.0000",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "50578B",
+    "description": "BERETTA 12G 692 SP BLK 30 M/C",
+    "amount": "3599.0000",
+    "cost": "2575.0000",
+    "qoh": "1",
+    "reorderPoint": "0",
+    "reorderLevel": "0"
+  },
+  {
+    "customSku": "LT875BM",
+    "description": "LEATHERMAN OHT BLK MOLLE",
+    "amount": "124.9500",
+    "cost": "62.4800",
+    "qoh": "0",
+    "reorderPoint": "0",
+    "reorderLevel": "1"
+  }
+]
