@@ -36,7 +36,7 @@ const getCategories = async () => {
 
         if (i + 1 === queries) {
           fs.writeFile(
-            "../data/json/categories.json",
+            "../data/json/lightspeed/categories.json",
             JSON.stringify(categories),
             (err) =>
               console.error(

@@ -75,7 +75,7 @@ const updateItems = async () => {
         console.log('Original Request: ', originalRequest)
         return axios(originalRequest);
       }  else if (error.response.status != 401) {
-        fs.appendFile('../data/errors/stockUpdateErrors.json', JSON.stringify(error), (error) => console.error(error));
+        fs.appendFile('../data/errors/lightspeed/stockUpdateErrors.json', JSON.stringify(error), (error) => console.error(error));
         return error
       }
       return Promise.reject(error);
@@ -94,7 +94,7 @@ const updateItems = async () => {
     } catch (error) {
       console.log(error)
       if (error.response.status != 401) {
-        fs.appendFile('../data/errors/stockUpdateErrors.json', JSON.stringify(error), (error) => console.error(error));
+        fs.appendFile('../data/errors/lightspeed/stockUpdateErrors.json', JSON.stringify(error), (error) => console.error(error));
         console.error('We have a problem: ', error)
         return error
       }

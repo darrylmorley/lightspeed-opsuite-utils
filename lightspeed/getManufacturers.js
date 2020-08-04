@@ -36,7 +36,7 @@ const getManufacturers = async () => {
 
         if (i + 1 === queries) {
           fs.writeFile(
-            "../data/json/manufacturers.json",
+            "../data/json/lightspeed/manufacturers.json",
             JSON.stringify(manufacturers),
             (err) =>
               console.error(

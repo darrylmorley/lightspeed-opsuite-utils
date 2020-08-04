@@ -47,7 +47,7 @@ const postTransactions = async () => {
           originalRequest.headers = refreshedHeader
           return axios(originalRequest);
         } else if (err.response.status != 401) {
-          fs.appendFile('../data/errors/postTransactionErrors.json', JSON.stringify(err), (err) => console.error(err));
+          fs.appendFile('../data/errors/lightspeed/postTransactionErrors.json', JSON.stringify(err), (err) => console.error(err));
           return err
         }
         return Promise.reject(err);
@@ -66,7 +66,7 @@ const postTransactions = async () => {
           );
         } catch (err) {
           if (err.response.status != 401) {
-            fs.appendFile('../data/errors/postTransactionErrors.json', JSON.stringify(err), (err) => console.error(err));
+            fs.appendFile('../data/errors/lightspeed/postTransactionErrors.json', JSON.stringify(err), (err) => console.error(err));
             return err
           }
           console.error(err.data, options);

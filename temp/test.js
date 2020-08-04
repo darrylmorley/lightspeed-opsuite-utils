@@ -1,19 +1,7 @@
-const opsuiteItemMasters = require('../data/json/opsuiteItemMasters.json')
-const opsuiteItemsAtLocation = require('../data/json/opsuiteItemsAtLocation.json')
-const opsuiteItemsMerged = require('../data/json/opsuiteItemsMerged.json')
-const lsInventory = require('../data/json/lsInventory.json')
-const opsuiteLsMerged = require('../data/json/opsuiteLsMerged.json')
+const lightspeed = require('../data/json/lightspeed/lsInventory.json')
+const opsuiteLocation = require('../data/json/opsuite/itemsAtLocation.json')
+const opsuiteMerged = require('../data/json/opsuite/opsuiteItemsMerged.json')
 
-console.log(opsuiteItemMasters.length)
-console.log(opsuiteItemsAtLocation.length)
-console.log(opsuiteItemsMerged.length)
-console.log(lsInventory.length)
-console.log(opsuiteLsMerged.length)
-
-opsuiteItemsAtLocation.forEach((item) => {
-  if (item.customSku === null) {
-    console.log(item)
-  }
+const opsuiteItems = opsuiteMerged.map((item) => {
+  console.log(item.customSku)
 })
-
-

@@ -76,7 +76,7 @@ const getOpsuiteItemMasters = () => {
             return item.active = true;
           })
           
-          fs.writeFile('../data/json/opsuiteItemMasters.json', JSON.stringify(products), (err) => {
+          fs.writeFile('../data/json/opsuite/itemMasters.json', JSON.stringify(products), (err) => {
             if (err) console.error(chalk.bgRed.black(err));
           })
       

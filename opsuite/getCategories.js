@@ -46,13 +46,13 @@ const get = proxy.send(
   
   async function(response, err) {
     if (response) {
-      fs.writeFile('../data/xml/opsuiteCategoryNames.xml', response, (err) => {
+      fs.writeFile('../data/xml/opsuiteCategories.xml', response, (err) => {
         if (err) console.error(err)
       })
 
       const result = await transform(response, template)
 
-      fs.writeFile('../data/json/opsuiteCategories.json', JSON.stringify(result), (err) => {console.error(err)})
+      fs.writeFile('../data/json/opsuite/categories.json', JSON.stringify(result), (err) => {console.error(err)})
 
       resolve(response)
     }

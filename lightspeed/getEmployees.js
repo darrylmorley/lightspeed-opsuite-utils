@@ -22,7 +22,7 @@ const getEmployees = async () => {
     try {
       const res = await axios(options);
       const data = JSON.stringify(res.data);
-      fs.writeFile("../data/json/Employees.json", data, (err) => {
+      fs.writeFile("../data/json/lightspeed/Employees.json", data, (err) => {
         console.log(err);
       });
       return data;

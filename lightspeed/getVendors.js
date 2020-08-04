@@ -36,7 +36,7 @@ const getVendors = async () => {
 
         if (i + 1 === queries) {
           fs.writeFile(
-            "../data/json/vendors.json",
+            "../data/json/lightspeed/vendors.json",
             JSON.stringify(vendors),
             (err) =>
               console.error(

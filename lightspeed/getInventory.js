@@ -45,7 +45,7 @@ const getInventory = async () => {
       return Promise.reject(error);
     });
 
-  const loadRelations = ["ItemShops", "Images", "CustomFieldValues"];
+  const loadRelations = ["ItemShops", "Images", "CustomFieldValues", "TagRelations", "TagRelations.Tag"];
   let fullInventory = [];
 
   for (let i = 0; i < queries; i++) {
@@ -68,7 +68,7 @@ const getInventory = async () => {
         if (i + 1 === queries) {
           console.log("Writing results to file lsInventory.json in data/json");
           fs.writeFile(
-            "../data/json/lsInventory.json",
+            "../data/json/lightspeed/lsInventory.json",
             JSON.stringify(fullInventory),
             (err) =>
               console.error(

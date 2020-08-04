@@ -92,7 +92,7 @@ const getOpsuiteItemMasters = () => {
           const converted = JSON.stringify(result);
           
           fs.writeFile(
-            "../data/json/opsuiteTransactions-2020.json", converted, (err) => {
+            "../data/json/opsuite/transactions-2020.json", converted, (err) => {
               if (err) throw err;
             }
           );

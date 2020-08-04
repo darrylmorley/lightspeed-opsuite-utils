@@ -71,13 +71,14 @@ const getItemsAtLocation = () => {
               customSku: item.customSku.toUpperCase(),
               description: item.description,
               amount: item.price,
+              cost: item.defaultCost,
               qoh: item.quantity,
               reorderPoint: item.minReorderPoint,
               reorderLevel: item.maxRestockLevel
             };
           });
 
-          fs.writeFile("../data/json/opsuiteItemsAtLocation.json", JSON.stringify(filteredProducts), (err) => {
+          fs.writeFile("../data/json/opsuite/itemsAtLocation.json", JSON.stringify(filteredProducts), (err) => {
               if (err) console.error(err);
             }
           );
