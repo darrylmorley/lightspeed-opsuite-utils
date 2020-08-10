@@ -5,7 +5,7 @@ const {
   getAccountID,
 } = require("./base/getRequired");
 const lightspeedApi = "https://api.lightspeedapp.com/API";
-const items = require('../data/json/lightspeed/itemsToPost.json')
+const items = require('../data/json/lightspeed/badSkus.json')
 const axios = require("axios");
 const fs = require("fs");
 
