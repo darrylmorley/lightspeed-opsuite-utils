@@ -3,10 +3,7 @@
 const { refreshToken, getAccountID } = require("./base/getRequired");
 const lightspeedApi = "https://api.lightspeedapp.com/API";
 const axios = require("axios");
-const axiosRetry = require("axios-retry");
 const fs = require("fs");
-
-axiosRetry(axios, { retries: 3 });
 
 const getVendors = async () => {
   const token = await refreshToken();

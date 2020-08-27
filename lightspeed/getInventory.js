@@ -7,7 +7,6 @@ const {
 } = require("./base/getRequired");
 const lightspeedApi = "https://api.lightspeedapp.com/API";
 const axios = require("axios");
-const createAuthRefreshInterceptor = require('axios-auth-refresh');
 const fs = require("fs");
 
 const getInventory = async () => {

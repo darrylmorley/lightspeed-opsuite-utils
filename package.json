@@ -2,6 +2,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "camaro": "^6.0.3",
+    "chalk": "^4.1.0",
     "dotenv": "^8.2.0",
     "wcf.js": "^0.0.6"
   }
