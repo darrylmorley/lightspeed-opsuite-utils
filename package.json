@@ -1,11 +1,7 @@
 {
   "dependencies": {
     "axios": "^0.19.2",
-    "axios-auth-refresh": "^2.2.8",
-    "axios-retry": "^3.1.8",
     "camaro": "^6.0.3",
-    "chalk": "^4.1.0",
-    "csvtojson": "^2.0.10",
     "dotenv": "^8.2.0",
     "wcf.js": "^0.0.6"
   }
