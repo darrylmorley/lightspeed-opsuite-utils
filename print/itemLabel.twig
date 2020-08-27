@@ -1,6 +1,10 @@
 {% extends parameters.print ? "printbase" : "base" %}
 {% block style %}
 <link href="/assets/css/labels.css" media="all" rel="stylesheet" type="text/css" />
+<style>
+  .price {font-size: 9px; margin-left: 6px;}
+  p .description {font-size: 9px;}
+</style>
 {% endblock %}
 {% block content %}
 	<div class="labels">
@@ -8,11 +12,11 @@
 		{% for copy in 1..Label.copies %}
 			<div class="label size{{Label.MetaData.size}}{%if Label.MetaData.title == 'none'%} notitle{%endif%}">
 				<article>
-					<h1>{{ Label.MetaData.title }}</h1>
+					<h1>SKU {{ Label.Item.customSku }}</h1>
 					<div class="text-wrapper">
 						{% if Label.MetaData.price > 0 %}
 						<div class="price">
-							<p class="saleprice">{{ Label.MetaData.price|money|htmlparsemoney|raw }}</p>
+							<p class="saleprice">£{{ Label.MetaData.price }}</p>
 							{% if Label.MetaData.msrp %}
 							<p class="msrp">MSRP {{ Label.MetaData.msrp|money }}</p>
 							{% endif %}
@@ -22,16 +26,12 @@
 					</div>
 				</article>
 				<footer class="barcode">
-          {% if (Label.Item.ean) %}
-					  <img class="ean8" src="/barcode.php?type=label&amp;number={{ Label.Item.ean }}&amp;ean8=1&amp;noframe=1encoding=code128">
-    ...   {% else %}
-            <img class="ean8" src="/barcode.php?type=label&amp;number={{ Label.Item.systemSku }}&amp;ean8=1&amp;noframe=1">
+          {% if Label.Item.ean is empty %}
+        <img class="ean8" src="/barcode.php?type=label&amp;number={{ Label.Item.systemSku }}&amp;ean8=1&amp;noframe=1&amp;encoding=code128">
+					  <img class="ean" src="/barcode.php?type=label&amp;number={{ Label.Item.systemSku }}&amp;noframe=1&amp;encoding=code128">
           {% endif %}
-          {% if (Label.Item.ean) %}
-					  <img class="ean" src="/barcode.php?type=label&amp;number={{ Label.Item.ean}}&amp;noframe=1&amp;encoding=code128">
-    ...   {% else %}
-            <img class="ean" src="/barcode.php?type=label&amp;number={{ Label.Item.systemSku }}&amp;noframe=1">
-          {% endif %}			
+					<img class="ean8" src="/barcode.php?type=label&amp;number={{ Label.Item.ean }}&amp;ean8=1&amp;noframe=1encoding=code128">
+					<img class="ean" src="/barcode.php?type=label&amp;number={{ Label.Item.ean}}&amp;noframe=1&amp;encoding=code128">
 				</footer>
 			</div>
 		{% endfor %}
